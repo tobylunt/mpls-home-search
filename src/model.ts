@@ -7,11 +7,11 @@ export type State = { version: 1; reviews: Record<string, Review>; criteria: Cri
 export const sourceChat = 'https://chatgpt.com/share/6ae3ac2e-a27c-83ea-837d-3a71ec763fbf';
 export const properties: Property[] = seeds;
 export const initial: State = {version:1, budget:1000000, reviews:{hobe:{favorite:true}}, criteria:[
- {id:'quiet',name:'A genuinely quiet street',tier:'Must-have',detail:'No busy arterial. Visit at rush hour and in the evening; listen for traffic and nearby activity.',weight:1},
- {id:'architecture',name:'Architecture with a point of view',tier:'Must-have',detail:'Distinctive spaces, form or craftsmanship. Hobe Lane is the benchmark. A famous architect is optional.',weight:1},
- {id:'materials',name:'Warmth & original character',tier:'Nice-to-have',detail:'Natural materials, original details and thoughtful updates. Avoid generic renovations that erase the house.',weight:3},
- {id:'setting',name:'A relationship to its setting',tier:'Nice-to-have',detail:'Privacy, mature trees and an intentional connection between indoor and outdoor spaces.',weight:3},
- {id:'southwest',name:'Southwest & the city lakes',tier:'Nice-to-have',detail:'Lake Harriet and southwest Minneapolis are favorites. The wider metro, including White Bear Lake, is realistic.',weight:2}
+ {id:'quiet',name:'Quiet street',tier:'Must-have',detail:'No busy arterial. Visit at rush hour and in the evening; listen for traffic and nearby activity.',weight:1},
+ {id:'architecture',name:'Architectural interest',tier:'Must-have',detail:'Distinctive spaces, form or craftsmanship. Hobe Lane is the benchmark. A famous architect is optional.',weight:1},
+ {id:'materials',name:'Original character',tier:'Nice-to-have',detail:'Natural materials, original details and thoughtful updates. Avoid generic renovations that erase the house.',weight:3},
+ {id:'setting',name:'Privacy & outdoor space',tier:'Nice-to-have',detail:'Privacy, mature trees and an intentional connection between indoor and outdoor spaces.',weight:3},
+ {id:'southwest',name:'Southwest Minneapolis',tier:'Nice-to-have',detail:'Lake Harriet and southwest Minneapolis are favorites. The wider metro, including White Bear Lake, is realistic.',weight:2}
 ]};
 export function assess(p: Property, review: Review = {}, criteria = initial.criteria, budget = initial.budget) {
  const must=criteria.filter(c=>c.tier==='Must-have');
@@ -38,7 +38,8 @@ export function parseState(value: unknown): State {
   if(!properties.some(p=>p.id===id) || !r || typeof r!=='object' || (r.notes!==undefined && typeof r.notes!=='string') || (r.favorite!==undefined && typeof r.favorite!=='boolean')) throw Error('Invalid property notes in backup.');
   if(r.checks && (typeof r.checks!=='object' || Array.isArray(r.checks) || Object.entries(r.checks).some(([key,v])=>!ids.has(key)||!['yes','no','unknown'].includes(v)))) throw Error('Invalid assessments in backup.');
  }
- return s;
+ const names: Record<string,string> = {"A genuinely quiet street": "Quiet street", "Architecture with a point of view": "Architectural interest", "Warmth & original character": "Original character", "A relationship to its setting": "Privacy & outdoor space", "Southwest & the city lakes": "Southwest Minneapolis"};
+ return {...s,criteria:s.criteria.map(c=>({...c,name:names[c.name]??c.name}))};
 }
 export function download(filename: string, body: string, type='application/json') {
  const url=URL.createObjectURL(new Blob([body],{type}));const a=document.createElement('a');a.href=url;a.download=filename;a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
