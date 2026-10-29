@@ -1,11 +1,12 @@
 import seeds from './properties.json';
 export type Verdict = 'unknown' | 'yes' | 'no';
 export type Criterion = { id: string; name: string; tier: 'Must-have' | 'Nice-to-have'; detail: string; weight: number };
-export type Property = { id:string; address:string; city:string; price:number|null; status:string; style:string; reaction:string; description:string; context:string; url:string; year:number|null; sqft:number|null; lat:number|null; lng:number|null; locationSource:string|null; matchedAddress?:string };
+export type Property = { id:string; address:string; city:string; price:number|null; status:string; style:string; reaction:string; description:string; context:string; url:string; year:number|null; sqft:number|null; lat:number|null; lng:number|null; locationSource:string|null; matchedAddress?:string; photo?: { src:string; sourceUrl:string; credit:string }; verifiedOn?:string };
 export type Review = { favorite?: boolean; notes?: string; checks?: Record<string,Verdict> };
 export type State = { version: 1; reviews: Record<string, Review>; criteria: Criterion[]; budget: number };
 export const sourceChat = 'https://chatgpt.com/share/6ae3ac2e-a27c-83ea-837d-3a71ec763fbf';
 export const properties: Property[] = seeds;
+const knownPropertyIds = new Set(["hobe", "decatur", "luverne", "glenhurst", "shore", "humboldt", "woodlawn", "turnpike", "keston", "virginia", "cedar", "benhill", "ewing", "summit", "croix", "goodrich", "knox", "kyle", "orchard", "normandale", "bridgeview", "knoll", "colfax", "moritz", "minnetonka", "linwood"]);
 export const initial: State = {version:1, budget:1000000, reviews:{hobe:{favorite:true}}, criteria:[
  {id:'quiet',name:'Quiet street',tier:'Must-have',detail:'No busy arterial. Visit at rush hour and in the evening; listen for traffic and nearby activity.',weight:1},
  {id:'architecture',name:'Architectural interest',tier:'Must-have',detail:'Distinctive spaces, form or craftsmanship. Hobe Lane is the benchmark. A famous architect is optional.',weight:1},
@@ -35,7 +36,7 @@ export function parseState(value: unknown): State {
   ids.add(c.id);
  }
  for(const [id,r] of Object.entries(s.reviews)) {
-  if(!properties.some(p=>p.id===id) || !r || typeof r!=='object' || (r.notes!==undefined && typeof r.notes!=='string') || (r.favorite!==undefined && typeof r.favorite!=='boolean')) throw Error('Invalid property notes in backup.');
+  if(!knownPropertyIds.has(id) || !r || typeof r!=='object' || (r.notes!==undefined && typeof r.notes!=='string') || (r.favorite!==undefined && typeof r.favorite!=='boolean')) throw Error('Invalid property notes in backup.');
   if(r.checks && (typeof r.checks!=='object' || Array.isArray(r.checks) || Object.entries(r.checks).some(([key,v])=>!ids.has(key)||!['yes','no','unknown'].includes(v)))) throw Error('Invalid assessments in backup.');
  }
  const names: Record<string,string> = {"A genuinely quiet street": "Quiet street", "Architecture with a point of view": "Architectural interest", "Warmth & original character": "Original character", "A relationship to its setting": "Privacy & outdoor space", "Southwest & the city lakes": "Southwest Minneapolis"};

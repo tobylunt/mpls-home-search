@@ -4,18 +4,24 @@
     "address": "5811 Hobe Lane",
     "city": "White Bear Township",
     "price": 849900,
-    "status": "Lead",
+    "status": "Active",
     "style": "Mid-century",
     "reaction": "Benchmark",
-    "description": "Exposed beams on a wooded acre.",
+    "description": "Brick and wood mid-century home on a wooded acre.",
     "context": "\u201cHobe lane is DOPE. I love it.\u201d",
-    "url": "https://www.realtor.com/realestateandhomes-detail/5811-Hobe-Ln_White-Bear-Lake_MN_55110_M71205-75139",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
     "year": 1969,
     "sqft": 2281,
     "lat": 45.118597812334,
     "lng": -93.023795666727,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "5811 HOBE LN, WHITE BEAR TOWNSHIP, MN, 55110"
+    "matchedAddress": "5811 HOBE LN, WHITE BEAR TOWNSHIP, MN, 55110",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/hobe.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+      "credit": "Lakes Area Realty G.V. / NorthstarMLS via Pederson Realty"
+    }
   },
   {
     "id": "decatur",
@@ -27,13 +33,19 @@
     "reaction": "Loved",
     "description": "Wood-clad ceilings and expansive glass oriented toward Minnehaha Creek.",
     "context": "Included in the sold group you called \u201cgreat.\u201d",
-    "url": "https://www.realtor.com/realestateandhomes-detail/3324-Decatur-Ln_Saint-Louis-Park_MN_55426_M80012-07330",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-louis-park/3324-decatur-lane/mls-7084698",
     "year": 1962,
     "sqft": 2752,
     "lat": 44.944192046199,
     "lng": -93.394115978616,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "3324 DECATUR LN, SAINT LOUIS PARK, MN, 55426"
+    "matchedAddress": "3324 DECATUR LN, SAINT LOUIS PARK, MN, 55426",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/decatur.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-louis-park/3324-decatur-lane/mls-7084698",
+      "credit": "Edina Realty, Inc. / NorthstarMLS via Pederson Realty"
+    }
   },
   {
     "id": "luverne",
@@ -45,13 +57,19 @@
     "reaction": "Loved",
     "description": "Arches, a tile roof and a sunken living room with timber-beamed ceilings.",
     "context": "Included in the sold group you called \u201cgreat.\u201d",
-    "url": "https://www.realtor.com/realestateandhomes-detail/57-Luverne-Ave_Minneapolis_MN_55419_M75027-75869",
-    "year": null,
-    "sqft": null,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/57-luverne-avenue/mls-7048505",
+    "year": 1935,
+    "sqft": 1986,
     "lat": 44.909220533245,
     "lng": -93.276353930704,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "57 LUVERNE AVE, MINNEAPOLIS, MN, 55419"
+    "matchedAddress": "57 LUVERNE AVE, MINNEAPOLIS, MN, 55419",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/luverne.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/57-luverne-avenue/mls-7048505",
+      "credit": "Keller Williams Realty Integrity Lakes / NorthstarMLS via Pederson Realty"
+    }
   },
   {
     "id": "glenhurst",
@@ -61,15 +79,21 @@
     "status": "Sold reference",
     "style": "Mid-century",
     "reaction": "Loved",
-    "description": "Warm wood paneling and original detailing; attributed to Elizabeth Close in the source chat.",
+    "description": "Wood siding, original paneling and broad windows; designed by Elizabeth Close.",
     "context": "Included in the sold group you called \u201cgreat.\u201d",
-    "url": "https://www.soldinmn.com/listing-detail/1177909724/2700-Glenhurst-AVE-Saint-Louis-Park-MN",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-louis-park/2700-glenhurst-avenue/mls-7004907",
     "year": 1950,
     "sqft": 3207,
     "lat": 44.953623512954,
     "lng": -93.329686585351,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "2700 GLENHURST AVE S, SAINT LOUIS PARK, MN, 55416"
+    "matchedAddress": "2700 GLENHURST AVE S, SAINT LOUIS PARK, MN, 55416",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/glenhurst.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-louis-park/2700-glenhurst-avenue/mls-7004907",
+      "credit": "Edina Realty, Inc. / NorthstarMLS via Pederson Realty"
+    }
   },
   {
     "id": "shore",
@@ -81,67 +105,67 @@
     "reaction": "Explore",
     "description": "Curved walls, glass-block windows and a spiral staircase near Lake Phalen.",
     "context": "A later suggestion; your reaction is not yet recorded.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/1800-E-Shore-Dr_Maplewood_MN_55109_M89136-06367",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/maplewood/1800-e-shore-drive/mls-7024001",
     "year": 1947,
-    "sqft": null,
+    "sqft": 1946,
     "lat": 44.99519127211,
     "lng": -93.05482359256,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "1800 E SHORE DR, MAPLEWOOD, MN, 55109"
+    "matchedAddress": "1800 E SHORE DR, MAPLEWOOD, MN, 55109",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/shore.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/maplewood/1800-e-shore-drive/mls-7024001",
+      "credit": "Anderson Realty / NorthstarMLS via Pederson Realty"
+    }
   },
   {
     "id": "humboldt",
     "address": "1717 Humboldt Avenue S",
     "city": "Minneapolis",
-    "price": 899000,
-    "status": "Lead",
+    "price": 875000,
+    "status": "Sold reference",
     "style": "Sculptural modern",
     "reaction": "Explore",
     "description": "Cantilevered forms, walls of glass and a sculptural staircase.",
     "context": "From the first batch; verify listing details and street noise.",
     "url": "https://www.architectural-lifestyles.com/about-1-1-4-1",
     "year": 1975,
-    "sqft": null,
+    "sqft": 2643,
     "lat": 44.967252014612,
     "lng": -93.298091041886,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "1717 HUMBOLDT AVE S, MINNEAPOLIS, MN, 55403"
+    "matchedAddress": "1717 HUMBOLDT AVE S, MINNEAPOLIS, MN, 55403",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/humboldt.jpg",
+      "sourceUrl": "https://www.architectural-lifestyles.com/about-1-1-4-1",
+      "credit": "Scott Acker / Coldwell Banker Realty, Architectural Lifestyles"
+    }
   },
   {
     "id": "woodlawn",
     "address": "265 Woodlawn Avenue",
     "city": "Saint Paul",
-    "price": 985000,
-    "status": "Lead",
+    "price": 1010000,
+    "status": "Sold reference",
     "style": "1930s experimental",
     "reaction": "Explore",
     "description": "Unusual interwar architecture near the Mississippi River.",
     "context": "World\u2019s Fair connection is a claim to verify.",
-    "url": "https://www.exprealty.com/saint-paul-mn-real-estate/cables-stonebridge/265-woodlawn-ave",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/265-woodlawn-avenue/mls-7054321",
     "year": 1935,
-    "sqft": null,
+    "sqft": 2900,
     "lat": 44.933516848462,
     "lng": -93.196198419409,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "265 WOODLAWN AVE, SAINT PAUL, MN, 55105"
-  },
-  {
-    "id": "turnpike",
-    "address": "549 Turnpike Road",
-    "city": "Golden Valley",
-    "price": 890000,
-    "status": "Lead",
-    "style": "Contemporary",
-    "reaction": "Explore",
-    "description": "Angular geometry, expansive glazing and secluded gardens.",
-    "context": "From the first batch. Inspect the actual listing photography.",
-    "url": "https://www.redfin.com/MN/Golden-Valley/549-Turnpike-Rd-55416/home/50050751",
-    "year": null,
-    "sqft": 2976,
-    "lat": 44.973589098861,
-    "lng": -93.345816657957,
-    "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "549 TURNPIKE RD, GOLDEN VALLEY, MN, 55416"
+    "matchedAddress": "265 WOODLAWN AVE, SAINT PAUL, MN, 55105",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/woodlawn.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/265-woodlawn-avenue/mls-7054321",
+      "credit": "Keller Williams Realty Integrity Lakes / NorthstarMLS via Pederson Realty"
+    }
   },
   {
     "id": "keston",
@@ -149,17 +173,23 @@
     "city": "Saint Paul",
     "price": 675000,
     "status": "Lead",
-    "style": "Historic modern",
+    "style": "Historic",
     "reaction": "Explore",
-    "description": "Brick residence with generous windows and a flowing interior.",
+    "description": "Brick exterior, stone entry turret and original woodwork.",
     "context": "Preservation and current availability need checking.",
-    "url": "https://www.pedersonrealty.com/homes-for-sale/mn/saint-paul/1393-keston-street/mls-7126585",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1393-keston-street/mls-7126585",
     "year": 1941,
     "sqft": 2200,
     "lat": 44.982541419244,
     "lng": -93.198903858755,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "1393 KESTON ST, SAINT PAUL, MN, 55108"
+    "matchedAddress": "1393 KESTON ST, SAINT PAUL, MN, 55108",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/keston.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1393-keston-street/mls-7126585",
+      "credit": "Keller Williams Integrity Realty / NorthstarMLS via Pederson Realty"
+    }
   },
   {
     "id": "virginia",
@@ -168,16 +198,22 @@
     "price": 797000,
     "status": "Lead",
     "style": "Mid-century",
-    "reaction": "Verify carefully",
-    "description": "The source chat repeatedly mismatched the photograph, architect attribution and price.",
-    "context": "Do not treat the original cedar-shingle image as this property.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/1676-Virginia-Ave-S_Saint-Louis-Park_MN_55426_M74205-34489",
-    "year": null,
-    "sqft": null,
+    "reaction": "Explore",
+    "description": "Flat-roof modernist home with exposed structural posts, tall living-room ceiling, brick-and-copper fireplace and terrazzo. The listing attributes the design to Leonard Parker.",
+    "context": "Leonard Parker attribution comes from the listing.",
+    "url": "https://www.redfin.com/MN/Saint-Louis-Park/1676-Virginia-Ave-S-55426/home/51312840",
+    "year": 1962,
+    "sqft": 2895,
     "lat": 44.964980438979,
     "lng": -93.384034152743,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "1676 VIRGINIA AVE S, SAINT LOUIS PARK, MN, 55426"
+    "matchedAddress": "1676 VIRGINIA AVE S, SAINT LOUIS PARK, MN, 55426",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/virginia.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Saint-Louis-Park/1676-Virginia-Ave-S-55426/home/51312840",
+      "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid, photo from MLS7105667; current MLS7165562, Michael Lynch, Lakes Sotheby\u2019s International Realty"
+    }
   },
   {
     "id": "cedar",
@@ -191,11 +227,17 @@
     "context": "Architectural rarity alone is not enough; check traffic.",
     "url": "https://www.realtor.com/realestateandhomes-detail/4916-Cedar-Ave-S_Minneapolis_MN_55417_M86131-25997",
     "year": 1949,
-    "sqft": null,
+    "sqft": 1021,
     "lat": 44.913948179076,
     "lng": -93.247385484421,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "4916 CEDAR AVE S, MINNEAPOLIS, MN, 55417"
+    "matchedAddress": "4916 CEDAR AVE S, MINNEAPOLIS, MN, 55417",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/cedar.webp",
+      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/4916-Cedar-Ave-S_Minneapolis_MN_55417_M86131-25997",
+      "credit": "Realtor.com / NorthstarMLS7147546; Jessica Buelow, Edina Realty"
+    }
   },
   {
     "id": "benhill",
@@ -205,7 +247,7 @@
     "status": "Lead",
     "style": "Historic",
     "reaction": "Explore",
-    "description": "Original built-ins, a butler\u2019s pantry, sunroom and wooded lot.",
+    "description": "Wooded cottage and attached accessory dwelling unit, currently configured as a duplex; restoration opportunity.",
     "context": "Potential restoration project. Confirm condition and layout.",
     "url": "https://www.realtor.com/realestateandhomes-detail/10-Benhill-Rd_Saint-Paul_MN_55105_M70912-75885",
     "year": 1915,
@@ -213,7 +255,13 @@
     "lat": 44.93332381751,
     "lng": -93.142597522178,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "10 BENHILL RD, SAINT PAUL, MN, 55105"
+    "matchedAddress": "10 BENHILL RD, SAINT PAUL, MN, 55105",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/benhill.webp",
+      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/10-Benhill-Rd_Saint-Paul_MN_55105_M70912-75885",
+      "credit": "Realtor.com / NorthstarMLS7156751; Sue Evens, Keller Williams Select Realty"
+    }
   },
   {
     "id": "ewing",
@@ -225,38 +273,50 @@
     "reaction": "Explore",
     "description": "Substantial Tudor near Cedar Lake with original detailing.",
     "context": "Would need to be an exceptional Tudor to meet the brief.",
-    "url": "https://www.coldwellbankerhomes.com/mn/minneapolis/2708-ewing-ave-s/pid_74268062/",
+    "url": "https://www.redfin.com/MN/Minneapolis/2708-Ewing-Ave-S-55416/home/51501702",
     "year": 1931,
     "sqft": 3393,
     "lat": 44.95339944978,
     "lng": -93.327542768983,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "2708 EWING AVE S, MINNEAPOLIS, MN, 55416"
+    "matchedAddress": "2708 EWING AVE S, MINNEAPOLIS, MN, 55416",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/ewing.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2708-Ewing-Ave-S-55416/home/51501702",
+      "credit": "Redfin / NORTHSTARMLS as Distributed by MLS Grid7158920; Cari Ann Carter and Jessica Buelow, Edina Realty"
+    }
   },
   {
     "id": "summit",
     "address": "506 Summit Avenue",
     "city": "Saint Paul",
-    "price": 975000,
-    "status": "Lead",
+    "price": null,
+    "status": "Status unknown",
     "style": "Historic",
     "reaction": "Explore",
     "description": "Stained glass, French doors and formal rooms.",
-    "context": "Assess architectural individuality, not just period charm.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/506-Summit-Ave_Saint-Paul_MN_55102_M75121-02504",
+    "context": "Listing status and price are unresolved.",
+    "url": "https://www.zillow.com/homedetails/506-Summit-Ave-Saint-Paul-MN-55102/2029003_zpid/",
     "year": 1900,
     "sqft": 4716,
     "lat": 44.941294403106,
     "lng": -93.121386310123,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "506 SUMMIT AVE, SAINT PAUL, MN, 55102"
+    "matchedAddress": "506 SUMMIT AVE, SAINT PAUL, MN, 55102",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/summit.jpg",
+      "sourceUrl": "https://www.zillow.com/homedetails/506-Summit-Ave-Saint-Paul-MN-55102/2029003_zpid/",
+      "credit": "Zillow / NorthstarMLS as distributed by MLS GRID6478136"
+    }
   },
   {
     "id": "croix",
     "address": "1525 Saint Croix Circle",
     "city": "Golden Valley",
     "price": 425000,
-    "status": "Lead",
+    "status": "Sold reference",
     "style": "Mid-century",
     "reaction": "Explore",
     "description": "Exposed beams, fireplaces and a screened porch.",
@@ -267,25 +327,37 @@
     "lat": 44.994915139587,
     "lng": -93.340798191095,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "1525 SAINT CROIX CIR, GOLDEN VALLEY, MN, 55422"
+    "matchedAddress": "1525 SAINT CROIX CIR, GOLDEN VALLEY, MN, 55422",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/croix.webp",
+      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/1525-Saint-Croix-Cir_Golden-Valley_MN_55422_M89098-29208",
+      "credit": "Realtor.com / NorthstarMLS7120062; Joshua Leonhardt, Coldwell Banker Burnet"
+    }
   },
   {
     "id": "goodrich",
     "address": "2188 Goodrich Avenue",
     "city": "Saint Paul",
     "price": 499900,
-    "status": "Pending in chat",
+    "status": "Pending",
     "style": "Tudor",
     "reaction": "Explore",
     "description": "Arches, window seats and divided-light windows.",
     "context": "Pending in the source chat; availability is not verified.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/2188-Goodrich-Ave_Saint-Paul_MN_55105_M79438-13927",
+    "url": "https://www.zillow.com/homedetails/2188-Goodrich-Ave-Saint-Paul-MN-55105/2048743_zpid/",
     "year": 1926,
     "sqft": 1783,
     "lat": 44.937862911693,
     "lng": -93.192773282147,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "2188 W GOODRICH AVE, SAINT PAUL, MN, 55105"
+    "matchedAddress": "2188 W GOODRICH AVE, SAINT PAUL, MN, 55105",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/goodrich.jpg",
+      "sourceUrl": "https://www.zillow.com/homedetails/2188-Goodrich-Ave-Saint-Paul-MN-55105/2048743_zpid/",
+      "credit": "Zillow / NorthstarMLS as distributed by MLS GRID7149786"
+    }
   },
   {
     "id": "knox",
@@ -297,49 +369,19 @@
     "reaction": "Lukewarm",
     "description": "Near Lake Harriet and Minnehaha Creek.",
     "context": "\u201cKnox is fine\u201d \u2014 a useful contrast to the Hobe Lane benchmark.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/5215-Knox-Ave-S_Minneapolis_MN_55419",
-    "year": null,
-    "sqft": null,
+    "url": "https://www.redfin.com/MN/Minneapolis/5215-Knox-Ave-S-55419/home/51383313",
+    "year": 1929,
+    "sqft": 2097,
     "lat": 44.908429824989,
     "lng": -93.302209772085,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "5215 KNOX AVE S, MINNEAPOLIS, MN, 55419"
-  },
-  {
-    "id": "kyle",
-    "address": "3346 Kyle Avenue N",
-    "city": "Golden Valley",
-    "price": 365000,
-    "status": "Lead",
-    "style": "Mid-century",
-    "reaction": "Lukewarm",
-    "description": "Vaulted living room, broad windows and a wooded parcel.",
-    "context": "Part of the batch you described as \u201call kinda mid.\u201d",
-    "url": "https://www.realtor.com/realestateandhomes-detail/3346-Kyle-Ave-N_Minneapolis_MN_55422_M77119-91425",
-    "year": 1957,
-    "sqft": 1510,
-    "lat": 45.015501053758,
-    "lng": -93.334907902115,
-    "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "3346 KYLE AVE N, GOLDEN VALLEY, MN, 55422"
-  },
-  {
-    "id": "orchard",
-    "address": "2442 Orchard Lane",
-    "city": "White Bear Lake",
-    "price": 434000,
-    "status": "Lead",
-    "style": "Mid-century",
-    "reaction": "Lukewarm",
-    "description": "Exposed beams and a great room at a smaller scale.",
-    "context": "Part of the batch you described as \u201call kinda mid.\u201d",
-    "url": "https://www.realtor.com/realestateandhomes-detail/2442-Orchard-Ln_White-Bear-Lake_MN_55110_M85886-13934",
-    "year": 1967,
-    "sqft": 1836,
-    "lat": 45.043362986373,
-    "lng": -92.997468319057,
-    "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "2442 ORCHARD LN, WHITE BEAR LAKE, MN, 55110"
+    "matchedAddress": "5215 KNOX AVE S, MINNEAPOLIS, MN, 55419",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/knox.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/5215-Knox-Ave-S-55419/home/51383313",
+      "credit": "Redfin / NORTHSTARMLS as distributed by MLS GRID7137130"
+    }
   },
   {
     "id": "normandale",
@@ -351,48 +393,66 @@
     "reaction": "Lukewarm",
     "description": "A waterfront walkout on Melody Lake.",
     "context": "Setting is promising; architecture did not excite in the chat.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/5018-Normandale-Ct_Edina_MN_55436_M79512-90380",
+    "url": "https://www.redfin.com/MN/Edina/5018-Normandale-Ct-55436/home/51510843",
     "year": 1956,
     "sqft": 3607,
     "lat": 44.900699449779,
     "lng": -93.351580255907,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "5018 NORMANDALE CT, EDINA, MN, 55436"
+    "matchedAddress": "5018 NORMANDALE CT, EDINA, MN, 55436",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/normandale.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Edina/5018-Normandale-Ct-55436/home/51510843",
+      "credit": "Redfin / NorthstarMLS #7147965; Edina Realty"
+    }
   },
   {
     "id": "bridgeview",
     "address": "1472 Bridgeview Avenue",
     "city": "Eagan",
     "price": 699900,
-    "status": "Pending in chat",
+    "status": "Pending",
     "style": "Brick modern",
     "reaction": "Lukewarm",
     "description": "All-brick modernist house with exposed beams.",
     "context": "Part of the weaker batch; pending in the chat.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/1472-Bridgeview-Ave_Eagan_MN_55121_M88801-54849",
+    "url": "https://www.redfin.com/MN/Eagan/1472-Bridgeview-Ave-55121/home/50718018",
     "year": 1964,
     "sqft": 4762,
     "lat": null,
     "lng": null,
-    "locationSource": null
+    "locationSource": null,
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/bridgeview.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Eagan/1472-Bridgeview-Ave-55121/home/50718018",
+      "credit": "Redfin / NorthstarMLS #7119488; National Realty Guild"
+    }
   },
   {
     "id": "knoll",
     "address": "2931 Cedar Knoll Court",
     "city": "Minnetonka",
-    "price": null,
+    "price": 499900,
     "status": "Lead",
     "style": "Mid-century",
     "reaction": "Lukewarm",
     "description": "Wooded lot and generous living spaces.",
-    "context": "Original design and asking price need checking.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/2931-Cedar-Knoll-Ct_Minnetonka_MN_55305_M81225-19865",
-    "year": null,
-    "sqft": null,
+    "context": "Wooded lot; listed at $499,900.",
+    "url": "https://www.redfin.com/MN/Minnetonka/2931-Cedar-Knoll-Ct-55305/home/51371948",
+    "year": 1964,
+    "sqft": 2337,
     "lat": 44.948992883069,
     "lng": -93.438407590505,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "2931 CEDAR KNOLL CT, MINNETONKA, MN, 55305"
+    "matchedAddress": "2931 CEDAR KNOLL CT, MINNETONKA, MN, 55305",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/knoll.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/2931-Cedar-Knoll-Ct-55305/home/51371948",
+      "credit": "Redfin / NorthstarMLS #7146107; Edina Realty"
+    }
   },
   {
     "id": "colfax",
@@ -404,13 +464,19 @@
     "reaction": "Loved",
     "description": "Original woodwork and carefully articulated interiors in Lynnhurst.",
     "context": "At the budget boundary; reference rather than an available home.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/4940-Colfax-Ave-S_Minneapolis_MN_55419_M79992-95914",
+    "url": "https://www.redfin.com/MN/Minneapolis/4940-Colfax-Ave-S-55419/home/50004549",
     "year": 1917,
     "sqft": null,
     "lat": 44.913379966439,
     "lng": -93.292170371345,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "4940 COLFAX AVE S, MINNEAPOLIS, MN, 55419"
+    "matchedAddress": "4940 COLFAX AVE S, MINNEAPOLIS, MN, 55419",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/colfax.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/4940-Colfax-Ave-S-55419/home/50004549",
+      "credit": "Redfin / NorthstarMLS #7057159"
+    }
   },
   {
     "id": "moritz",
@@ -422,13 +488,19 @@
     "reaction": "Loved",
     "description": "Soaring exposed-beam ceilings, built-ins and a private backyard.",
     "context": "Included in the sold group you called \u201cgreat.\u201d",
-    "url": "https://homesteadrealtyinc.com/sold-listing/detail/1198317452/5164-Saint-Moritz-DR-Fridley-MN",
+    "url": "https://www.realtor.com/realestateandhomes-detail/5164-Saint-Moritz-Dr_Fridley_MN_55421_M73204-53391",
     "year": 1962,
-    "sqft": null,
+    "sqft": 2026,
     "lat": 45.061708753285,
     "lng": -93.234122836546,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "5164 ST MORITZ DR, FRIDLEY, MN, 55421"
+    "matchedAddress": "5164 ST MORITZ DR, FRIDLEY, MN, 55421",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/moritz.jpg",
+      "sourceUrl": "https://www.zillow.com/homedetails/5164-Saint-Moritz-Dr-NE-Fridley-MN-55421/1530903_zpid/",
+      "credit": "Zillow / NorthstarMLS #7109906"
+    }
   },
   {
     "id": "minnetonka",
@@ -440,13 +512,19 @@
     "reaction": "Wrong street",
     "description": "A vaulted living room and unusual former medical-office plan.",
     "context": "The source chat flags the boulevard as failing the quiet-street brief.",
-    "url": "https://realnorthteam.com/sold-listing/detail/1200047094/4700-Minnetonka-BLVD-Saint-Louis-Park-MN",
+    "url": "https://www.redfin.com/MN/Saint-Louis-Park/4700-Minnetonka-Blvd-55416/home/51491995",
     "year": 1950,
     "sqft": 2961,
     "lat": 44.948520538839,
     "lng": -93.339153614179,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "4700 MINNETONKA BLVD, SAINT LOUIS PARK, MN, 55416"
+    "matchedAddress": "4700 MINNETONKA BLVD, SAINT LOUIS PARK, MN, 55416",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/minnetonka.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Saint-Louis-Park/4700-Minnetonka-Blvd-55416/home/51491995",
+      "credit": "Redfin / NorthstarMLS #7138015"
+    }
   },
   {
     "id": "linwood",
@@ -458,12 +536,18 @@
     "reaction": "Explore",
     "description": "Parquet floors, indirect lighting and patios toward a wooded lot.",
     "context": "A later suggestion; your reaction is not yet recorded.",
-    "url": "https://www.barkerhedges.com/property-for-sale/mn/saint-paul/55105/690-linwood-avenue/1808986506_spid/",
+    "url": "https://www.redfin.com/MN/Saint-Paul/690-Linwood-Ave-55105/home/51071487",
     "year": 1952,
     "sqft": 3290,
     "lat": 44.934728610051,
     "lng": -93.130232714663,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "690 LINWOOD AVE, SAINT PAUL, MN, 55105"
+    "matchedAddress": "690 LINWOOD AVE, SAINT PAUL, MN, 55105",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/linwood.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Saint-Paul/690-Linwood-Ave-55105/home/51071487",
+      "credit": "Redfin / NorthstarMLS #7101001; Coldwell Banker Realty"
+    }
   }
 ]
