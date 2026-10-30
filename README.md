@@ -21,7 +21,7 @@ Verification uses full property-detail pages returned by the web reader (sometim
 
 Ten records are sold references. Prices and statuses were corrected where supported; no rendered photo is generated, Street View, or a visual-search substitute. Local photos keep cards independent of third-party hotlink behavior. Photo credits identify the listing publisher/MLS; no ownership of the photographs is claimed.
 
-The remaining map pins use the US Census street-range geocoder checked October 29, 2026. Coordinates are approximate; Bridgeview remains unlocated. OpenFreeMap Positron vector tiles render through MapLibre inside Leaflet, with standard OpenStreetMap as a fallback if the vector map fails. The map requires internet. Google Fonts supplies DM Sans and Libre Caslon Display. Notes are not sent to map or font services.
+The remaining map pins use the US Census street-range geocoder checked October 29, 2026. Coordinates are approximate; Bridgeview uses NorthstarMLS coordinates from its Compass listing. OpenFreeMap Positron vector tiles render through MapLibre inside Leaflet, with standard OpenStreetMap as a fallback if the vector map fails. The map requires internet. Google Fonts supplies DM Sans and Libre Caslon Display. Notes are not sent to map or font services.
 
 The rubric retains the quiet-street and architectural-interest must-haves and the strict under-$1 million price threshold. Unknown assessments remain unknown; bonus points cannot outweigh a failed must-have. Saved notes for removed listings remain in backups, but those listings and saved counts no longer appear in the app.
 
@@ -42,3 +42,5 @@ October 30, 2026: Added Thomas and James with inspected listing photos and Censu
 October 30, 2026: Added 4528 Upton Avenue S, the green Tudor opposite Beard’s Plaisance, as a sold reference ($820,000, July 16, 2026). Listing photo inspected and Census coordinates matched. 24 properties now.
 
 October 30, 2026: Added 1880 Jefferson Avenue, active at $659,900, with inspected listing photograph and Census coordinates. 25 properties now.
+
+October 30 full audit: all 25 records reviewed, all local photographs decoded and visually inspected. Thomas now uses gallery photo 2 (front exterior). Confirmed active statuses replace Lead labels; pending copy refreshed. Bridgeview pin added using MLS coordinates. Saint Croix links to a verified sold-detail page instead of an older active Realtor snapshot. Per-record evidence and cached-source limitations: docs/listing-audit-2026-10-30.json. No properties removed; no price changes were needed.

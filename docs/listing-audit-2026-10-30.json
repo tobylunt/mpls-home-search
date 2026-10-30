@@ -1,0 +1,227 @@
+{
+  "keston": {
+    "address": "1393 Keston Street",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1393-keston-street/mls-7126585",
+    "photo": "/photos/keston.jpg",
+    "status": "Active",
+    "price": 675000,
+    "mapLocated": true,
+    "evidence": "Direct HTTP 200 exact-address brokerage record; status and asking/sold price match."
+  },
+  "hobe": {
+    "address": "5811 Hobe Lane",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+    "photo": "/photos/hobe.jpg",
+    "status": "Active",
+    "price": 849900,
+    "mapLocated": true,
+    "evidence": "Direct HTTP 200 exact-address brokerage record; status and asking/sold price match."
+  },
+  "decatur": {
+    "address": "3324 Decatur Lane",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-louis-park/3324-decatur-lane/mls-7084698",
+    "photo": "/photos/decatur.jpg",
+    "status": "Sold reference",
+    "price": 855000,
+    "mapLocated": true,
+    "evidence": "Direct HTTP 200 exact-address brokerage record; status and asking/sold price match."
+  },
+  "luverne": {
+    "address": "57 Luverne Avenue",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/57-luverne-avenue/mls-7048505",
+    "photo": "/photos/luverne.jpg",
+    "status": "Sold reference",
+    "price": 635000,
+    "mapLocated": true,
+    "evidence": "Direct HTTP 200 exact-address brokerage record; status and asking/sold price match."
+  },
+  "glenhurst": {
+    "address": "2700 Glenhurst Avenue",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-louis-park/2700-glenhurst-avenue/mls-7004907",
+    "photo": "/photos/glenhurst.jpg",
+    "status": "Sold reference",
+    "price": 960000,
+    "mapLocated": true,
+    "evidence": "Direct HTTP 200 exact-address brokerage record; status and asking/sold price match."
+  },
+  "shore": {
+    "address": "1800 E Shore Drive",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/maplewood/1800-e-shore-drive/mls-7024001",
+    "photo": "/photos/shore.jpg",
+    "status": "Sold reference",
+    "price": 600000,
+    "mapLocated": true,
+    "evidence": "Direct HTTP 200 exact-address brokerage record; status and asking/sold price match."
+  },
+  "humboldt": {
+    "address": "1717 Humboldt Avenue S",
+    "url": "https://www.architectural-lifestyles.com/about-1-1-4-1",
+    "photo": "/photos/humboldt.jpg",
+    "status": "Sold reference",
+    "price": 875000,
+    "mapLocated": true,
+    "evidence": "Direct HTTP 200 exact-address property page and gallery verified; retained documented facts."
+  },
+  "virginia": {
+    "address": "1676 Virginia Avenue S",
+    "url": "https://www.redfin.com/MN/Saint-Louis-Park/1676-Virginia-Ave-S-55426/home/51312840",
+    "photo": "/photos/virginia.jpg",
+    "status": "Active",
+    "price": 797000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded. Older August Redfin snapshot has $899000; October 27 MLS 7165562 relisting at $797000 corroborated by current search record and multiple brokerage listings. Retained newer $797000."
+  },
+  "benhill": {
+    "address": "10 Benhill Road",
+    "url": "https://www.realtor.com/realestateandhomes-detail/10-Benhill-Rd_Saint-Paul_MN_55105_M70912-75885",
+    "photo": "/photos/benhill.webp",
+    "status": "Active",
+    "price": 500000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "ewing": {
+    "address": "2708 Ewing Avenue S",
+    "url": "https://www.redfin.com/MN/Minneapolis/2708-Ewing-Ave-S-55416/home/51501702",
+    "photo": "/photos/ewing.jpg",
+    "status": "Active",
+    "price": 995000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "summit": {
+    "address": "506 Summit Avenue",
+    "url": "https://www.zillow.com/homedetails/506-Summit-Ave-Saint-Paul-MN-55102/2029003_zpid/",
+    "photo": "/photos/summit.jpg",
+    "status": "Active",
+    "price": 975000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "croix": {
+    "address": "1525 Saint Croix Circle",
+    "url": "https://www.yourmnproperties.com/property/7150556/",
+    "photo": "/photos/croix.webp",
+    "status": "Sold reference",
+    "price": 425000,
+    "mapLocated": true,
+    "evidence": "Direct HTTP brokerage sold table and full exact-address sold-detail page confirm $425000 closing Oct 28, 2026. Replaced stale Realtor destination; retained its verified gallery image."
+  },
+  "goodrich": {
+    "address": "2188 Goodrich Avenue",
+    "url": "https://www.zillow.com/homedetails/2188-Goodrich-Ave-Saint-Paul-MN-55105/2048743_zpid/",
+    "photo": "/photos/goodrich.jpg",
+    "status": "Pending",
+    "price": 499900,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "knox": {
+    "address": "5215 Knox Avenue S",
+    "url": "https://www.redfin.com/MN/Minneapolis/5215-Knox-Ave-S-55419/home/51383313",
+    "photo": "/photos/knox.jpg",
+    "status": "Active",
+    "price": 565000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "normandale": {
+    "address": "5018 Normandale Court",
+    "url": "https://www.redfin.com/MN/Edina/5018-Normandale-Ct-55436/home/51510843",
+    "photo": "/photos/normandale.jpg",
+    "status": "Active",
+    "price": 975000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "bridgeview": {
+    "address": "1472 Bridgeview Avenue",
+    "url": "https://www.redfin.com/MN/Eagan/1472-Bridgeview-Ave-55121/home/50718018",
+    "photo": "/photos/bridgeview.jpg",
+    "status": "Pending",
+    "price": 699900,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded. Filled missing pin using exact-address Compass MLS latitude 44.853199, longitude -93.17607."
+  },
+  "knoll": {
+    "address": "2931 Cedar Knoll Court",
+    "url": "https://www.redfin.com/MN/Minnetonka/2931-Cedar-Knoll-Ct-55305/home/51371948",
+    "photo": "/photos/knoll.jpg",
+    "status": "Active",
+    "price": 499900,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "colfax": {
+    "address": "4940 Colfax Avenue S",
+    "url": "https://www.redfin.com/MN/Minneapolis/4940-Colfax-Ave-S-55419/home/50004549",
+    "photo": "/photos/colfax.jpg",
+    "status": "Sold reference",
+    "price": 1000000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "moritz": {
+    "address": "5164 Saint Moritz Drive",
+    "url": "https://www.realtor.com/realestateandhomes-detail/5164-Saint-Moritz-Dr_Fridley_MN_55421_M73204-53391",
+    "photo": "/photos/moritz.jpg",
+    "status": "Sold reference",
+    "price": 480000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "minnetonka": {
+    "address": "4700 Minnetonka Boulevard",
+    "url": "https://www.redfin.com/MN/Saint-Louis-Park/4700-Minnetonka-Blvd-55416/home/51491995",
+    "photo": "/photos/minnetonka.jpg",
+    "status": "Sold reference",
+    "price": 575000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "linwood": {
+    "address": "690 Linwood Avenue",
+    "url": "https://www.redfin.com/MN/Saint-Paul/690-Linwood-Ave-55105/home/51071487",
+    "photo": "/photos/linwood.jpg",
+    "status": "Active",
+    "price": 895000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "thomas": {
+    "address": "2740 Thomas Avenue S",
+    "url": "https://www.realestatejourney.com/listing/7120408-2740-thomas-avenue-s-minneapolis-mn-55416/",
+    "photo": "/photos/thomas-exterior.jpg",
+    "status": "Active",
+    "price": 899000,
+    "mapLocated": true,
+    "evidence": "Direct HTTP 200 exact-address property page and gallery verified; retained documented facts. Replaced interior with gallery photo 2: actual front facade, front path and street-facing elevation; inspected at full size."
+  },
+  "james": {
+    "address": "1929 James Avenue S",
+    "url": "https://www.redfin.com/MN/Minneapolis/1929-James-Ave-S-55403/home/51470199",
+    "photo": "/photos/james.jpg",
+    "status": "Active",
+    "price": 1100000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "upton": {
+    "address": "4528 Upton Avenue S",
+    "url": "https://www.realtor.com/realestateandhomes-detail/4528-Upton-Ave-S_Minneapolis_MN_55410_M81583-52215",
+    "photo": "/photos/upton.jpg",
+    "status": "Sold reference",
+    "price": 820000,
+    "mapLocated": true,
+    "evidence": "Full exact-address property-detail page retrieved with web reader; may be a cached snapshot. Local listing photograph inspected and decoded."
+  },
+  "jefferson": {
+    "address": "1880 Jefferson Avenue",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1880-jefferson-avenue/mls-7165967",
+    "photo": "/photos/jefferson.jpg",
+    "status": "Active",
+    "price": 659900,
+    "mapLocated": true,
+    "evidence": "Direct HTTP 200 exact-address brokerage record; status and asking/sold price match."
+  }
+}
