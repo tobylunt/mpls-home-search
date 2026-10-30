@@ -196,5 +196,122 @@
       "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
       "checkedOn": "2026-10-30"
     }
+  },
+  "blaylock": {
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No installed renewable-energy or off-grid system documented in the retrieved listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Prior-Lake/9350-Blaylock-Cir-55372/home/50782928",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "Usable water access is not documented in the retrieved listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Prior-Lake/9350-Blaylock-Cir-55372/home/50782928",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Established gardens or growing beds are not documented in the retrieved listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Prior-Lake/9350-Blaylock-Cir-55372/home/50782928",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "yes",
+      "detail": "2026 MLS lists a 26 × 15-foot main-level workshop, plus a pole building and storage shed. Shop power, ventilation and heat are unconfirmed.",
+      "sourceUrl": "https://www.redfin.com/MN/Prior-Lake/9350-Blaylock-Cir-55372/home/50782928",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps typical: 30–45 min to McKnight; 30–45 min home via I-35W. The W Burnsville Parkway return alternative is 35–50 min. Nov 4, 2026, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=9350+Blaylock+Circle%2C+Prior+Lake%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=9350+Blaylock+Circle%2C+Prior+Lake%2C+MN&travelmode=driving"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "John Howe attribution in the listing; exterior and interior photos inspected. Angled wood ceilings, limestone and original built-ins.",
+      "sourceUrl": "https://www.redfin.com/MN/Prior-Lake/9350-Blaylock-Cir-55372/home/50782928",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "kings": {
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No installed renewable-energy or off-grid system documented in the retrieved listing.",
+      "sourceUrl": "https://www.architectural-lifestyles.com/110711kingslane",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "Usable water access is not documented in the retrieved listing.",
+      "sourceUrl": "https://www.architectural-lifestyles.com/110711kingslane",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Established gardens or growing beds are not documented in the retrieved listing.",
+      "sourceUrl": "https://www.architectural-lifestyles.com/110711kingslane",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "A dedicated workshop is not documented in the retrieved listing.",
+      "sourceUrl": "https://www.architectural-lifestyles.com/110711kingslane",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps typical: 30–40 min to McKnight via US-212; 30–40 min home. Nov 4, 2026, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=110711+Kings+Lane%2C+Chaska%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=110711+Kings+Lane%2C+Chaska%2C+MN&travelmode=driving"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Ralph Rapson’s Red Cedar House, independently identified by Rapson LLC. Exact-address exterior and interior photos inspected.",
+      "sourceUrl": "https://www.architectural-lifestyles.com/110711kingslane",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "chickadee": {
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No installed renewable-energy or off-grid system documented in the retrieved listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "yes",
+      "detail": "MLS explicitly lists shared association beach and dock access. Not private waterfront. Pleasant Lake has a history of swimming closures; current swimming conditions need checking.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "yes",
+      "detail": "The 2026 listing documents an established native bee and pollinator garden. Edible growing beds are not documented.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "A dedicated workshop is not documented in the retrieved listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps typical: 24–35 min to McKnight; 24–30 min home via I-35W. Nov 4, 2026, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1+Chickadee+Lane%2C+North+Oaks%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=1+Chickadee+Lane%2C+North+Oaks%2C+MN&travelmode=driving"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Listing identifies Eldon Morrison and a Kelly Davis / SALA kitchen remodel. Exterior and interior photos inspected.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+      "checkedOn": "2026-10-30"
+    }
   }
 }

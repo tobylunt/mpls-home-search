@@ -1156,5 +1156,41 @@
     },
     "status": "Under contract",
     "price": 524999
+  },
+  {
+    "id": "blaylock",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Prior-Lake/9350-Blaylock-Cir-55372/home/50782928",
+    "photoUrl": "https://ap.rdcpix.com/153f531855107aecc1e1e1ae598d2a13l-m43393069rd-w960_h720.webp",
+    "localPhoto": "public/photos/blaylock-exterior.webp",
+    "visuallyInspected": true,
+    "photoCredit": "Edina Realty / Denise Houk Photography, via Realtor.com",
+    "sourceAddressText": "9350 Blaylock Circle, Prior Lake, MN",
+    "verifiedAt": "2026-10-30",
+    "evidence": "Realtor.com exact-address 91-image gallery supplies exterior. Inspected two exterior images and two interior images from Racket’s exact-address listing feature. MLS 7088107 via Redfin supports sale, size and workshop; Realtor public-record header differs from its MLS sale history."
+  },
+  {
+    "id": "kings",
+    "verified": true,
+    "url": "https://www.architectural-lifestyles.com/110711kingslane",
+    "photoUrl": "https://images.squarespace-cdn.com/content/v1/649b326b2273ac07e9e80ec4/83de3e21-e2e4-4ed4-9c84-57031bba3fa6/3.jpg",
+    "localPhoto": "public/photos/kings-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Architectural Lifestyles / Scott Acker, Coldwell Banker Realty",
+    "sourceAddressText": "110711 Kings Lane, Chaska, MN",
+    "verifiedAt": "2026-10-30",
+    "evidence": "Exact-address Architectural Lifestyles gallery; exterior, interior and entry-number photo inspected. MLS 6670953 records $700,000 sale in 2025; $625,000 on architectural page is the old ask."
+  },
+  {
+    "id": "chickadee",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7072046_0.jpg",
+    "localPhoto": "public/photos/chickadee-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Edina Realty / NorthstarMLS via Pederson Realty",
+    "sourceAddressText": "1 Chickadee Lane, North Oaks, MN",
+    "verifiedAt": "2026-10-30",
+    "evidence": "Exact-address MLS 7072046 gallery via Pederson Realty. Exterior and interior inspected. Closed price $765,000 corroborated by Coldwell Banker."
   }
 ]

@@ -1,0 +1,302 @@
+{
+  "checkedOn": "2026-10-30",
+  "scope": "Selective architecture-first additions under $1 million in historical sale price. All three sold references; no current availability claimed.",
+  "selected": [
+    "blaylock",
+    "kings",
+    "chickadee"
+  ],
+  "commuteMethod": {
+    "provider": "Google Maps browser UI",
+    "destination": "921 Washington Avenue S, Minneapolis, MN 55415",
+    "date": "2026-11-04",
+    "timeZone": "America/Chicago",
+    "inbound": "Arrive by 11:00 AM",
+    "outbound": "Depart at 2:00 PM",
+    "note": "Typical forecast ranges, not guarantees. Both directions checked for exact resolved addresses. Route alternatives may take longer."
+  },
+  "routes": {
+    "blaylock": {
+      "inboundMinutes": [
+        30,
+        45
+      ],
+      "inboundMiles": 22.9,
+      "inboundVia": "I-35W N",
+      "outboundMinutes": [
+        30,
+        45
+      ],
+      "outboundMiles": 24.4,
+      "outboundVia": "I-35W S",
+      "alternativeReturn": "35–50 minutes via I-35W S and W Burnsville Pkwy",
+      "lat": 44.7129641,
+      "lng": -93.3300051
+    },
+    "kings": {
+      "inboundMinutes": [
+        30,
+        40
+      ],
+      "inboundMiles": 27.0,
+      "inboundVia": "US-212 E",
+      "outboundMinutes": [
+        30,
+        40
+      ],
+      "outboundMiles": 27.6,
+      "outboundVia": "I-35W S and US-212 W",
+      "lat": 44.8263867,
+      "lng": -93.6154163
+    },
+    "chickadee": {
+      "inboundMinutes": [
+        24,
+        35
+      ],
+      "inboundMiles": 16.8,
+      "inboundVia": "I-35W S",
+      "outboundMinutes": [
+        24,
+        30
+      ],
+      "outboundMiles": 17.7,
+      "outboundVia": "I-35W N",
+      "lat": 45.1090839,
+      "lng": -93.0878537
+    }
+  },
+  "blaylock": {
+    "url": "https://www.redfin.com/MN/Prior-Lake/9350-Blaylock-Cir-55372/home/50782928",
+    "mls": "7088107",
+    "saleDate": "2026-08-14",
+    "salePrice": 775000,
+    "architectureSource": "https://racketmn.com/wanna-buy-a-usonian-masterpiece-on-11-acres-of-twin-cities-mn-parkland",
+    "photoSource": "https://www.realtor.com/realestateandhomes-detail/9350-Blaylock-Cir_Prior-Lake_MN_55372_M72634-25647",
+    "interiorPhotoUrls": [
+      "https://lede-admin.racketmn.com/wp-content/uploads/sites/37/2026/06/61ace6eb256f68559e29c96edbc248aal-m2037460370rd-w1280_h960.jpg?w=710",
+      "https://lede-admin.racketmn.com/wp-content/uploads/sites/37/2026/06/61ace6eb256f68559e29c96edbc248aal-m3221482704rd-w1280_h960.jpg?w=710"
+    ],
+    "inspected": "Exterior wood-clad angular house and bridge; interior original woodwork, angled ceiling, stone fireplace and built-ins match the exact-address gallery.",
+    "discrepancies": "Realtor header uses September 2 and 2808sf/3.5 baths, but its MLS history and Redfin/Coldwell show August 14, $775000. App uses MLS finished 2866sf and 3 bathrooms (full, three-quarter, half).",
+    "condition": "2026 MLS explicitly says septic noncompliant. Present condition not established."
+  },
+  "west": {
+    "checkedOn": "2026-10-30",
+    "candidates": [
+      {
+        "id": "kings",
+        "verified": true,
+        "address": "110711 Kings Lane",
+        "city": "Chaska",
+        "state": "MN",
+        "zip": "55318",
+        "name": "Red Cedar House",
+        "architect": "Ralph Rapson",
+        "url": "https://www.architectural-lifestyles.com/110711kingslane",
+        "status": "Sold",
+        "statusLabel": "Sold 2025",
+        "price": 700000,
+        "priceType": "Historical sale",
+        "saleDate": "2025-05-30",
+        "saleDateNote": "MLS6670953 Edina Realty and Kris Lindahl show May30 2025. A later MLS6731598/Zillow/Trulia report July2 2025 at same700000; Homes.com public record June30. Use Sold2025 for display, retain discrepancy.625000 architectural listing price is the old ask.",
+        "beds": 3,
+        "baths": 3,
+        "sqft": 2949,
+        "year": 1968,
+        "acres": 0.65,
+        "garageSpaces": 2,
+        "hoaAnnual": 350,
+        "why": "Rapson-designed Red Cedar House: dramatic sloping wood ceilings, tall glass, a central see-through brick fireplace and a woodland setting. Sunroom, office, walkout lower level and sauna.",
+        "architectEvidence": [
+          {
+            "url": "https://www.architectural-lifestyles.com/110711kingslane",
+            "note": "Exact-address listing names Ralph Rapson, Red Cedar House / Weyerhaeuser Demonstration House D-1317. Direct HTTP200 and full web.open."
+          },
+          {
+            "url": "https://rapson-inc.com/blogs/news/6121898-a-futuristic-new-town-on-the-cuff-of-the-twin-cities-still-retains-its-charms",
+            "note": "Rapson LLC confirms Ralph designed the single Red Cedar House in Jonathan, commissioned1966; identifies D-1317.1966 is design commission,1968 listing construction year."
+          }
+        ],
+        "factsEvidence": [
+          {
+            "url": "https://www.edinarealty.com/homes-for-sale/110711-kings-lane-chaska-mn-55318-6670953",
+            "note": "Full web.open exact address sold700000 May30 2025,3beds3baths2949sf MLS6670953."
+          },
+          {
+            "url": "https://www.krislindahl.com/property-search/mn/chaska/55318/110711-kings-lane/1126493959_spid/",
+            "note": "Indexed listing corroborates sale and1968,.65ac,$350annualHOA."
+          },
+          {
+            "url": "https://www.zillow.com/homedetails/110711-Kings-Ln-Chaska-MN-55318/1577331_zpid/",
+            "note": "Later MLS6731598 reports soldJuly2 2025 for700000. No current availability claim."
+          }
+        ],
+        "bonuses": {
+          "woodland": "Listing says.65acre heavy-tree park-like grounds; verified visually.",
+          "workshop": null,
+          "water": null,
+          "renewables": null,
+          "office": "Listing explicitly describes private office in sunroom.",
+          "sauna": "Listing explicitly includes sauna.",
+          "kitchen": "Listing attributes kitchen renovation to Kate Roos Design."
+        },
+        "photoSource": "Exact property gallery in Architectural Lifestyles listing HTML; saved kings.html with gallery image URLs.",
+        "photoCredit": "Architectural Lifestyles / Scott Acker, Coldwell Banker Realty; photographer not identified on retrieved page.",
+        "photoUrl": "https://images.squarespace-cdn.com/content/v1/649b326b2273ac07e9e80ec4/83de3e21-e2e4-4ed4-9c84-57031bba3fa6/3.jpg",
+        "localPhoto": "/private/tmp/marquee-west/kings-0.jpg",
+        "interiorPhotoUrl": "https://images.squarespace-cdn.com/content/v1/649b326b2273ac07e9e80ec4/28120b67-40b7-45f8-bb4f-98e7564c7c33/11.jpg",
+        "localInteriorPhoto": "/private/tmp/marquee-west/kings-8.jpg",
+        "additionalPhotoUrl": "https://images.squarespace-cdn.com/content/v1/649b326b2273ac07e9e80ec4/394326ba-f75c-4bc4-8838-d2e87c7b7a2f/7.jpg",
+        "localAdditionalPhoto": "/private/tmp/marquee-west/kings-7.jpg",
+        "visuallyInspected": true,
+        "visualEvidence": "Five photos inspected. Exterior shows distinctive tall shed-roof cedar-clad house and deck; entry photo clearly displays110711. Interior shows expansive sloping timber ceiling, tall glazing, white central see-through brick fireplace and open dining/living room. Exact-address property-specific gallery, not neighboring homes.",
+        "photoCaveat": "Listing discloses fireplace flames digitally added; architecture photos are real.",
+        "limitations": [
+          "No verified dedicated workshop, renewable-energy system or waterfront.",
+          "Exact commute left to parent.",
+          "Only historical price/availability; sold."
+        ]
+      }
+    ],
+    "rejectedOrHeld": [
+      {
+        "address": "4431 Eastwood Road, Minnetonka",
+        "architect": "Ralph Rapson",
+        "price": 525000,
+        "status": "Sold2018",
+        "url": "https://www.redfin.com/MN/Minnetonka/4431-Eastwood-Rd-55345/home/51414617",
+        "reason": "Strong architecture and.93acre setting, but all inspected listing-gallery photos were exterior; no verified interior listing asset. Hold rather than add without photo requirement.",
+        "assets": [
+          "/private/tmp/marquee-west/eastwood-exterior.jpg",
+          "/private/tmp/marquee-west/eastwood-5.jpg"
+        ],
+        "attributionSource": "https://www.usmodernist.org/rapson.htm"
+      },
+      {
+        "address": "3936 Willmatt Hill, Minnetonka",
+        "architect": "Leonard Parker",
+        "price": 475000,
+        "status": "SoldJune2012",
+        "url": "https://www.redfin.com/MN/Minnetonka/3936-Willmatt-Hl-55305/home/50137244",
+        "reason": "Very strong architect-own-home with Dimple Lake/pond frontage and studio. Search returns full listing but web.open repeatedly cache-misses; no exact gallery assets retrieved, so excluded from verified set.",
+        "attributionSource": "https://www.docomomo-us-mn.org/2012-events.html"
+      },
+      {
+        "address": "1305 6th Avenue N, Orono",
+        "reason": "Rapson but historical2010sale1.242M, overbudget; no further review."
+      },
+      {
+        "address": "1605 W156th Street, Burnsville",
+        "reason": "John Howe attribution in MLS6093813; current historical photos unavailable via full-page tools and conflicting sizes. Not advanced."
+      }
+    ],
+    "routeChecksPerformed": false,
+    "repoModified": false
+  },
+  "east": {
+    "checkedOn": "2026-10-30",
+    "candidates": [
+      {
+        "id": "chickadee",
+        "verified": true,
+        "address": "1 Chickadee Lane",
+        "city": "North Oaks",
+        "state": "MN",
+        "zip": "55127",
+        "lat": 45.10910599,
+        "lng": -93.08784296,
+        "status": "Sold",
+        "price": 765000,
+        "priceLabel": "Sold July 2026",
+        "soldDate": "2026-07-17",
+        "year": 1971,
+        "beds": 3,
+        "baths": 2.5,
+        "sqft": 2512,
+        "acres": 1.4,
+        "url": "https://www.capecchiandcompany.com/property-search/detail/47/7072046/1-chickadee-lane-north-oaks-mn-55127/",
+        "photoSourcePage": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+        "architecture": "Designed by Eldon Morrison. Kelly Davis of SALA Architects designed the 2010 kitchen renovation and 2013 sunroom/primary-bath addition and other remodels. Distinctive steep roof forms, vaulted spaces and large woodland-facing windows.",
+        "setting": "Private wooded 1.4-acre corner lot; mature trees, native pollinator garden, deck and patio.",
+        "bonuses": [
+          "Exact-address MLS identifies association beach access and shared dock, tennis courts and trails.",
+          "North Oaks HOA dues $2110 annually in listing.",
+          "No verified renewable energy or dedicated workshop."
+        ],
+        "lakeEvidence": {
+          "source": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+          "text": "HOA North Oaks HOA c/o RowCal; fees include Beach Access, Dock, Professional Mgmt, Recreation Facility, Shared Amenities. Waterfront: Association Access, Dock, Shared.",
+          "associationSource": "https://www.nohoa.org/home/",
+          "context": "NOHOA official page documents resident ownership and operation of beach/recreation areas. This is shared access, not private waterfront.",
+          "limitation": "Pleasant Lake has documented water-quality/swimming concerns and historical closures. Do not promise reliably swimmable water.",
+          "limitationSource": "https://www.vlawmo.org/application/files/6117/6347/7053/Pleasant_Lake_Review_2024.pdf"
+        },
+        "photos": [
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7072046_0.jpg",
+            "localPath": "/private/tmp/marquee-east/chickadee-0.jpg",
+            "visuallyInspected": true,
+            "description": "Exterior and wooded setting"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7072046_2.jpg",
+            "localPath": "/private/tmp/marquee-east/chickadee-2.jpg",
+            "visuallyInspected": true,
+            "description": "Vaulted living room with tall glass"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7072046_7.jpg",
+            "localPath": "/private/tmp/marquee-east/chickadee-7.jpg",
+            "visuallyInspected": true,
+            "description": "SALA kitchen and open spatial relationship"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7072046_12.jpg",
+            "localPath": "/private/tmp/marquee-east/chickadee-12.jpg",
+            "visuallyInspected": true,
+            "description": "Sunroom facing trees"
+          }
+        ],
+        "credit": "Edina Realty, Inc.; Sonia Kohli; NorthstarMLS #7072046; gallery published by Pederson Realty via Repliers. Individual photographer not identified.",
+        "concerns": [
+          "Historical sold reference, not current inventory.",
+          "Date source discrepancy: Capecchi brokerage gives closing July17; Pederson data says July8, apparently pending-related. Use July2026 display if avoiding precise-date ambiguity.",
+          "3 bedrooms; no workshop/solar documented."
+        ]
+      }
+    ],
+    "heldBack": [
+      {
+        "address": "4 Thrush Lane, North Oaks",
+        "reason": "John Howe design with Pleasant Lake setting but current $1.29M above budget."
+      },
+      {
+        "address": "2065 Wildview Ave, Saint Paul",
+        "reason": "Marcel Breuer attribution and historical $512k verified, but no full listing gallery verified."
+      },
+      {
+        "address": "2191 Fulham Street, Roseville",
+        "reason": "David Salmela first home confirmed by buyer-agent account, historical $487500 Jan29 2021. Full listing gallery not verified; not recommended for addition."
+      },
+      {
+        "address": "9585 Pawnee Ave, Stillwater Twp",
+        "reason": "Already verified photos in timber-northeast.json, but only two bedrooms and distant location; not as strong a family candidate as Chickadee."
+      }
+    ]
+  },
+  "excluded": [
+    {
+      "address": "7730 Smetana Lane, Eden Prairie",
+      "reason": "Geothermal documented, but not advanced as a marquee architectural choice."
+    },
+    {
+      "address": "15907 James Avenue S, Burnsville",
+      "reason": "Howe’s Sankaku: no verified usable listing gallery retrieved."
+    },
+    {
+      "address": "45 Cristofori Circle, Orono",
+      "reason": "Over the $1M budget at $2.795M."
+    }
+  ]
+}

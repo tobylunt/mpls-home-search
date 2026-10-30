@@ -48,6 +48,75 @@
     }
   },
   {
+    "id": "blaylock",
+    "address": "9350 Blaylock Circle",
+    "city": "Prior Lake",
+    "price": 775000,
+    "status": "Sold reference",
+    "style": "Usonian",
+    "reaction": "New find",
+    "description": "John Howe’s 1968 house on 11.22 wooded acres inside Murphy-Hanrehan Park Reserve. Limestone, original built-ins, long walls of glass and a 26 × 15-foot workshop.",
+    "context": "3 bedrooms, 3 bathrooms. Sold August 2026 for $775,000. The 2026 listing flagged a noncompliant septic system; restoration and repair needs deserve close review. Google Maps typically 30–45 minutes each way outside rush hour.",
+    "url": "https://www.redfin.com/MN/Prior-Lake/9350-Blaylock-Cir-55372/home/50782928",
+    "year": 1968,
+    "sqft": 2866,
+    "lat": 44.7129641,
+    "lng": -93.3300051,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/blaylock-exterior.webp",
+      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/9350-Blaylock-Cir_Prior-Lake_MN_55372_M72634-25647",
+      "credit": "Edina Realty / Denise Houk Photography, via Realtor.com"
+    }
+  },
+  {
+    "id": "kings",
+    "address": "110711 Kings Lane",
+    "city": "Chaska",
+    "price": 700000,
+    "status": "Sold reference",
+    "style": "Mid-century",
+    "reaction": "New find",
+    "description": "Ralph Rapson’s Red Cedar House: steep wood ceilings, tall glass and a central see-through brick fireplace. Set among mature trees on 0.65 acres.",
+    "context": "3 bedrooms, 3 bathrooms, a sunroom office and sauna. Sold in 2025 for $700,000; the architectural listing still shows the older $625,000 ask. Google Maps typically 30–40 minutes each way outside rush hour.",
+    "url": "https://www.architectural-lifestyles.com/110711kingslane",
+    "year": 1968,
+    "sqft": 2949,
+    "lat": 44.8263867,
+    "lng": -93.6154163,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/kings-exterior.jpg",
+      "sourceUrl": "https://www.architectural-lifestyles.com/110711kingslane",
+      "credit": "Architectural Lifestyles / Scott Acker, Coldwell Banker Realty"
+    }
+  },
+  {
+    "id": "chickadee",
+    "address": "1 Chickadee Lane",
+    "city": "North Oaks",
+    "price": 765000,
+    "status": "Sold reference",
+    "style": "Mid-century",
+    "reaction": "New find",
+    "description": "Eldon Morrison design with a Kelly Davis / SALA kitchen remodel. Angular rooflines, vaulted rooms and large windows on 1.4 wooded acres, with a native pollinator garden.",
+    "context": "3 bedrooms, 2½ bathrooms. Sold July 2026 for $765,000. Shared association beach and dock; 2026 HOA dues $2,110/year. Google Maps typically 24–35 minutes to McKnight and 24–30 minutes home outside rush hour.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+    "year": 1971,
+    "sqft": 2512,
+    "lat": 45.1090839,
+    "lng": -93.0878537,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/chickadee-exterior.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+      "credit": "Edina Realty / NorthstarMLS via Pederson Realty"
+    }
+  },
+  {
     "id": "williston",
     "address": "3904 Williston Road",
     "city": "Minnetonka",
