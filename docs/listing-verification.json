@@ -1001,13 +1001,13 @@
   {
     "id": "birch-bluff",
     "verified": true,
-    "url": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+    "url": "https://www.zillow.com/homedetails/55-Birch-Bluff-Rd-Tonka-Bay-MN-55331/1953685_zpid/",
     "photoUrl": "https://i16.moxi.onl/img-pr-000551/nst/a2c83c33127e167e7988aa38a9aa05bd701f33dc/1_3_gallery.jpg",
     "localPhoto": "public/photos/birch-bluff-exterior.jpg",
     "photoCredit": "Nathan Chaika, BHGRE All Seasons / NorthstarMLS",
     "visuallyInspected": true,
     "sourceAddressText": "55 Birch Bluff Road, Tonka Bay, MN",
-    "evidence": "Brokerage sold-listing HTML explicitly identifies a handcrafted timber-frame home and hand-cut timbers/joints. Redfin exact-address detail repeats that construction description. Strong whole-house claim, not merely decorative exposed beams. 1024x768 exact address-bound brokerage image inspected: light-green steep-roof house in snowy woods with white exposed-frame entry porch; 55 visible on entry post. This exterior photo does not independently prove internal framing; the construction claim comes from explicit MLS description corroborated by Redfin.",
+    "evidence": "Brokerage sold-listing HTML explicitly identifies a handcrafted timber-frame home and hand-cut timbers/joints. Redfin exact-address detail repeats that construction description. Strong whole-house claim, not merely decorative exposed beams. 1024x768 exact address-bound brokerage image inspected: light-green steep-roof house in snowy woods with white exposed-frame entry porch; 55 visible on entry post. This exterior photo does not independently prove internal framing; the construction claim comes from explicit MLS description corroborated by Redfin. Live Zillow gallery verified Oct 30, 2026 at the user-provided exact-address URL. Gallery reports 23 photos. Visually inspected exterior photo 1 and interior photos 5–8; dining/living views show substantial posts, beams, knee braces and wood ceiling decking. NorthstarMLS as distributed by MLS GRID is the displayed source. Zillow Zestimate is not an asking or sale price; retained the documented 2017 sale price.",
     "verifiedAt": "2026-10-30",
     "reason": null,
     "locationEvidence": {
@@ -1041,7 +1041,11 @@
       ]
     },
     "status": "Sold reference",
-    "price": 465000
+    "price": 465000,
+    "liveBrowserVerified": true,
+    "galleryCount": 23,
+    "interiorPhotoUrl": "https://photos.zillowstatic.com/fp/3d6d07333c32c6a6737e957f3c8916a0-uncropped_scaled_within_1344_1008.jpg",
+    "interiorVisuallyInspected": true
   },
   {
     "id": "brown",

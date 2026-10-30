@@ -23,11 +23,11 @@
     {
       "id": "birch-bluff",
       "address": "55 Birch Bluff Road",
-      "url": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+      "url": "https://www.zillow.com/homedetails/55-Birch-Bluff-Rd-Tonka-Bay-MN-55331/1953685_zpid/",
       "status": "Sold reference",
       "price": 465000,
-      "description": "Handcrafted timber frame with hand-cut joints and three-story windows, according to the listing.",
-      "context": "Sold April 21, 2017 for $465,000. 4 bedrooms, 2 baths on a reported 1.39 acres. Construction is documented in the old listing; only its exterior photo could be recovered."
+      "description": "Handcrafted timber frame, exposed posts and braces, wood ceilings and tall windows overlooking the trees.",
+      "context": "Sold April 21, 2017 for $465,000. 4 bedrooms, 2 baths on a reported 1.39 acres. Zillow has 23 listing photos, including the timber-frame interiors."
     },
     {
       "id": "brown",
@@ -191,7 +191,7 @@
       "id": "birch-bluff",
       "verified": true,
       "address": "55 Birch Bluff Road, Tonka Bay, MN 55331",
-      "url": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+      "url": "https://www.zillow.com/homedetails/55-Birch-Bluff-Rd-Tonka-Bay-MN-55331/1953685_zpid/",
       "status": "Sold",
       "saleDate": "2017-04-21",
       "price": 465000,
@@ -203,20 +203,23 @@
       "acres": 1.39,
       "category": "Full timber-frame home",
       "description": "Handcrafted timber-frame home on a wooded Tonka Bay lot, with hand-cut joints, tall vaults and three-story windows.",
-      "constructionEvidence": "Brokerage sold-listing HTML explicitly identifies a handcrafted timber-frame home and hand-cut timbers/joints. Redfin exact-address detail repeats that construction description. Strong whole-house claim, not merely decorative exposed beams.",
+      "constructionEvidence": "Brokerage sold-listing HTML explicitly identifies a handcrafted timber-frame home and hand-cut timbers/joints. Redfin exact-address detail repeats that construction description. Strong whole-house claim, not merely decorative exposed beams. Live gallery interiors now also visually confirm the exposed structure.",
       "evidenceURLs": [
         "https://nathanchaika.com/listings/my-sold-listings?page=3",
         "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
         "https://www.zillow.com/homedetails/55-Birch-Bluff-Rd-Tonka-Bay-MN-55331/1953685_zpid/"
       ],
-      "verificationMethod": "Direct HTTP200 brokerage page saved /private/tmp/chaika.html: exact address, description, sale465000 and photo in same listing item. Successful web.open Redfin full exact-address detail turn115view0 lines144-165 confirms construction; successful Zillow detail turn104view0 lines315-325 confirms Apr21 2017 sale465000 and MLS4782573.",
+      "verificationMethod": "Direct HTTP200 brokerage page saved /private/tmp/chaika.html: exact address, description, sale465000 and photo in same listing item. Successful web.open Redfin full exact-address detail turn115view0 lines144-165 confirms construction; successful Zillow detail turn104view0 lines315-325 confirms Apr21 2017 sale465000 and MLS4782573. Live Zillow gallery verified Oct 30, 2026 at the user-provided exact-address URL. Gallery reports 23 photos. Visually inspected exterior photo 1 and interior photos 5–8; dining/living views show substantial posts, beams, knee braces and wood ceiling decking. NorthstarMLS as distributed by MLS GRID is the displayed source. Zillow Zestimate is not an asking or sale price; retained the documented 2017 sale price.",
       "photoUrl": "https://i16.moxi.onl/img-pr-000551/nst/a2c83c33127e167e7988aa38a9aa05bd701f33dc/1_3_gallery.jpg",
       "localPhoto": "/private/tmp/home-photos/timber-birch.jpg",
       "photoCredit": "Nathan Chaika / Better Homes and Gardens Real Estate All Seasons; NORTHSTAR MLS as distributed by MLS GRID, MLS4782573",
       "visuallyInspected": true,
       "photoEvidence": "1024x768 exact address-bound brokerage image inspected: light-green steep-roof house in snowy woods with white exposed-frame entry porch; 55 visible on entry post. This exterior photo does not independently prove internal framing; the construction claim comes from explicit MLS description corroborated by Redfin.",
-      "interiorPhotoUrl": null,
-      "limitations": "No verified interior photo found. Zillow and Redfin presently expose no historic interior gallery. Redfin uses postal city Excelsior; brokerage and Zillow say Tonka Bay. Historical sale price is not a current asking price. Coordinates not available from retrieved listing content."
+      "interiorPhotoUrl": "https://photos.zillowstatic.com/fp/3d6d07333c32c6a6737e957f3c8916a0-uncropped_scaled_within_1344_1008.jpg",
+      "limitations": "Historical sale price and listing photos; not current availability. Redfin uses postal city Excelsior; brokerage and Zillow say Tonka Bay.",
+      "galleryCount": 23,
+      "liveBrowserVerified": true,
+      "interiorVisuallyInspected": true
     },
     {
       "id": "spring-lane",
@@ -347,6 +350,11 @@
       "reason": "Verified post-and-beam addition rather than a full timber-frame house. Retained as a secondary lead."
     }
   ],
-  "limitations": "Public listings and photo review establish reported construction, not an independent structural inspection. Sale prices are historical. Birch Bluff has a verified exterior but no recovered interior gallery.",
-  "noUserRatingsChanged": true
+  "limitations": "Public listings and photo review establish reported construction, not an independent structural inspection. Sale prices and photos are historical.",
+  "noUserRatingsChanged": true,
+  "commuteContext": {
+    "destination": "McKnight Foundation",
+    "source": "User message on October 30, 2026",
+    "note": "User reports the three timber-frame homes are within about 40 minutes of McKnight Foundation and welcomes this reach. Use McKnight as a reference for future location research; this is not an independently verified travel-time estimate or a hard commute cutoff."
+  }
 }
