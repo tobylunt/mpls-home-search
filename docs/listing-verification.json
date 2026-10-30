@@ -907,5 +907,250 @@
       "source": "https://pedersonrealty.com/homes-for-sale/mn/hopkins/111-11th-avenue-n/mls-7153318"
     },
     "qualification": "Quiet-street criterion remains unassessed; requires an in-person noise check."
+  },
+  {
+    "id": "pomroy",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-6241872_12523242841510.jpg",
+    "localPhoto": "public/photos/pomroy-exterior.jpg",
+    "photoCredit": "RE/MAX Synergy; Robert Randall; NorthstarMLS #6241872; photographs published by Pederson Realty via Repliers. Individual photographer not identified.",
+    "visuallyInspected": true,
+    "sourceAddressText": "23845 Pomroy Avenue N, Scandia, MN",
+    "evidence": "Listing explicitly says post-and-beam timber-frame construction with SIPs. Exact-address brokerage page embeds MLS 6241872 gallery. Viewed photos confirm structural posts, knee braces, truss and exposed timber floor frame. Selected gallery photo 38 is a clear ground-level exterior; inspected both exterior and structural interior. Sale date/price corroborated with Zillow and Realtor.com.",
+    "verifiedAt": "2026-10-30",
+    "reason": null,
+    "locationEvidence": {
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=23845+Pomroy+Ave+N%2C+Scandia%2C+MN+55073&benchmark=Public_AR_Current&format=json",
+      "matches": [
+        {
+          "tigerLine": {
+            "side": "L",
+            "tigerLineId": "646686030"
+          },
+          "coordinates": {
+            "x": -92.784223072922,
+            "y": 45.293552934313
+          },
+          "addressComponents": {
+            "zip": "55073",
+            "streetName": "POMROY",
+            "preType": "",
+            "city": "SCANDIA",
+            "preDirection": "",
+            "suffixDirection": "N",
+            "fromAddress": "23899",
+            "state": "MN",
+            "suffixType": "AVE",
+            "toAddress": "23801",
+            "suffixQualifier": "",
+            "preQualifier": ""
+          },
+          "matchedAddress": "23845 POMROY AVE N, SCANDIA, MN, 55073"
+        }
+      ]
+    },
+    "status": "Sold reference",
+    "price": 550000
+  },
+  {
+    "id": "wyoming",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+    "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/914/6185914_1.jpg",
+    "localPhoto": "public/photos/wyoming-exterior.jpg",
+    "photoCredit": "Edina Realty, Inc.; Greg and Therese Shaleen; NorthstarMLS via MLS Grid #6185914; photos published by Redfin. Individual photographer not identified.",
+    "visuallyInspected": true,
+    "sourceAddressText": "6640 215th Avenue NE, Wyoming, MN",
+    "evidence": "MLS description explicitly identifies white-oak timber-frame construction. Address-labelled Redfin gallery has 38 photos. Interior inspection confirms substantial posts, knee braces and roof framing. 189 feet Linwood Lake frontage.",
+    "verifiedAt": "2026-10-30",
+    "reason": null,
+    "locationEvidence": {
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=6640+215th+Ave+NE%2C+Wyoming%2C+MN+55092&benchmark=Public_AR_Current&format=json",
+      "matches": [
+        {
+          "tigerLine": {
+            "side": "R",
+            "tigerLineId": "97530310"
+          },
+          "coordinates": {
+            "x": -93.100213138542,
+            "y": 45.360192433091
+          },
+          "addressComponents": {
+            "zip": "55092",
+            "streetName": "215TH",
+            "preType": "",
+            "city": "WYOMING",
+            "preDirection": "",
+            "suffixDirection": "NE",
+            "fromAddress": "6300",
+            "state": "MN",
+            "suffixType": "AVE",
+            "toAddress": "6698",
+            "suffixQualifier": "",
+            "preQualifier": ""
+          },
+          "matchedAddress": "6640 215TH AVE NE, WYOMING, MN, 55092"
+        }
+      ]
+    },
+    "status": "Sold reference",
+    "price": 950000
+  },
+  {
+    "id": "birch-bluff",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+    "photoUrl": "https://i16.moxi.onl/img-pr-000551/nst/a2c83c33127e167e7988aa38a9aa05bd701f33dc/1_3_gallery.jpg",
+    "localPhoto": "public/photos/birch-bluff-exterior.jpg",
+    "photoCredit": "Nathan Chaika / Better Homes and Gardens Real Estate All Seasons; NORTHSTAR MLS as distributed by MLS GRID, MLS4782573",
+    "visuallyInspected": true,
+    "sourceAddressText": "55 Birch Bluff Road, Tonka Bay, MN",
+    "evidence": "Brokerage sold-listing HTML explicitly identifies a handcrafted timber-frame home and hand-cut timbers/joints. Redfin exact-address detail repeats that construction description. Strong whole-house claim, not merely decorative exposed beams. 1024x768 exact address-bound brokerage image inspected: light-green steep-roof house in snowy woods with white exposed-frame entry porch; 55 visible on entry post. This exterior photo does not independently prove internal framing; the construction claim comes from explicit MLS description corroborated by Redfin.",
+    "verifiedAt": "2026-10-30",
+    "reason": null,
+    "locationEvidence": {
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=55+Birch+Bluff+Rd%2C+Tonka+Bay%2C+MN+55331&benchmark=Public_AR_Current&format=json",
+      "matches": [
+        {
+          "tigerLine": {
+            "side": "L",
+            "tigerLineId": "43840064"
+          },
+          "coordinates": {
+            "x": -93.596093994251,
+            "y": 44.912028100288
+          },
+          "addressComponents": {
+            "zip": "55331",
+            "streetName": "BIRCH BLUFF",
+            "preType": "",
+            "city": "EXCELSIOR",
+            "preDirection": "",
+            "suffixDirection": "",
+            "fromAddress": "1",
+            "state": "MN",
+            "suffixType": "RD",
+            "toAddress": "83",
+            "suffixQualifier": "",
+            "preQualifier": ""
+          },
+          "matchedAddress": "55 BIRCH BLUFF RD, EXCELSIOR, MN, 55331"
+        }
+      ]
+    },
+    "status": "Sold reference",
+    "price": 465000
+  },
+  {
+    "id": "brown",
+    "verified": true,
+    "url": "https://www.realtor.com/realestateandhomes-detail/5-S-Brown-Rd_Orono_MN_55356_M76577-09468",
+    "photoUrl": "https://ap.rdcpix.com/997beed6103dd9cf63231623e2e7bc19l-m2940210420rd-w960_h720.webp",
+    "localPhoto": "public/photos/brown-exterior.webp",
+    "photoCredit": "Realtor.com / NorthstarMLS; listing Sarah Polovitz and Alexander Anderson, Compass. Individual photographer not identified.",
+    "visuallyInspected": true,
+    "sourceAddressText": "5 S Brown Road, Orono, MN",
+    "evidence": "Realtor page lines 8–85 matches address and reports sale January 9, 2026 for $1,000,000. Exterior photo is page link 3 with exact address alt text; living-room photo page link 8. Both downloaded and visually inspected. Redfin description lines 160–181 attributes design to George Mastny and lists redwood, terrazzo, walnut cabinetry and wooded setting.",
+    "verifiedAt": "2026-10-30",
+    "reason": null,
+    "locationEvidence": {
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=5+S+Brown+Rd%2C+Orono%2C+MN+55391&benchmark=Public_AR_Current&format=json",
+      "matches": [
+        {
+          "tigerLine": {
+            "side": "L",
+            "tigerLineId": "43603777"
+          },
+          "coordinates": {
+            "x": -93.573802575055,
+            "y": 44.978089678224
+          },
+          "addressComponents": {
+            "zip": "55356",
+            "streetName": "BROWN",
+            "preType": "",
+            "city": "ORONO",
+            "preDirection": "",
+            "suffixDirection": "S",
+            "fromAddress": "15",
+            "state": "MN",
+            "suffixType": "RD",
+            "toAddress": "1",
+            "suffixQualifier": "",
+            "preQualifier": ""
+          },
+          "matchedAddress": "5 BROWN RD S, ORONO, MN, 55356"
+        }
+      ]
+    },
+    "status": "Sold reference",
+    "price": 1000000
+  },
+  {
+    "id": "oak",
+    "verified": true,
+    "url": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+    "photoUrl": "https://ap.rdcpix.com/ec8e37e5b78b621998fa769fb18835c8l-m330948986rd-w960_h720.webp",
+    "localPhoto": "public/photos/oak-exterior.webp",
+    "photoCredit": "Realtor.com / ©2026 Northstar MLS #7093695; seller agent Ryan Platzke, Coldwell Banker Realty. Individual photographer not identified.",
+    "visuallyInspected": true,
+    "sourceAddressText": "620 Oak Street W, Stillwater, MN",
+    "evidence": "Opened Realtor page lines 8–79 confirms exact address, sold August 19, 2026 for $625,000, 1954 construction and 2,252 sqft. Page link 4 exact-address yard image is exterior card; link 9 living room. Both downloaded and inspected. Coldwell Banker MLS7093695 independently shows same sale date/price.",
+    "verifiedAt": "2026-10-30",
+    "reason": null,
+    "locationEvidence": {
+      "source": "https://geocoding.geo.census.gov/geocoder/locations/onelineaddress?address=620+Oak+St+W%2C+Stillwater%2C+MN+55082&benchmark=Public_AR_Current&format=json",
+      "matches": [
+        {
+          "tigerLine": {
+            "side": "L",
+            "tigerLineId": "656615225"
+          },
+          "coordinates": {
+            "x": -92.814344517005,
+            "y": 45.052434826858
+          },
+          "addressComponents": {
+            "zip": "55082",
+            "streetName": "OAK",
+            "preType": "",
+            "city": "STILLWATER",
+            "preDirection": "",
+            "suffixDirection": "W",
+            "fromAddress": "698",
+            "state": "MN",
+            "suffixType": "ST",
+            "toAddress": "500",
+            "suffixQualifier": "",
+            "preQualifier": ""
+          },
+          "matchedAddress": "620 OAK ST W, STILLWATER, MN, 55082"
+        }
+      ]
+    },
+    "status": "Sold reference",
+    "price": 625000
+  },
+  {
+    "id": "ricecreek",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/fridley/567-rice-creek-terrace-ne/mls-7151563",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7151563_85dbd69ddbe576cf6dc94b997f1ee94483a57fe014897113959deb455d5fe431.jpg?class=large",
+    "localPhoto": "public/photos/ricecreek-exterior.jpg",
+    "photoCredit": "BuySelf, Inc. / NorthstarMLS via Pederson Realty",
+    "visuallyInspected": true,
+    "sourceAddressText": "567 Rice Creek Terrace NE, Fridley, MN",
+    "evidence": "Direct HTTP 200 exact-address MLS 7151563 record checked Oct 30, 2026. standardStatus is Active Under Contract; price 524999. Exact gallery exterior photo 4 downloaded at 1600px and visually inspected; number 567 visible. Interior/contact sheets inspected. Grumdahl Group and Coldwell Banker corroborate price and listing identity.",
+    "verifiedAt": "2026-10-30",
+    "reason": null,
+    "locationEvidence": {
+      "source": "https://pedersonrealty.com/homes-for-sale/mn/fridley/567-rice-creek-terrace-ne/mls-7151563",
+      "lat": 45.0920820123,
+      "lng": -93.2593799402
+    },
+    "status": "Under contract",
+    "price": 524999
   }
 ]

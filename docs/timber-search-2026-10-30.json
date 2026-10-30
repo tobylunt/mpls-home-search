@@ -1,0 +1,352 @@
+{
+  "checkedOn": "2026-10-30",
+  "selectionPolicy": "User welcomes attractive sold, withdrawn and older listings as architectural references. Availability alone is not a reason to exclude a strong design; status and historical price/date must stay explicit. Continue to verify exact listing identity and actual photographs.",
+  "added": [
+    {
+      "id": "pomroy",
+      "address": "23845 Pomroy Avenue N",
+      "url": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+      "status": "Sold reference",
+      "price": 550000,
+      "description": "Exposed timber posts, knee braces and a loft above the vaulted great room. Set on five acres.",
+      "context": "Sold September 27, 2022 for $550,000. 4 bedrooms, 2½ baths. The listing documents timber-frame construction with insulated panels, geothermal heating and solar panels."
+    },
+    {
+      "id": "wyoming",
+      "address": "6640 215th Avenue NE",
+      "url": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+      "status": "Sold reference",
+      "price": 950000,
+      "description": "White-oak timber frame, a two-story great room and a tall brick hearth beside Linwood Lake.",
+      "context": "Sold June 9, 2022 for $950,000. 3 bedrooms, 3 baths on 2.5 acres with 189 feet of lake frontage. Historical listing photos show the frame clearly; this is a farther-out lake-home reference."
+    },
+    {
+      "id": "birch-bluff",
+      "address": "55 Birch Bluff Road",
+      "url": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+      "status": "Sold reference",
+      "price": 465000,
+      "description": "Handcrafted timber frame with hand-cut joints and three-story windows, according to the listing.",
+      "context": "Sold April 21, 2017 for $465,000. 4 bedrooms, 2 baths on a reported 1.39 acres. Construction is documented in the old listing; only its exterior photo could be recovered."
+    },
+    {
+      "id": "brown",
+      "address": "5 S Brown Road",
+      "url": "https://www.realtor.com/realestateandhomes-detail/5-S-Brown-Rd_Orono_MN_55356_M76577-09468",
+      "status": "Sold reference",
+      "price": 1000000,
+      "description": "Redwood beams, walnut cabinetry, terrazzo and a stone fireplace. The listing attributes the design to George Mastny.",
+      "context": "Sold January 9, 2026 for $1,000,000. 4 bedrooms, 4 baths on 1.56 acres. Kept for its materials, rooms and wooded setting."
+    },
+    {
+      "id": "oak",
+      "address": "620 Oak Street W",
+      "url": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+      "status": "Sold reference",
+      "price": 625000,
+      "description": "Mid-century home with an angular roofline, brick chimney, clerestory windows and a planted front garden.",
+      "context": "Sold August 19, 2026 for $625,000. 4 bedrooms, 2½ baths on a compact 0.20-acre lot. An architectural reference for its roofline, light and garden connection."
+    },
+    {
+      "id": "ricecreek",
+      "address": "567 Rice Creek Terrace NE",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/fridley/567-rice-creek-terrace-ne/mls-7151563",
+      "status": "Under contract",
+      "price": 524999,
+      "description": "Exposed beams, wood walls, built-ins and broad glass gables on 2.2 acres along Rice Creek.",
+      "context": "Under contract; retained for the architecture and setting. The listing asks $524,999. Confirm the bathroom count and wastewater system: published records disagree, and the listing includes both public sewer and a holding tank."
+    }
+  ],
+  "timberResearch": [
+    {
+      "id": "wyoming-timber",
+      "verified": true,
+      "address": "6640 215th Ave NE, Wyoming, MN 55092",
+      "url": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+      "status": "Sold",
+      "soldDate": "2022-06-09",
+      "price": 950000,
+      "priceLabel": "Sold June 2022",
+      "year": 1985,
+      "beds": 3,
+      "baths": 3,
+      "sqft": 3504,
+      "acres": 2.5,
+      "evidence": "MLS description explicitly identifies white-oak timber-frame construction. Address-labelled Redfin gallery has 38 photos. Interior inspection confirms substantial posts, knee braces and roof framing. 189 feet Linwood Lake frontage.",
+      "credit": "Edina Realty, Inc.; Greg and Therese Shaleen; NorthstarMLS via MLS Grid #6185914; photos published by Redfin. Individual photographer not identified.",
+      "photos": [
+        {
+          "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/914/6185914_1.jpg",
+          "localPath": "/private/tmp/timber-photos/wyoming-exterior.jpg",
+          "visuallyInspected": true,
+          "note": "Lakeside exterior; clear cedar-sided multilevel home."
+        },
+        {
+          "url": "https://ssl.cdn-redfin.com/photo/114/mbphotov3/914/genMid.6185914_9_3.jpg",
+          "localPath": "/private/tmp/timber-photos/wyoming-greatroom.jpg",
+          "visuallyInspected": true,
+          "note": "Loft overlooks great room; visible timber posts, braces and roof frame."
+        }
+      ],
+      "concerns": [
+        "Historical sale price, not current asking price.",
+        "Listing claims within 50 minutes of Twin Cities; actual commute not verified.",
+        "Sqft from historical MLS (2486 above +1018 below); public-record figure differs.",
+        "Pederson old-MLS URL redirected to unrelated search inventory; do not use its photographs."
+      ]
+    },
+    {
+      "id": "pawnee-timber",
+      "verified": true,
+      "address": "9585 Pawnee Ave, Stillwater Twp, MN 55082",
+      "url": "https://www.redfin.com/MN/Stillwater/9585-Pawnee-Ave-55082/home/50173166",
+      "status": "Sold",
+      "soldDate": "2014-01-22",
+      "price": 450000,
+      "priceLabel": "Sold January 2014",
+      "year": 1985,
+      "beds": 2,
+      "baths": 3,
+      "sqft": 2176,
+      "acres": 7.4,
+      "evidence": "Listing expressly calls the house timber frame. Exact-address gallery contains 18 photos. Interior shows exposed heavy timber floor/roof framing with steel connections; exterior is a compact steep-roofed cottage. Finished area is 1460 above plus 716 below.",
+      "credit": "Edina Realty, Inc.; Mary and Simon Hardy; NorthstarMLS via MLS Grid #4402666; photographs published by Redfin and visibly watermarked NorthstarMLS.",
+      "photos": [
+        {
+          "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/666/4402666_3.jpg",
+          "localPath": "/private/tmp/timber-photos/pawnee-exterior.jpg",
+          "visuallyInspected": true,
+          "note": "Exterior with steep wood-shingle roof and wooded setting; only 640x480."
+        },
+        {
+          "url": "https://ssl.cdn-redfin.com/photo/114/mbphotov3/666/genMid.4402666_4_3.jpg",
+          "localPath": "/private/tmp/timber-photos/pawnee-greatroom.jpg",
+          "visuallyInspected": true,
+          "note": "Living room shows exposed framing under loft."
+        },
+        {
+          "url": "https://ssl.cdn-redfin.com/photo/114/mbphotov3/666/genMid.4402666_7_3.jpg",
+          "localPath": "/private/tmp/timber-photos/pawnee-interior.jpg",
+          "visuallyInspected": true,
+          "note": "Loft bedroom shows substantial beams and steel joint plates."
+        }
+      ],
+      "concerns": [
+        "Only 2 bedrooms.",
+        "2014 sale and photographs are old; architectural reference only.",
+        "Historical $450000 is not a present valuation.",
+        "Photo sharpness limited by original old MLS gallery."
+      ]
+    },
+    {
+      "id": "pomroy-timber",
+      "verified": true,
+      "address": "23845 Pomroy Ave N, Scandia, MN 55073",
+      "url": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+      "photoSourcePage": "https://pedersonrealty.com/homes-for-sale/mn/scandia/23845-pomroy-avenue-n/mls-6241872",
+      "status": "Sold",
+      "soldDate": "2022-09-27",
+      "price": 550000,
+      "priceLabel": "Sold September 2022",
+      "year": 2000,
+      "beds": 4,
+      "baths": 2.5,
+      "sqft": 2069,
+      "acres": 5,
+      "evidence": "Listing explicitly says post-and-beam timber-frame construction with SIPs. Exact-address brokerage page embeds MLS 6241872 gallery. Viewed photos confirm structural posts, knee braces, truss and exposed timber floor frame.",
+      "credit": "RE/MAX Synergy; Robert Randall; NorthstarMLS #6241872; photographs published by Pederson Realty via Repliers. Individual photographer not identified.",
+      "photos": [
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-6241872_12523093818865.jpg",
+          "localPath": "/private/tmp/timber-photos/pomroy-0.jpg",
+          "visuallyInspected": true,
+          "note": "Ground-level driveway/exterior; partly screened by trees."
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-6241872_12523765508079.jpg",
+          "localPath": "/private/tmp/timber-photos/pomroy-3.jpg",
+          "visuallyInspected": true,
+          "note": "Aerial shows house, garage, outbuilding and solar arrays."
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-6241872_12522601162870.jpg",
+          "localPath": "/private/tmp/timber-photos/pomroy-4.jpg",
+          "visuallyInspected": true,
+          "note": "Best structural interior: posts, braces and loft framing."
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-6241872_12521348264915.jpg",
+          "localPath": "/private/tmp/timber-photos/pomroy-5.jpg",
+          "visuallyInspected": true,
+          "note": "Great room facing fireplace and timber truss."
+        }
+      ],
+      "concerns": [
+        "Historical sold reference.",
+        "Pederson page can display prior asking price and pending date as sold; use Redfin for closed sale.",
+        "Parent independently verified sale and finished area."
+      ]
+    },
+    {
+      "id": "birch-bluff",
+      "verified": true,
+      "address": "55 Birch Bluff Road, Tonka Bay, MN 55331",
+      "url": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+      "status": "Sold",
+      "saleDate": "2017-04-21",
+      "price": 465000,
+      "priceType": "historical sale price",
+      "beds": 4,
+      "baths": 2,
+      "sqft": 2394,
+      "year": 1984,
+      "acres": 1.39,
+      "category": "Full timber-frame home",
+      "description": "Handcrafted timber-frame home on a wooded Tonka Bay lot, with hand-cut joints, tall vaults and three-story windows.",
+      "constructionEvidence": "Brokerage sold-listing HTML explicitly identifies a handcrafted timber-frame home and hand-cut timbers/joints. Redfin exact-address detail repeats that construction description. Strong whole-house claim, not merely decorative exposed beams.",
+      "evidenceURLs": [
+        "https://nathanchaika.com/listings/my-sold-listings?page=3",
+        "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+        "https://www.zillow.com/homedetails/55-Birch-Bluff-Rd-Tonka-Bay-MN-55331/1953685_zpid/"
+      ],
+      "verificationMethod": "Direct HTTP200 brokerage page saved /private/tmp/chaika.html: exact address, description, sale465000 and photo in same listing item. Successful web.open Redfin full exact-address detail turn115view0 lines144-165 confirms construction; successful Zillow detail turn104view0 lines315-325 confirms Apr21 2017 sale465000 and MLS4782573.",
+      "photoUrl": "https://i16.moxi.onl/img-pr-000551/nst/a2c83c33127e167e7988aa38a9aa05bd701f33dc/1_3_gallery.jpg",
+      "localPhoto": "/private/tmp/home-photos/timber-birch.jpg",
+      "photoCredit": "Nathan Chaika / Better Homes and Gardens Real Estate All Seasons; NORTHSTAR MLS as distributed by MLS GRID, MLS4782573",
+      "visuallyInspected": true,
+      "photoEvidence": "1024x768 exact address-bound brokerage image inspected: light-green steep-roof house in snowy woods with white exposed-frame entry porch; 55 visible on entry post. This exterior photo does not independently prove internal framing; the construction claim comes from explicit MLS description corroborated by Redfin.",
+      "interiorPhotoUrl": null,
+      "limitations": "No verified interior photo found. Zillow and Redfin presently expose no historic interior gallery. Redfin uses postal city Excelsior; brokerage and Zillow say Tonka Bay. Historical sale price is not a current asking price. Coordinates not available from retrieved listing content."
+    },
+    {
+      "id": "spring-lane",
+      "verified": true,
+      "address": "5333 Spring Lane, Minnetonka, MN 55345",
+      "url": "https://www.redfin.com/MN/Minnetonka/5333-Spring-Ln-55345/home/51478539",
+      "status": "Sold",
+      "saleDate": "2022-08-31",
+      "price": 725000,
+      "priceType": "historical sale price",
+      "beds": 3,
+      "baths": 3,
+      "sqft": 3034,
+      "year": 1957,
+      "acres": 0.53,
+      "category": "Post-and-beam addition; secondary lead",
+      "description": "Minnetonka home with a substantial 2006 post-and-beam addition, vaulted timber ceilings and a wooded half-acre lot.",
+      "constructionEvidence": "MLS explicitly describes a large post-and-beam construction addition in2006. This is not claimed as a whole-house traditional timber frame. Inspected gallery interiors show substantial exposed roof beams and wood decking.",
+      "evidenceURLs": [
+        "https://www.redfin.com/MN/Minnetonka/5333-Spring-Ln-55345/home/51478539"
+      ],
+      "verificationMethod": "Successful full web.open property detail turn100view0; exact-address gallery links42-44 at lines100-104. Sale history Aug31 2022 $725000, MLS6229745. Finished area2342 above+692 below=3034; public record2510 conflicts. Listing year2006 is addition date; public record original1957.",
+      "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/745/6229745_1.jpg",
+      "localPhoto": "/private/tmp/home-photos/timber-spring.jpg",
+      "interiorPhotoUrl": "https://ssl.cdn-redfin.com/photo/114/mbphotov3/745/genMid.6229745_21_2.jpg",
+      "localInteriorPhoto": "/private/tmp/home-photos/timber-spring-interior.jpg",
+      "additionalInteriorPhotoUrl": "https://ssl.cdn-redfin.com/photo/114/mbphotov3/745/genMid.6229745_7_2.jpg",
+      "localAdditionalInteriorPhoto": "/private/tmp/home-photos/timber-spring-living.jpg",
+      "photoCredit": "Redfin / NORTHSTARMLS as Distributed by MLS Grid6229745; Daniel Revsbech, RE/MAX Results",
+      "visuallyInspected": true,
+      "photoEvidence": "Exterior1280x852 green/stone rambler with3-car garage and5333 beside entry. Interior1080px images show bedroom and library with thick exposed sloped roof beams and wood ceiling boards, consistent with the explicit structural construction claim.",
+      "limitations": "Secondary lead only: post-and-beam addition rather than full traditional timber-frame home. Historical sale price, not current ask. Conflicting original/construction year explained above. Coordinates not available from retrieved listing content."
+    }
+  ],
+  "previousSearchReferences": [
+    {
+      "id": "brown",
+      "verified": true,
+      "recommended": true,
+      "address": "5 S Brown Road",
+      "city": "Orono",
+      "sourceAddress": "5 S Brown Rd, Orono, MN 55356",
+      "url": "https://www.realtor.com/realestateandhomes-detail/5-S-Brown-Rd_Orono_MN_55356_M76577-09468",
+      "architectureSource": "https://www.redfin.com/MN/Orono/5-S-Brown-Rd-55356/home/51518583",
+      "photoUrl": "https://ap.rdcpix.com/997beed6103dd9cf63231623e2e7bc19l-m2940210420rd-w960_h720.webp",
+      "localPhoto": "/private/tmp/stale-reference-photos/brown.webp",
+      "photoDimensions": [
+        960,
+        640
+      ],
+      "interiorPhoto": "/private/tmp/stale-reference-photos/brown-interior.webp",
+      "photoCredit": "Realtor.com / NorthstarMLS; listing Sarah Polovitz and Alexander Anderson, Compass. Individual photographer not identified.",
+      "visuallyInspected": true,
+      "openMethod": "web.open exact property detail pages on Realtor.com and Redfin; full address, property facts, sale record and 91-photo gallery returned. No live browser navigation.",
+      "liveBrowserVerified": false,
+      "evidence": "Realtor page lines 8–85 matches address and reports sale January 9, 2026 for $1,000,000. Exterior photo is page link 3 with exact address alt text; living-room photo page link 8. Both downloaded and visually inspected. Redfin description lines 160–181 attributes design to George Mastny and lists redwood, terrazzo, walnut cabinetry and wooded setting.",
+      "corrections": {
+        "price": 1000000,
+        "status": "Sold reference",
+        "year": 1963,
+        "sqft": 3101,
+        "description": "George Mastny mid-century home with redwood beams, stone fireplace and broad windows overlooking a wooded lot."
+      },
+      "soldDate": "2026-01-09",
+      "beds": 4,
+      "baths": 4,
+      "acres": 1.56,
+      "architect": "George Mastny (listing attribution)",
+      "architectureFit": "Strong. Inspected interior shows warm timber framing, stone fireplace, large windows and garden views; exterior has wood siding and low modern volumes.",
+      "unknowns": [
+        "Architect attribution is from listing, not independently checked architectural archive.",
+        "Current physical condition and current owner intentions unknown.",
+        "Listing photos are historical; photographer identity not supplied."
+      ],
+      "reason": null,
+      "verifiedAt": "2026-10-30"
+    },
+    {
+      "id": "oak",
+      "verified": true,
+      "recommended": true,
+      "address": "620 Oak Street W",
+      "city": "Stillwater",
+      "sourceAddress": "620 Oak St W, Stillwater, MN 55082",
+      "url": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+      "saleCorroboration": "https://www.coldwellbankerhomes.com/mn/stillwater/620-oak-street-w/pid_72079031/",
+      "photoUrl": "https://ap.rdcpix.com/ec8e37e5b78b621998fa769fb18835c8l-m330948986rd-w960_h720.webp",
+      "localPhoto": "/private/tmp/stale-reference-photos/oak.webp",
+      "photoDimensions": [
+        960,
+        640
+      ],
+      "interiorPhoto": "/private/tmp/stale-reference-photos/oak-interior.webp",
+      "photoCredit": "Realtor.com / ©2026 Northstar MLS #7093695; seller agent Ryan Platzke, Coldwell Banker Realty. Individual photographer not identified.",
+      "visuallyInspected": true,
+      "openMethod": "web.open exact Realtor.com and Coldwell Banker property pages; full address, sold history and address-bound images returned. Realtor gallery contains 42 images. No live browser navigation.",
+      "liveBrowserVerified": false,
+      "evidence": "Opened Realtor page lines 8–79 confirms exact address, sold August 19, 2026 for $625,000, 1954 construction and 2,252 sqft. Page link 4 exact-address yard image is exterior card; link 9 living room. Both downloaded and inspected. Coldwell Banker MLS7093695 independently shows same sale date/price.",
+      "corrections": {
+        "price": 625000,
+        "status": "Sold reference",
+        "year": 1954,
+        "sqft": 2252,
+        "description": "Mid-century home with an angular roofline, brick chimney, clerestory windows and a planted front garden."
+      },
+      "soldDate": "2026-08-19",
+      "beds": 4,
+      "baths": 2.5,
+      "acres": 0.2,
+      "architect": null,
+      "architectureFit": "Good secondary reference. Exterior has distinct sloped roof geometry, brick chimney and garden connection; interior shows clerestories, tall glazing and warm wood floor. Less timber-rich than Brown, with mostly white interior walls.",
+      "unknowns": [
+        "Architect identity unknown.",
+        "Current physical condition and owner intentions unknown.",
+        "Photographer identity not supplied."
+      ],
+      "reason": null,
+      "verifiedAt": "2026-10-30"
+    }
+  ],
+  "secondaryLeads": [
+    {
+      "id": "pawnee-timber",
+      "reason": "Verified timber-frame reference, but only two bedrooms and small 2014 photos. Retained in research rather than adding another distant card."
+    },
+    {
+      "id": "spring-lane",
+      "reason": "Verified post-and-beam addition rather than a full timber-frame house. Retained as a secondary lead."
+    }
+  ],
+  "limitations": "Public listings and photo review establish reported construction, not an independent structural inspection. Sale prices are historical. Birch Bluff has a verified exterior but no recovered interior gallery.",
+  "noUserRatingsChanged": true
+}
