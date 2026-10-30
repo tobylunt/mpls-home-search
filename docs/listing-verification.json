@@ -273,15 +273,18 @@
     "sourcePageAddressText": "506 Summit Ave, Saint Paul, MN 55102",
     "photoCredit": "Zillow / NorthstarMLS as distributed by MLS GRID6478136",
     "visuallyInspected": true,
-    "evidence": "Full Zillow detail: heading line25 full address; gallery link1 line14 is 1st image of 506 Summit Ave. Actual image clicked/downloaded. Availability conflicting; address/photo identity verified. Exact-address Zillow gallery image1. Inspected gray historic clapboard house, columned portico, curved porch. Zillow says975000 active but history is old; Realtor history says listing removed June26 2026. Current availability unresolved.",
+    "evidence": "Full Zillow detail: heading line25 full address; gallery link1 line14 is 1st image of 506 Summit Ave. Actual image clicked/downloaded. Availability conflicting; address/photo identity verified. Exact-address Zillow gallery image1. Inspected gray historic clapboard house, columned portico, curved porch. Zillow says975000 active but history is old; Realtor history says listing removed June26 2026. Current availability unresolved. Rechecked October 30, 2026: full Zillow page explicitly shows Active and $975000 with the exact address, MLS 6478136 and same 33-photo gallery. Current listing display supersedes earlier history-based uncertainty.",
     "corrections": {
       "year": 1900,
-      "sqft": 4716
+      "sqft": 4716,
+      "price": 975000,
+      "status": "Active"
     },
     "verificationMethod": "Successful web.open full property-detail content with exact address and property-bound gallery; photo visually inspected.",
     "webEvidenceReference": "turn15view2",
-    "accessNote": "conflicting/stale availability and direct Zillow403; original Realtor unavailable. Photo matched but no working destination established.",
-    "reason": null
+    "accessNote": "Full Zillow property page successfully retrieved October 30, 2026.",
+    "reason": null,
+    "verifiedAt": "2026-10-30"
   },
   {
     "id": "croix",
@@ -589,6 +592,21 @@
     "evidence": "Full Redfin detail page matches exact address and photo gallery. Downloaded and visually inspected front exterior; 1929 visible above porch. Source updated Sep 5, 2026 lists for sale at $1.1M and 3540 sqft; supersedes older June Coldwell Banker 3499 sqft and July contingent snapshot. Coldwell Banker image endpoint returned placeholder SVG, excluded.",
     "verifiedAt": "2026-10-30",
     "mls": "7074493",
+    "reason": null
+  },
+  {
+    "id": "upton",
+    "verified": true,
+    "url": "https://www.realtor.com/realestateandhomes-detail/4528-Upton-Ave-S_Minneapolis_MN_55410_M81583-52215",
+    "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/633/7083633_0.jpg",
+    "localPhoto": "public/photos/upton.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Keller Williams Realty Integrity Lakes / NorthstarMLS via Redfin",
+    "sourceAddressText": "4528 Upton Ave S, Minneapolis, MN 55410",
+    "evidence": "Full Redfin detail page matches exact address and MLS 7083633, places house across Beards Plaisance from Lake Harriet. First gallery photograph downloaded and inspected: green stucco Tudor with white half-timber trim and bay window, matching user description. Full Realtor detail page confirms closed sale July 16, 2026 for $820000, superseding older Redfin contingent $850000 snapshot.",
+    "corroboratingUrl": "https://www.redfin.com/MN/Minneapolis/4528-Upton-Ave-S-55410/home/51326267",
+    "verifiedAt": "2026-10-30",
+    "mls": "7083633",
     "reason": null
   }
 ]

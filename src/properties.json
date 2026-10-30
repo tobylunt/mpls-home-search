@@ -243,12 +243,12 @@
     "id": "summit",
     "address": "506 Summit Avenue",
     "city": "Saint Paul",
-    "price": null,
-    "status": "Status unknown",
+    "price": 975000,
+    "status": "Active",
     "style": "Historic",
     "reaction": "Explore",
     "description": "Stained glass, French doors and formal rooms.",
-    "context": "Listing status and price are unresolved.",
+    "context": "Historic Summit Avenue home with a library and fenced garden.",
     "url": "https://www.zillow.com/homedetails/506-Summit-Ave-Saint-Paul-MN-55102/2029003_zpid/",
     "year": 1900,
     "sqft": 4716,
@@ -256,7 +256,7 @@
     "lng": -93.121386310123,
     "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
     "matchedAddress": "506 SUMMIT AVE, SAINT PAUL, MN, 55102",
-    "verifiedOn": "2026-10-29",
+    "verifiedOn": "2026-10-30",
     "photo": {
       "src": "/photos/summit.jpg",
       "sourceUrl": "https://www.zillow.com/homedetails/506-Summit-Ave-Saint-Paul-MN-55102/2029003_zpid/",
@@ -548,6 +548,30 @@
       "src": "/photos/james.jpg",
       "sourceUrl": "https://www.redfin.com/MN/Minneapolis/1929-James-Ave-S-55403/home/51470199",
       "credit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Redfin"
+    }
+  },
+  {
+    "id": "upton",
+    "address": "4528 Upton Avenue S",
+    "city": "Minneapolis",
+    "price": 820000,
+    "status": "Sold reference",
+    "style": "Tudor",
+    "reaction": "Explore",
+    "description": "Green stucco Tudor with half-timber detailing, a bay window and original woodwork.",
+    "context": "Across from Beard\u2019s Plaisance. Sold July 16, 2026 for $820,000.",
+    "url": "https://www.realtor.com/realestateandhomes-detail/4528-Upton-Ave-S_Minneapolis_MN_55410_M81583-52215",
+    "year": 1927,
+    "sqft": 2440,
+    "lat": 44.920973534508,
+    "lng": -93.315162460932,
+    "locationSource": "US Census street-range geocoder \u00b7 Oct 30, 2026",
+    "matchedAddress": "4528 UPTON AVE S, MINNEAPOLIS, MN, 55410",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/upton.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/4528-Upton-Ave-S-55410/home/51326267",
+      "credit": "Keller Williams Realty Integrity Lakes / NorthstarMLS via Redfin"
     }
   }
 ]
