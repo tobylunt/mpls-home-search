@@ -1,0 +1,200 @@
+{
+  "pomroy": {
+    "commute": {
+      "verdict": "no",
+      "detail": "Google Maps: 45–55 min to McKnight; 45–60 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30. Does not reliably meet 45 minutes.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=23845+Pomroy+Avenue+N%2C+Scandia%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=23845+Pomroy+Avenue+N%2C+Scandia%2C+MN&travelmode=driving",
+      "checkedOn": "2026-10-30"
+    },
+    "renewables": {
+      "verdict": "yes",
+      "detail": "Solar arrays and geothermal heating documented in the 2022 listing. Battery storage and off-grid operation are unconfirmed.",
+      "sourceUrl": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "Near the St. Croix Valley; usable water access is not documented.",
+      "sourceUrl": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Five acres, a garden shed and chicken coop. Established growing beds or an orchard are unconfirmed.",
+      "sourceUrl": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "yes",
+      "detail": "Pole barn with a shop and upper-level storage documented in the 2022 listing. Shop power and heating need checking.",
+      "sourceUrl": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "wyoming": {
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 35–45 min to McKnight; 35–45 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=6640+215th+Avenue+NE%2C+Wyoming%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=6640+215th+Avenue+NE%2C+Wyoming%2C+MN&travelmode=driving",
+      "checkedOn": "2026-10-30"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "Off-peak electric heating is documented; renewable generation, batteries and off-grid capability are not.",
+      "sourceUrl": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "yes",
+      "detail": "189 feet on Linwood Lake, with a dock, gradual sandy shoreline and no road between house and water; 2022 listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Wooded 2.5-acre lot; established gardens or growing beds are not documented.",
+      "sourceUrl": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "yes",
+      "detail": "35 × 19-foot second-floor workshop (665 sq ft), plus a separate garage. Documented in the 2022 listing; power and dust collection need checking.",
+      "sourceUrl": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "birch-bluff": {
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 30–45 min to McKnight; 35–45 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30. Return via Shoreline Dr; the first route can take 50 min.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=55+Birch+Bluff+Road%2C+Tonka+Bay%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=55+Birch+Bluff+Road%2C+Tonka+Bay%2C+MN&travelmode=driving",
+      "checkedOn": "2026-10-30"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "Electric radiant heating is listed. Solar, geothermal, batteries and off-grid capability are unconfirmed.",
+      "sourceUrl": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "A Tonka Bay address does not establish lake access; no deeded access is documented in the reviewed listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Wooded 1.39 acres; established gardens or growing infrastructure are unconfirmed.",
+      "sourceUrl": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "An 8 × 8-foot upstairs hobby room is listed; suitability as a woodshop is unconfirmed.",
+      "sourceUrl": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "brown": {
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 22–30 min to McKnight; 24–35 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30. Uses the approximate street pin; address search matched North Brown Road.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=44.978089678224%2C+-93.573802575055&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=44.978089678224%2C+-93.573802575055&travelmode=driving",
+      "checkedOn": "2026-10-30"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No installed renewable-energy or off-grid system is documented in the reviewed listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Orono/5-S-Brown-Rd-55356/home/51518583",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific water access is documented in the reviewed listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Orono/5-S-Brown-Rd-55356/home/51518583",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Wooded 1.56-acre setting; established gardens or growing beds are unconfirmed.",
+      "sourceUrl": "https://www.redfin.com/MN/Orono/5-S-Brown-Rd-55356/home/51518583",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Promising space: heated, insulated three-car garage plus an oversized detached two-car garage. A dedicated workshop is unconfirmed.",
+      "sourceUrl": "https://www.redfin.com/MN/Orono/5-S-Brown-Rd-55356/home/51518583",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "oak": {
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 28–40 min to McKnight; 28–45 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=620+Oak+Street+W%2C+Stillwater%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=620+Oak+Street+W%2C+Stillwater%2C+MN&travelmode=driving",
+      "checkedOn": "2026-10-30"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "Natural-gas heat is listed; no renewable-energy or off-grid system is documented.",
+      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific water access is documented in the reviewed listing.",
+      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "yes",
+      "detail": "Listing exterior photos show established perennial planting beds along the front walk. Productive food-growing space is unconfirmed.",
+      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "One-car attached garage; a dedicated workshop is not documented.",
+      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "hobe": {
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 24–35 min to McKnight; 26–40 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=5811+Hobe+Lane%2C+White+Bear+Township%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=5811+Hobe+Lane%2C+White+Bear+Township%2C+MN&travelmode=driving",
+      "checkedOn": "2026-10-30"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "Natural-gas forced-air heat is listed; no renewable-energy or off-grid system is documented.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "yes",
+      "detail": "Deeded Bald Eagle Lake access through Timber Hills Beach association; listing states beach and dock access with a $200 annual fee.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Wooded lot with wetlands; established gardens or productive growing beds are unconfirmed.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "28 × 24-foot attached garage is listed; a dedicated workshop is not documented.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+      "checkedOn": "2026-10-30"
+    }
+  }
+}

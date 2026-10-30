@@ -1,5 +1,5 @@
 import { describe,it,expect } from 'vitest';
-import {assess,initial,properties,parseState} from './model';
+import {assess,initial,properties,parseState,reviewFor} from './model';
 describe('transparent rubric',()=>{
  it('never treats missing evidence as a pass',()=>expect(assess(properties[0]).label).toBe('Needs review'));
  it('does not let bonuses cancel a failed must-have',()=>expect(assess(properties[0],{checks:{quiet:'no',architecture:'yes',materials:'yes',setting:'yes',southwest:'yes'}}).label).toBe('Does not meet brief'));
@@ -22,5 +22,22 @@ describe('transparent rubric',()=>{
   expect(migrated.criteria.filter(c=>['renewables','water','gardens','workshop'].includes(c.id)).map(c=>c.weight)).toEqual([5,5,5,5]);
   migrated.criteria.find(c=>c.id==='gardens')!.weight=4;
   expect(parseState(migrated)).toEqual(migrated);
+ });
+ it('uses researched bonuses without overwriting personal ratings or notes',()=>{
+  const p=properties.find(p=>p.id==='wyoming')!;
+  expect(assess(p).earned).toBe(10);
+  const personal={notes:'Ask about dust collection',favorite:true,checks:{water:'no' as const,workshop:'unknown' as const}};
+  const merged=reviewFor(p,personal);
+  expect(merged.checks?.water).toBe('no');
+  expect(merged.checks?.workshop).toBe('unknown');
+  expect(merged.notes).toBe(personal.notes);
+  expect(merged.favorite).toBe(true);
+  expect(assess(p,personal).earned).toBe(0);
+  expect(parseState({...initial,reviews:{wyoming:personal}}).reviews.wyoming).toEqual(personal);
+ });
+ it('keeps the longer Pomroy commute disqualifying despite its bonuses',()=>{
+  const p=properties.find(p=>p.id==='pomroy')!;
+  expect(assess(p).earned).toBe(10);
+  expect(assess(p).label).toBe('Does not meet brief');
  });
 });

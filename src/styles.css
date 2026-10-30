@@ -18,3 +18,5 @@
 .card-top .favorite{margin-left:auto}
 .card-top{gap:6px}
 .pin-body.top-tier-pin:not(.is-highlighted):not(.chosen){background:#705526;color:#fff;border-color:#f2d494;box-shadow:0 0 0 2px #b78a4655,0 2px 8px #3044362a}
+
+.detail-check{align-items:flex-start}.detail-check .check{flex-shrink:0}.detail-check small.criterion-evidence{font-size:11px;line-height:1.5;color:var(--muted);max-width:300px}.criterion-evidence a{text-underline-offset:2px}

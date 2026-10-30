@@ -1,0 +1,292 @@
+{
+  "checkedOn": "2026-10-30",
+  "provider": "Google Maps live directions UI",
+  "destination": "921 Washington Avenue S, Minneapolis, MN 55415",
+  "destinationSource": "https://www.mcknight.org/about/offices/",
+  "forecastDate": "2026-11-04",
+  "inbound": "Arrive by 11:00 AM",
+  "outbound": "Depart at 2:00 PM",
+  "timezone": "America/Chicago",
+  "userPreference": "Flexible, outside rush hour",
+  "method": "Forecast typical driving ranges, not a drive test or guarantee. Prefer a route with an upper typical estimate no greater than 45 minutes in both directions. Pomroy’s best lower estimate is already 45 minutes and all route upper estimates exceed 45, so it fails a reliable 45-minute commute. Birch Bluff fits via the explicitly noted alternative. Route links open directions; reproduce the date and times above to inspect the forecast.",
+  "routeChecks": {
+    "pomroy": {
+      "inbound": [
+        45,
+        55
+      ],
+      "outbound": [
+        45,
+        60
+      ],
+      "inMiles": 41.4,
+      "outMiles": 41.4,
+      "inRoute": "Scandia Trail N and I-35W S",
+      "outRoute": "I-35W N and Scandia Trail N",
+      "verdict": "no",
+      "note": "Does not reliably meet the 45-minute limit. Longer return alternative via I-35W N: 45–55 minutes, 45.4 miles.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=23845+Pomroy+Avenue+N%2C+Scandia%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=23845+Pomroy+Avenue+N%2C+Scandia%2C+MN&travelmode=driving"
+    },
+    "wyoming": {
+      "inbound": [
+        35,
+        45
+      ],
+      "outbound": [
+        35,
+        45
+      ],
+      "inMiles": 37.8,
+      "outMiles": 38.0,
+      "inRoute": "I-35W S",
+      "outRoute": "I-35W N",
+      "verdict": "yes",
+      "note": "Fits the checked off-peak window, at the upper edge of the limit.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=6640+215th+Avenue+NE%2C+Wyoming%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=6640+215th+Avenue+NE%2C+Wyoming%2C+MN&travelmode=driving"
+    },
+    "birch-bluff": {
+      "inbound": [
+        30,
+        45
+      ],
+      "outbound": [
+        35,
+        45
+      ],
+      "inMiles": 24.0,
+      "outMiles": 24.5,
+      "inRoute": "MN-7 E",
+      "outRoute": "I-394 W and Shoreline Dr",
+      "verdict": "yes",
+      "note": "Return uses the Shoreline Drive alternative. Google’s first return route was 30–50 minutes; route choice matters.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=55+Birch+Bluff+Road%2C+Tonka+Bay%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=55+Birch+Bluff+Road%2C+Tonka+Bay%2C+MN&travelmode=driving"
+    },
+    "brown": {
+      "inbound": [
+        22,
+        30
+      ],
+      "outbound": [
+        24,
+        35
+      ],
+      "inMiles": 18.8,
+      "outMiles": 18.8,
+      "inRoute": "I-394 E",
+      "outRoute": "I-394 W",
+      "verdict": "yes",
+      "note": "Approximate street-range pin used because Google incorrectly resolved 5 S Brown Road to 5 N Brown Road. The Census pin is near 25 Brown Rd S; allow for the final approach.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=44.978089678224%2C+-93.573802575055&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=44.978089678224%2C+-93.573802575055&travelmode=driving"
+    },
+    "oak": {
+      "inbound": [
+        28,
+        40
+      ],
+      "outbound": [
+        28,
+        45
+      ],
+      "inMiles": 24.6,
+      "outMiles": 24.7,
+      "inRoute": "MN-36 W",
+      "outRoute": "MN-36 E",
+      "verdict": "yes",
+      "note": "Fits the checked off-peak window.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=620+Oak+Street+W%2C+Stillwater%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=620+Oak+Street+W%2C+Stillwater%2C+MN&travelmode=driving"
+    },
+    "hobe": {
+      "inbound": [
+        24,
+        35
+      ],
+      "outbound": [
+        26,
+        40
+      ],
+      "inMiles": 19.9,
+      "outMiles": 20.3,
+      "inRoute": "I-35E S and MN-36 W",
+      "outRoute": "MN-36 E and I-35E N",
+      "verdict": "yes",
+      "note": "Fits the checked off-peak window. Another return via I-35E N: 28–35 minutes, 23.4 miles.",
+      "routeUrl": "https://www.google.com/maps/dir/?api=1&origin=5811+Hobe+Lane%2C+White+Bear+Township%2C+MN&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=5811+Hobe+Lane%2C+White+Bear+Township%2C+MN&travelmode=driving"
+    }
+  },
+  "bonusMethod": "Award 5 points for each documented new bonus. Unknown receives no points but is not a negative finding. Listing systems and spaces are historical for sold references; no current on-site inspection. Acreage, ordinary garages and nearby water alone do not establish gardens, workshops or usable water access.",
+  "bonusEvidence": {
+    "pomroy": {
+      "renewables": {
+        "verdict": "yes",
+        "detail": "Solar arrays and geothermal heating documented in the 2022 listing. Battery storage and off-grid operation are unconfirmed.",
+        "sourceUrl": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+        "checkedOn": "2026-10-30"
+      },
+      "water": {
+        "verdict": "unknown",
+        "detail": "Near the St. Croix Valley; usable water access is not documented.",
+        "sourceUrl": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+        "checkedOn": "2026-10-30"
+      },
+      "gardens": {
+        "verdict": "unknown",
+        "detail": "Five acres, a garden shed and chicken coop. Established growing beds or an orchard are unconfirmed.",
+        "sourceUrl": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+        "checkedOn": "2026-10-30"
+      },
+      "workshop": {
+        "verdict": "yes",
+        "detail": "Pole barn with a shop and upper-level storage documented in the 2022 listing. Shop power and heating need checking.",
+        "sourceUrl": "https://www.redfin.com/MN/Scandia/23845-Pomroy-Ave-N-55073/home/50148878",
+        "checkedOn": "2026-10-30"
+      }
+    },
+    "wyoming": {
+      "renewables": {
+        "verdict": "unknown",
+        "detail": "Off-peak electric heating is documented; renewable generation, batteries and off-grid capability are not.",
+        "sourceUrl": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+        "checkedOn": "2026-10-30"
+      },
+      "water": {
+        "verdict": "yes",
+        "detail": "189 feet on Linwood Lake, with a dock, gradual sandy shoreline and no road between house and water; 2022 listing.",
+        "sourceUrl": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+        "checkedOn": "2026-10-30"
+      },
+      "gardens": {
+        "verdict": "unknown",
+        "detail": "Wooded 2.5-acre lot; established gardens or growing beds are not documented.",
+        "sourceUrl": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+        "checkedOn": "2026-10-30"
+      },
+      "workshop": {
+        "verdict": "yes",
+        "detail": "35 × 19-foot second-floor workshop (665 sq ft), plus a separate garage. Documented in the 2022 listing; power and dust collection need checking.",
+        "sourceUrl": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
+        "checkedOn": "2026-10-30"
+      }
+    },
+    "birch-bluff": {
+      "renewables": {
+        "verdict": "unknown",
+        "detail": "Electric radiant heating is listed. Solar, geothermal, batteries and off-grid capability are unconfirmed.",
+        "sourceUrl": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+        "checkedOn": "2026-10-30"
+      },
+      "water": {
+        "verdict": "unknown",
+        "detail": "A Tonka Bay address does not establish lake access; no deeded access is documented in the reviewed listing.",
+        "sourceUrl": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+        "checkedOn": "2026-10-30"
+      },
+      "gardens": {
+        "verdict": "unknown",
+        "detail": "Wooded 1.39 acres; established gardens or growing infrastructure are unconfirmed.",
+        "sourceUrl": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+        "checkedOn": "2026-10-30"
+      },
+      "workshop": {
+        "verdict": "unknown",
+        "detail": "An 8 × 8-foot upstairs hobby room is listed; suitability as a woodshop is unconfirmed.",
+        "sourceUrl": "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
+        "checkedOn": "2026-10-30"
+      }
+    },
+    "brown": {
+      "renewables": {
+        "verdict": "unknown",
+        "detail": "No installed renewable-energy or off-grid system is documented in the reviewed listing.",
+        "sourceUrl": "https://www.redfin.com/MN/Orono/5-S-Brown-Rd-55356/home/51518583",
+        "checkedOn": "2026-10-30"
+      },
+      "water": {
+        "verdict": "unknown",
+        "detail": "No property-specific water access is documented in the reviewed listing.",
+        "sourceUrl": "https://www.redfin.com/MN/Orono/5-S-Brown-Rd-55356/home/51518583",
+        "checkedOn": "2026-10-30"
+      },
+      "gardens": {
+        "verdict": "unknown",
+        "detail": "Wooded 1.56-acre setting; established gardens or growing beds are unconfirmed.",
+        "sourceUrl": "https://www.redfin.com/MN/Orono/5-S-Brown-Rd-55356/home/51518583",
+        "checkedOn": "2026-10-30"
+      },
+      "workshop": {
+        "verdict": "unknown",
+        "detail": "Promising space: heated, insulated three-car garage plus an oversized detached two-car garage. A dedicated workshop is unconfirmed.",
+        "sourceUrl": "https://www.redfin.com/MN/Orono/5-S-Brown-Rd-55356/home/51518583",
+        "checkedOn": "2026-10-30"
+      }
+    },
+    "oak": {
+      "renewables": {
+        "verdict": "unknown",
+        "detail": "Natural-gas heat is listed; no renewable-energy or off-grid system is documented.",
+        "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+        "checkedOn": "2026-10-30"
+      },
+      "water": {
+        "verdict": "unknown",
+        "detail": "No property-specific water access is documented in the reviewed listing.",
+        "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+        "checkedOn": "2026-10-30"
+      },
+      "gardens": {
+        "verdict": "yes",
+        "detail": "Listing exterior photos show established perennial planting beds along the front walk. Productive food-growing space is unconfirmed.",
+        "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+        "checkedOn": "2026-10-30"
+      },
+      "workshop": {
+        "verdict": "unknown",
+        "detail": "One-car attached garage; a dedicated workshop is not documented.",
+        "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+        "checkedOn": "2026-10-30"
+      }
+    },
+    "hobe": {
+      "renewables": {
+        "verdict": "unknown",
+        "detail": "Natural-gas forced-air heat is listed; no renewable-energy or off-grid system is documented.",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+        "checkedOn": "2026-10-30"
+      },
+      "water": {
+        "verdict": "yes",
+        "detail": "Deeded Bald Eagle Lake access through Timber Hills Beach association; listing states beach and dock access with a $200 annual fee.",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+        "checkedOn": "2026-10-30"
+      },
+      "gardens": {
+        "verdict": "unknown",
+        "detail": "Wooded lot with wetlands; established gardens or productive growing beds are unconfirmed.",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+        "checkedOn": "2026-10-30"
+      },
+      "workshop": {
+        "verdict": "unknown",
+        "detail": "28 × 24-foot attached garage is listed; a dedicated workshop is not documented.",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/white-bear-lake/5811-hobe-lane/mls-7147036",
+        "checkedOn": "2026-10-30"
+      }
+    }
+  },
+  "visualEvidence": {
+    "oak": {
+      "photo": "/photos/oak-exterior.webp",
+      "source": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
+      "observation": "Inspected existing verified listing exterior again. Established flowering/perennial beds border the front path; counts as ornamental gardens, not a claim of food production."
+    },
+    "pomroy": {
+      "photoSource": "https://cdn.repliers.io/northstar/IMG-6241872_12523765508079.jpg",
+      "observation": "Inspected verified aerial: solar arrays on house/garage and pole barn. Some planting is visible, but established productive beds or an orchard are not confirmed; gardens stays unknown."
+    }
+  }
+}
