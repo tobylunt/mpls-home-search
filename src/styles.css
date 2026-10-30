@@ -13,3 +13,8 @@
 .basemap-notice{position:absolute;z-index:500;top:65px;right:15px;padding:7px 10px;background:#fffdf7;border-radius:4px;font-size:10px;color:#7a684a}
 .pin-body{transform-origin:center bottom;transition:transform .15s ease,background-color .15s ease,box-shadow .15s ease}
 .pin-body.is-highlighted{background:#e9ad50;color:#24382c;border-color:#fff;transform:translateY(-3px) scale(1.16);box-shadow:0 0 0 4px #e9ad5060,0 5px 14px #20372845}
+.property-card.top-tier{box-shadow:inset 3px 0 #a87932;background:#faf5e9}
+.tag.top-tier-tag{background:#ecd8ad;color:#624719;font-weight:650}
+.card-top .favorite{margin-left:auto}
+.card-top{gap:6px}
+.pin-body.top-tier-pin:not(.is-highlighted):not(.chosen){background:#705526;color:#fff;border-color:#f2d494;box-shadow:0 0 0 2px #b78a4655,0 2px 8px #3044362a}

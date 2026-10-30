@@ -32,3 +32,7 @@ The private Site identity is in `.openai/hosting.json`; production assets are in
 ## Validation
 
 Unit tests cover missing evidence, hard-gate failure, preference coverage, budget boundary, unknown price, backup validation, photo provenance/assets, and preserving notes for removed listings. Browser QA covered desktop and 390px mobile layouts, filtering, rubric updates, note persistence through reload, and JSON backup/restore.
+
+## Shortlist updates
+
+October 30, 2026: Keston marked Top tier and moved first in default order. Woodlawn and Cedar removed at the user’s request; 21 properties remain. Historical notes for these IDs remain restorable from backups.

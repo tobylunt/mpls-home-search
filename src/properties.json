@@ -1,5 +1,29 @@
 [
   {
+    "id": "keston",
+    "address": "1393 Keston Street",
+    "city": "Saint Paul",
+    "price": 675000,
+    "status": "Lead",
+    "style": "Historic",
+    "reaction": "Top tier",
+    "description": "Brick exterior, stone entry turret and original woodwork.",
+    "context": "Top-tier choice.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1393-keston-street/mls-7126585",
+    "year": 1941,
+    "sqft": 2200,
+    "lat": 44.982541419244,
+    "lng": -93.198903858755,
+    "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
+    "matchedAddress": "1393 KESTON ST, SAINT PAUL, MN, 55108",
+    "verifiedOn": "2026-10-29",
+    "photo": {
+      "src": "/photos/keston.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1393-keston-street/mls-7126585",
+      "credit": "Keller Williams Integrity Realty / NorthstarMLS via Pederson Realty"
+    }
+  },
+  {
     "id": "hobe",
     "address": "5811 Hobe Lane",
     "city": "White Bear Township",
@@ -144,54 +168,6 @@
     }
   },
   {
-    "id": "woodlawn",
-    "address": "265 Woodlawn Avenue",
-    "city": "Saint Paul",
-    "price": 1010000,
-    "status": "Sold reference",
-    "style": "1930s experimental",
-    "reaction": "Explore",
-    "description": "Unusual interwar architecture near the Mississippi River.",
-    "context": "World\u2019s Fair connection is a claim to verify.",
-    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/265-woodlawn-avenue/mls-7054321",
-    "year": 1935,
-    "sqft": 2900,
-    "lat": 44.933516848462,
-    "lng": -93.196198419409,
-    "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "265 WOODLAWN AVE, SAINT PAUL, MN, 55105",
-    "verifiedOn": "2026-10-29",
-    "photo": {
-      "src": "/photos/woodlawn.jpg",
-      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/265-woodlawn-avenue/mls-7054321",
-      "credit": "Keller Williams Realty Integrity Lakes / NorthstarMLS via Pederson Realty"
-    }
-  },
-  {
-    "id": "keston",
-    "address": "1393 Keston Street",
-    "city": "Saint Paul",
-    "price": 675000,
-    "status": "Lead",
-    "style": "Historic",
-    "reaction": "Explore",
-    "description": "Brick exterior, stone entry turret and original woodwork.",
-    "context": "Preservation and current availability need checking.",
-    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1393-keston-street/mls-7126585",
-    "year": 1941,
-    "sqft": 2200,
-    "lat": 44.982541419244,
-    "lng": -93.198903858755,
-    "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "1393 KESTON ST, SAINT PAUL, MN, 55108",
-    "verifiedOn": "2026-10-29",
-    "photo": {
-      "src": "/photos/keston.jpg",
-      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1393-keston-street/mls-7126585",
-      "credit": "Keller Williams Integrity Realty / NorthstarMLS via Pederson Realty"
-    }
-  },
-  {
     "id": "virginia",
     "address": "1676 Virginia Avenue S",
     "city": "Saint Louis Park",
@@ -213,30 +189,6 @@
       "src": "/photos/virginia.jpg",
       "sourceUrl": "https://www.redfin.com/MN/Saint-Louis-Park/1676-Virginia-Ave-S-55426/home/51312840",
       "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid, photo from MLS7105667; current MLS7165562, Michael Lynch, Lakes Sotheby\u2019s International Realty"
-    }
-  },
-  {
-    "id": "cedar",
-    "address": "4916 Cedar Avenue S",
-    "city": "Minneapolis",
-    "price": 365000,
-    "status": "Lead",
-    "style": "Lustron",
-    "reaction": "Explore",
-    "description": "Porcelain-enameled steel panels and original built-ins.",
-    "context": "Architectural rarity alone is not enough; check traffic.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/4916-Cedar-Ave-S_Minneapolis_MN_55417_M86131-25997",
-    "year": 1949,
-    "sqft": 1021,
-    "lat": 44.913948179076,
-    "lng": -93.247385484421,
-    "locationSource": "US Census street-range geocoder \u00b7 Oct 29, 2026",
-    "matchedAddress": "4916 CEDAR AVE S, MINNEAPOLIS, MN, 55417",
-    "verifiedOn": "2026-10-29",
-    "photo": {
-      "src": "/photos/cedar.webp",
-      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/4916-Cedar-Ave-S_Minneapolis_MN_55417_M86131-25997",
-      "credit": "Realtor.com / NorthstarMLS7147546; Jessica Buelow, Edina Realty"
     }
   },
   {
