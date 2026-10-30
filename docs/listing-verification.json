@@ -608,5 +608,19 @@
     "verifiedAt": "2026-10-30",
     "mls": "7083633",
     "reason": null
+  },
+  {
+    "id": "jefferson",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1880-jefferson-avenue/mls-7165967",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7165967_3ab8491abed6637650d44b094c477ca2d80c3662121c478be2e72c6bd1ea022e.jpg?class=medium",
+    "localPhoto": "public/photos/jefferson.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Wellspring Real Estate LLC / NorthstarMLS via Pederson Realty",
+    "sourceAddressText": "1880 Jefferson Avenue, Saint Paul, MN 55105",
+    "evidence": "Direct HTTP listing page retrieved successfully. Embedded exact-address MLS 7165967 record shows active, $659900, 3 beds, 2 baths, 2210 sqft and 1925. Gallery Photo 1 alt matches address. Downloaded and visually inspected stucco house with divided-light front window and eave brackets; 1880 visible beside entry. Census address matches with normalized W prefix.",
+    "verifiedAt": "2026-10-30",
+    "mls": "7165967",
+    "reason": null
   }
 ]

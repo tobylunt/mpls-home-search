@@ -573,5 +573,29 @@
       "sourceUrl": "https://www.redfin.com/MN/Minneapolis/4528-Upton-Ave-S-55410/home/51326267",
       "credit": "Keller Williams Realty Integrity Lakes / NorthstarMLS via Redfin"
     }
+  },
+  {
+    "id": "jefferson",
+    "address": "1880 Jefferson Avenue",
+    "city": "Saint Paul",
+    "price": 659900,
+    "status": "Active",
+    "style": "Craftsman",
+    "reaction": "Explore",
+    "description": "Stucco exterior, broad divided-light windows, exposed eave brackets and custom woodwork.",
+    "context": "Macalester-Groveland. Three bedrooms and two bathrooms.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1880-jefferson-avenue/mls-7165967",
+    "year": 1925,
+    "sqft": 2210,
+    "lat": 44.930609840587,
+    "lng": -93.179792034314,
+    "locationSource": "US Census street-range geocoder \u00b7 Oct 30, 2026",
+    "matchedAddress": "1880 W JEFFERSON AVE, SAINT PAUL, MN, 55105",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/jefferson.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1880-jefferson-avenue/mls-7165967",
+      "credit": "Wellspring Real Estate LLC / NorthstarMLS via Pederson Realty"
+    }
   }
 ]

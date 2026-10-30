@@ -40,3 +40,5 @@ October 30, 2026: Keston marked Top tier and moved first in default order. Woodl
 October 30, 2026: Added Thomas and James with inspected listing photos and Census map coordinates; 23 properties now. James uses September listing facts; both additions are leads rather than guarantees of current availability. Thomas is marketed as a teardown/new-build opportunity.
 
 October 30, 2026: Added 4528 Upton Avenue S, the green Tudor opposite Beard’s Plaisance, as a sold reference ($820,000, July 16, 2026). Listing photo inspected and Census coordinates matched. 24 properties now.
+
+October 30, 2026: Added 1880 Jefferson Avenue, active at $659,900, with inspected listing photograph and Census coordinates. 25 properties now.
