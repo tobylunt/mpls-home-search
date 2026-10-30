@@ -9,7 +9,7 @@
       "status": "Sold reference",
       "price": 550000,
       "description": "Exposed timber posts, knee braces and a loft above the vaulted great room. Set on five acres.",
-      "context": "Sold September 27, 2022 for $550,000. 4 bedrooms, 2½ baths. The listing documents timber-frame construction with insulated panels, geothermal heating and solar panels."
+      "context": "Sold September 27, 2022 for $550,000. 4 bedrooms, 2\u00bd baths. The listing documents timber-frame construction with insulated panels, geothermal heating and solar panels."
     },
     {
       "id": "wyoming",
@@ -45,7 +45,7 @@
       "status": "Sold reference",
       "price": 625000,
       "description": "Mid-century home with an angular roofline, brick chimney, clerestory windows and a planted front garden.",
-      "context": "Sold August 19, 2026 for $625,000. 4 bedrooms, 2½ baths on a compact 0.20-acre lot. An architectural reference for its roofline, light and garden connection."
+      "context": "Sold August 19, 2026 for $625,000. 4 bedrooms, 2\u00bd baths on a compact 0.20-acre lot. An architectural reference for its roofline, light and garden connection."
     },
     {
       "id": "ricecreek",
@@ -209,7 +209,7 @@
         "https://www.redfin.com/MN/Excelsior/55-Birch-Bluff-Rd-55331/home/51472023",
         "https://www.zillow.com/homedetails/55-Birch-Bluff-Rd-Tonka-Bay-MN-55331/1953685_zpid/"
       ],
-      "verificationMethod": "Direct HTTP200 brokerage page saved /private/tmp/chaika.html: exact address, description, sale465000 and photo in same listing item. Successful web.open Redfin full exact-address detail turn115view0 lines144-165 confirms construction; successful Zillow detail turn104view0 lines315-325 confirms Apr21 2017 sale465000 and MLS4782573. Live Zillow gallery verified Oct 30, 2026 at the user-provided exact-address URL. Gallery reports 23 photos. Visually inspected exterior photo 1 and interior photos 5–8; dining/living views show substantial posts, beams, knee braces and wood ceiling decking. NorthstarMLS as distributed by MLS GRID is the displayed source. Zillow Zestimate is not an asking or sale price; retained the documented 2017 sale price.",
+      "verificationMethod": "Direct HTTP200 brokerage page saved /private/tmp/chaika.html: exact address, description, sale465000 and photo in same listing item. Successful web.open Redfin full exact-address detail turn115view0 lines144-165 confirms construction; successful Zillow detail turn104view0 lines315-325 confirms Apr21 2017 sale465000 and MLS4782573. Live Zillow gallery verified Oct 30, 2026 at the user-provided exact-address URL. Gallery reports 23 photos. Visually inspected exterior photo 1 and interior photos 5\u20138; dining/living views show substantial posts, beams, knee braces and wood ceiling decking. NorthstarMLS as distributed by MLS GRID is the displayed source. Zillow Zestimate is not an asking or sale price; retained the documented 2017 sale price.",
       "photoUrl": "https://i16.moxi.onl/img-pr-000551/nst/a2c83c33127e167e7988aa38a9aa05bd701f33dc/1_3_gallery.jpg",
       "localPhoto": "/private/tmp/home-photos/timber-birch.jpg",
       "photoCredit": "Nathan Chaika / Better Homes and Gardens Real Estate All Seasons; NORTHSTAR MLS as distributed by MLS GRID, MLS4782573",
@@ -275,7 +275,7 @@
       "visuallyInspected": true,
       "openMethod": "web.open exact property detail pages on Realtor.com and Redfin; full address, property facts, sale record and 91-photo gallery returned. No live browser navigation.",
       "liveBrowserVerified": false,
-      "evidence": "Realtor page lines 8–85 matches address and reports sale January 9, 2026 for $1,000,000. Exterior photo is page link 3 with exact address alt text; living-room photo page link 8. Both downloaded and visually inspected. Redfin description lines 160–181 attributes design to George Mastny and lists redwood, terrazzo, walnut cabinetry and wooded setting.",
+      "evidence": "Realtor page lines 8\u201385 matches address and reports sale January 9, 2026 for $1,000,000. Exterior photo is page link 3 with exact address alt text; living-room photo page link 8. Both downloaded and visually inspected. Redfin description lines 160\u2013181 attributes design to George Mastny and lists redwood, terrazzo, walnut cabinetry and wooded setting.",
       "corrections": {
         "price": 1000000,
         "status": "Sold reference",
@@ -313,11 +313,11 @@
         640
       ],
       "interiorPhoto": "/private/tmp/stale-reference-photos/oak-interior.webp",
-      "photoCredit": "Realtor.com / ©2026 Northstar MLS #7093695; seller agent Ryan Platzke, Coldwell Banker Realty. Individual photographer not identified.",
+      "photoCredit": "Realtor.com / \u00a92026 Northstar MLS #7093695; seller agent Ryan Platzke, Coldwell Banker Realty. Individual photographer not identified.",
       "visuallyInspected": true,
       "openMethod": "web.open exact Realtor.com and Coldwell Banker property pages; full address, sold history and address-bound images returned. Realtor gallery contains 42 images. No live browser navigation.",
       "liveBrowserVerified": false,
-      "evidence": "Opened Realtor page lines 8–79 confirms exact address, sold August 19, 2026 for $625,000, 1954 construction and 2,252 sqft. Page link 4 exact-address yard image is exterior card; link 9 living room. Both downloaded and inspected. Coldwell Banker MLS7093695 independently shows same sale date/price.",
+      "evidence": "Opened Realtor page lines 8\u201379 confirms exact address, sold August 19, 2026 for $625,000, 1954 construction and 2,252 sqft. Page link 4 exact-address yard image is exterior card; link 9 living room. Both downloaded and inspected. Coldwell Banker MLS7093695 independently shows same sale date/price.",
       "corrections": {
         "price": 625000,
         "status": "Sold reference",
@@ -354,7 +354,24 @@
   "noUserRatingsChanged": true,
   "commuteContext": {
     "destination": "McKnight Foundation",
+    "address": "921 Washington Avenue S, Minneapolis, MN 55415",
+    "addressSource": "https://www.mcknight.org/about/offices/",
     "source": "User message on October 30, 2026",
-    "note": "User reports the three timber-frame homes are within about 40 minutes of McKnight Foundation and welcomes this reach. Use McKnight as a reference for future location research; this is not an independently verified travel-time estimate or a hard commute cutoff."
+    "maxMinutes": 45,
+    "mode": "Driving",
+    "hardLimit": true,
+    "assumedTraffic": "Typical weekday commute; exact arrival/departure times not supplied.",
+    "note": "User explicitly limits the search to within 45 minutes of McKnight Foundation. Verify route times before qualifying new candidates; no existing property is assumed to pass from distance alone. Earlier approximate 40-minute observation was not independently verified."
+  },
+  "priorityBonuses": {
+    "weightPerCriterion": 5,
+    "criteria": [
+      "Off-grid / renewables",
+      "Water access",
+      "Gardens",
+      "Woodshop / workshop"
+    ],
+    "source": "User message on October 30, 2026",
+    "note": "Strong bonuses, not required features. Look for documented systems, usable water access, established gardens or growing infrastructure, and dedicated workshop space. Do not infer off-grid capability from solar panels, water access from a view, or a workshop from an ordinary garage."
   }
 }

@@ -23,7 +23,7 @@ Ten records are sold references. Prices and statuses were corrected where suppor
 
 The remaining map pins use the US Census street-range geocoder checked October 29, 2026. Coordinates are approximate; Bridgeview uses NorthstarMLS coordinates from its Compass listing. OpenFreeMap Positron vector tiles render through MapLibre inside Leaflet, with standard OpenStreetMap as a fallback if the vector map fails. The map requires internet. Google Fonts supplies DM Sans and Libre Caslon Display. Notes are not sent to map or font services.
 
-The rubric retains the quiet-street and architectural-interest must-haves and the strict under-$1 million price threshold. Unknown assessments remain unknown; bonus points cannot outweigh a failed must-have. Saved notes for removed listings remain in backups, but those listings and saved counts no longer appear in the app.
+The rubric requires a quiet street, architectural interest, a drive within 45 minutes of McKnight Foundation (921 Washington Avenue S, Minneapolis), and a price strictly under $1 million. Check routes against typical weekday commute traffic; unverified routes remain unknown. Off-grid/renewable systems, water access, gardens and woodshop/workshop space each carry the maximum default preference weight of 5. New criteria are added when loading existing browser data or backups without replacing saved notes, ratings or customized criteria. Unknown assessments remain unknown; bonus points cannot outweigh a failed must-have. Saved notes for removed listings remain in backups, but those listings and saved counts no longer appear in the app.
 
 ## Publication
 
