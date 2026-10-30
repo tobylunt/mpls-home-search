@@ -1,0 +1,145 @@
+{
+  "checkedOn": "2026-10-30",
+  "scope": "Selective discovery of unfamiliar homes under $1M across the Twin Cities metro. Public web listings and exact-address brokerage records, not an exhaustive MLS export.",
+  "criteria": [
+    "Distinctive spaces and craftsmanship",
+    "Natural materials and retained character",
+    "Privacy and connection to outdoor space",
+    "Quiet street requires on-site confirmation"
+  ],
+  "regionsSearched": [
+    "Minneapolis and Saint Paul",
+    "Hopkins, Minnetonka, Golden Valley, Orono, Excelsior and Chaska",
+    "Shoreview, Arden Hills, Fridley, New Brighton and White Bear Lake",
+    "Mendota Heights, Bloomington and Burnsville",
+    "Stillwater, Lake Elmo and Afton"
+  ],
+  "added": [
+    {
+      "id": "williston",
+      "address": "3904 Williston Road",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849",
+      "price": 757000,
+      "why": "Vaulted wood ceilings, stained glass, a brick fireplace and a library above the detached garage. Set among mature oaks on 0.71 acres.",
+      "tradeoffs": "3 bedrooms, 1½ baths. The woodwork and connection to the trees make this worth a visit. Access is by a private drive off Williston Road; check traffic noise and driveway rights. The current listing counts 3 bedrooms, with potential for a fourth."
+    },
+    {
+      "id": "hopkins",
+      "address": "111 11th Avenue N",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/hopkins/111-11th-avenue-n/mls-7153318",
+      "price": 850000,
+      "why": "Tall glass, a floating stair and warm wood cabinetry in a 2013 home based on Tim Alt plans, according to the listing. Near downtown Hopkins.",
+      "tradeoffs": "4 bedrooms and 4 bathrooms. Strong spatial design on a compact 0.14-acre lot; neighbors are close. Check evening noise near Mainstreet and the pending assessment flagged in the listing."
+    }
+  ],
+  "heldBack": [
+    {
+      "address": "4380 Reiland Lane, Shoreview",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/4380-reiland-lane/mls-7136109",
+      "status": "Active",
+      "price": 899900,
+      "photosReviewed": 71,
+      "whyInteresting": "Low brick-and-glass 1961 house, preserved cabinetry and extensive lakeside setting. Strong architectural match.",
+      "whyNotAdded": "Specific historical flood-exposure concern needs current professional review. Only two bedrooms, no garage, and listing says floor-plan alterations require Rethos written approval.",
+      "evidence": [
+        {
+          "url": "https://www.realtor.com/realestateandhomes-detail/4380-Reiland-Ln_Shoreview_MN_55126_M81061-25600",
+          "note": "MLS 7136109: 2 bedrooms, 2753 sqft, preservation easement and no garage."
+        },
+        {
+          "url": "https://shoreviewmn.granicus.com/MetaViewer.php?clip_id=340&meta_id=15282&view_id=1",
+          "note": "August 12, 2019 council workshop minutes, page 2, record a resident presentation describing a modeled flood scenario reaching the house at 4380 Reiland Lane. This is historical evidence, not proof of past damage or a current flood determination."
+        },
+        {
+          "url": "https://rwmwd.org/wp-content/uploads/2022/06/May-2018-Board-Packet.pdf",
+          "note": "April 26, 2018 Barr flood-management memo identifies the exact home as the lowest on Snail Lake, entry elevation 886.01."
+        }
+      ]
+    },
+    {
+      "address": "567 Rice Creek Terrace NE, Fridley",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/fridley/567-rice-creek-terrace-ne/mls-7151563",
+      "status": "Active Under Contract",
+      "whyInteresting": "Exposed beams, wood walls, original built-ins, broad glass gables and creek frontage.",
+      "whyNotAdded": "Exact-address MLS standardStatus says Active Under Contract although the broad status field says active. Hold as a possible backup only. Bathroom count and price vary across feeds; not normalized into the app."
+    },
+    {
+      "address": "4127 Washburn Avenue N, Minneapolis",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/4127-washburn-avenue-n/mls-7162546",
+      "status": "Active",
+      "price": 525000,
+      "photosReviewed": 74,
+      "whyNotAdded": "Attractive Tudor exterior and arched windows, but the extensively remodeled, mostly painted interior is less aligned with the natural-material benchmark than the two selections. Current MLS 7162546 is a genuine Oct 23 relisting after a Sep sale; not misclassified as sold."
+    }
+  ],
+  "otherScreened": [
+    {
+      "address": "12020 Mayflower Circle, Minnetonka",
+      "decision": "Not added: sold in exact-address brokerage record.",
+      "source": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/12020-mayflower-circle/mls-7129229"
+    },
+    {
+      "address": "223 Walnut Street, Saint Paul",
+      "decision": "Not added: sold in exact-address brokerage record.",
+      "source": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189"
+    },
+    {
+      "address": "782 Evergreen Knolls, Mendota Heights",
+      "decision": "Not added: listing removed Oct 1, 2026; old active pages are stale.",
+      "source": "https://www.redfin.com/MN/Mendota-Heights/782-Evergreen-Knls-55118/home/50747965"
+    },
+    {
+      "address": "5202 Pierce Street NE, Fridley",
+      "decision": "Not added: listing removed Sep 10, 2026.",
+      "source": "https://www.redfin.com/MN/Fridley/5202-Pierce-St-NE-55421/home/50972354"
+    },
+    {
+      "address": "11209 Oak Ridge Lane W, Minnetonka",
+      "decision": "Not added: closed Oct 7, 2025; fixer-upper page is stale.",
+      "source": "https://www.compass.com/homedetails/11209-Oak-Ridge-Ln-W-Minnetonka-MN-55305/DKGNS_pid/"
+    },
+    {
+      "address": "5 S Brown Road, Orono",
+      "decision": "Not added: sold Jan 9, 2026.",
+      "source": "https://www.lakeminnetonkarealestate.com/property/6753896/"
+    },
+    {
+      "address": "620 Oak Street W, Stillwater",
+      "decision": "Not added: sold Aug 19, 2026.",
+      "source": "https://www.krislindahl.com/stillwater-mn/stillwater-mid-century-modern-for-sale/"
+    },
+    {
+      "address": "12001 Hilloway Road W, Minnetonka",
+      "decision": "Not added: $1.125M, above the current rubric.",
+      "source": "https://www.zillow.com/homedetails/12001-Hilloway-Rd-W-Minnetonka-MN-55305/1795031_zpid/"
+    },
+    {
+      "address": "1520 Kaltern Lane, Golden Valley",
+      "decision": "Not added: strong architecture but $1.45M, well above the current rubric.",
+      "source": "https://www.yourmnproperties.com/golden-valley-homes-for-sale/"
+    },
+    {
+      "address": "8840 Bloomington Avenue S, Bloomington",
+      "decision": "Not advanced to full photo review: description emphasizes a remodeled rambler, with weaker evidence of distinctive spaces.",
+      "source": "https://www.homefront.com/homes/mn/bloomington/property/8840-bloomington-avenue-s-5f24556c-7e56-3e63-b317-6c6a07a54b31"
+    },
+    {
+      "address": "4937 Aldrich Avenue S, Minneapolis",
+      "decision": "Not added: contingent; broader search prioritized available unfamiliar homes.",
+      "source": "https://www.zillow.com/homedetails/4937-Aldrich-Ave-S-Minneapolis-MN-55419/1836947_zpid/"
+    }
+  ],
+  "realtorFollowup": {
+    "williston": [
+      "Listen for Williston Road traffic from house and yard at rush hour.",
+      "Confirm driveway access and maintenance rights.",
+      "Confirm three legal bedrooms and practical fit of one full bath plus one half bath."
+    ],
+    "hopkins": [
+      "Check evening noise and privacy on the 0.14-acre lot.",
+      "Obtain current assessment balance and responsibility for payment; listing flags an assessment pending."
+    ],
+    "hopkinsAssessmentSource": "https://clients.bolton-menk.com/hopkinsavenuesproject/wp-content/uploads/sites/296/2025/04/Final-Assessment-Roll.pdf"
+  },
+  "noUserRatingsChanged": true
+}

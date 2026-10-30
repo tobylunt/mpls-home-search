@@ -252,7 +252,7 @@
     "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/667/7105667_2.jpg",
     "localPhoto": "public/photos/virginia.jpg",
     "sourcePageAddressText": "1676 Virginia Ave S, Saint Louis Park, MN 55426",
-    "photoCredit": "Redfin / NORTHSTARMLS as distributed by MLS Grid, photo from MLS7105667; current MLS7165562, Michael Lynch, Lakes Sotheby\u2019s International Realty",
+    "photoCredit": "Redfin / NORTHSTARMLS as distributed by MLS Grid, photo from MLS7105667; current MLS7165562, Michael Lynch, Lakes Sotheby’s International Realty",
     "visuallyInspected": true,
     "evidence": "Full Redfin property detail returned exact address and gallery link42. Photo from older MLS7105667 snapshot; current price797000 came from newer indexed MLS7165562. Do not describe this as independently live-active verified. Exact-address Redfin page gallery linked this image. Visually inspected: flat-roof modernist with tall white structural posts, dark vertical siding, two levels and a small balcony. Newer indexed listing dated Oct28 2026 is $797000, 1962, 2895sqft; older gallery snapshot $899000 MLS7105667. Current description attributes Leonard Parker. This is NOT a cedar-shingled cottage.",
     "corrections": {
@@ -853,5 +853,59 @@
       "price": 659900,
       "note": "Direct HTTP 200 exact-address brokerage record; status and asking/sold price match."
     }
+  },
+  {
+    "id": "williston",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7097849_047e26d8588ff32d100b2ac54eb7845890c1b76233497cda0c3a5a15c5c75685.jpg?class=large",
+    "localPhoto": "public/photos/williston-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Pederson Realty",
+    "sourceAddressText": "3904 Williston Road, Minnetonka, MN 55345",
+    "evidence": "Direct HTTP 200 exact-address listing, MLS 7097849. Embedded standardStatus is Active. Inspected all 28 gallery images on contact sheets and the selected exterior separately at 1600px. Selected photo 2 from this listing, not a search thumbnail. Price and listing identity corroborated with a second source.",
+    "verifiedAt": "2026-10-30",
+    "mls": "7097849",
+    "reason": null,
+    "corroboratingUrl": "https://www.redfin.com/MN/Minnetonka/3904-Williston-Rd-55345/home/51423213",
+    "corrections": {
+      "price": 757000,
+      "status": "Active",
+      "year": 1954,
+      "sqft": 2719
+    },
+    "locationEvidence": {
+      "lat": 44.932639,
+      "lng": -93.468436,
+      "source": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849"
+    },
+    "qualification": "Quiet-street criterion remains unassessed; requires an in-person noise check."
+  },
+  {
+    "id": "hopkins",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/hopkins/111-11th-avenue-n/mls-7153318",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7153318_db120ddc9a2b005b90a8542011793519503cb8d92c088833ad299cf71cfa565d.jpg?class=large",
+    "localPhoto": "public/photos/hopkins-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Pederson Realty",
+    "sourceAddressText": "111 11th Avenue N, Hopkins, MN 55343",
+    "evidence": "Direct HTTP 200 exact-address listing, MLS 7153318. Embedded standardStatus is Active. Inspected all 51 gallery images on contact sheets and the selected exterior separately at 1600px. Selected photo 3 from this listing, not a search thumbnail. Price and listing identity corroborated with a second source.",
+    "verifiedAt": "2026-10-30",
+    "mls": "7153318",
+    "reason": null,
+    "corroboratingUrl": "https://www.algorealty.com/hopkins-home-values/",
+    "corrections": {
+      "price": 850000,
+      "status": "Active",
+      "year": 2013,
+      "sqft": 2710
+    },
+    "locationEvidence": {
+      "lat": 44.926713,
+      "lng": -93.413445,
+      "source": "https://pedersonrealty.com/homes-for-sale/mn/hopkins/111-11th-avenue-n/mls-7153318"
+    },
+    "qualification": "Quiet-street criterion remains unassessed; requires an in-person noise check."
   }
 ]
