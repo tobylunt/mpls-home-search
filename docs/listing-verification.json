@@ -562,5 +562,33 @@
     "evidence": "Exact address and old photo match, visible 3346 house number; source is six-month-old off-market record with 2019 sale. Current Compass ReGroup result shows 365000 but direct destination fails web cache and HTTP 403; cannot authenticate current listing photos.",
     "corrections": {},
     "reason": "Only old off-market photo record verified; current listing destination and photos not verified together. Remove under requested quality threshold."
+  },
+  {
+    "id": "thomas",
+    "verified": true,
+    "url": "https://www.realestatejourney.com/listing/7120408-2740-thomas-avenue-s-minneapolis-mn-55416/",
+    "photoUrl": "https://feed-images.rewhosting.com/rmlsmn/Media/Property/NST7120408/1-095f74d035add3e1eef7e89f3a791a7b-l.jpg",
+    "localPhoto": "public/photos/thomas.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Real Estate Journey",
+    "sourceAddressText": "2740 THOMAS AVE S, MINNEAPOLIS, MN, 55416",
+    "evidence": "Full detail page and directly retrieved HTML match exact address and MLS. First gallery image downloaded and visually inspected: existing wood-paneled living room, beams and fireplace. Used actual cottage image, not proposed-house renderings. Active in source updated Oct 8, 2026.",
+    "verifiedAt": "2026-10-30",
+    "mls": "7120408",
+    "reason": null
+  },
+  {
+    "id": "james",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Minneapolis/1929-James-Ave-S-55403/home/51470199",
+    "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/493/7074493_5.jpg",
+    "localPhoto": "public/photos/james.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Redfin",
+    "sourceAddressText": "1929 JAMES AVE S, MINNEAPOLIS, MN, 55403",
+    "evidence": "Full Redfin detail page matches exact address and photo gallery. Downloaded and visually inspected front exterior; 1929 visible above porch. Source updated Sep 5, 2026 lists for sale at $1.1M and 3540 sqft; supersedes older June Coldwell Banker 3499 sqft and July contingent snapshot. Coldwell Banker image endpoint returned placeholder SVG, excluded.",
+    "verifiedAt": "2026-10-30",
+    "mls": "7074493",
+    "reason": null
   }
 ]

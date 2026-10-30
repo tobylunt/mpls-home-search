@@ -15,6 +15,10 @@ describe('verified gallery',()=>{
    expect(existsSync(`public${p.photo.src}`),p.address).toBe(true);
   }
  });
+ it('restores notes for newly added properties',()=>{
+  const s={...initial,reviews:{thomas:{notes:'Tour'},james:{favorite:true}}};
+  expect(parseState(s).reviews).toEqual(s.reviews);
+ });
  it('keeps existing notes restorable after a listing is removed',()=>{
   const s={...initial,reviews:{turnpike:{favorite:true,notes:'Keep these notes in my backup.'}}};
   expect(parseState(s).reviews.turnpike.notes).toBe('Keep these notes in my backup.');

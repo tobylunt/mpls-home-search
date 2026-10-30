@@ -6,7 +6,7 @@ export type Review = { favorite?: boolean; notes?: string; checks?: Record<strin
 export type State = { version: 1; reviews: Record<string, Review>; criteria: Criterion[]; budget: number };
 export const sourceChat = 'https://chatgpt.com/share/6ae3ac2e-a27c-83ea-837d-3a71ec763fbf';
 export const properties: Property[] = seeds;
-const knownPropertyIds = new Set(["hobe", "decatur", "luverne", "glenhurst", "shore", "humboldt", "woodlawn", "turnpike", "keston", "virginia", "cedar", "benhill", "ewing", "summit", "croix", "goodrich", "knox", "kyle", "orchard", "normandale", "bridgeview", "knoll", "colfax", "moritz", "minnetonka", "linwood"]);
+const knownPropertyIds = new Set([...properties.map(p=>p.id), "hobe", "decatur", "luverne", "glenhurst", "shore", "humboldt", "woodlawn", "turnpike", "keston", "virginia", "cedar", "benhill", "ewing", "summit", "croix", "goodrich", "knox", "kyle", "orchard", "normandale", "bridgeview", "knoll", "colfax", "moritz", "minnetonka", "linwood"]);
 export const initial: State = {version:1, budget:1000000, reviews:{hobe:{favorite:true}}, criteria:[
  {id:'quiet',name:'Quiet street',tier:'Must-have',detail:'No busy arterial. Visit at rush hour and in the evening; listen for traffic and nearby activity.',weight:1},
  {id:'architecture',name:'Architectural interest',tier:'Must-have',detail:'Distinctive spaces, form or craftsmanship. Hobe Lane is the benchmark. A famous architect is optional.',weight:1},

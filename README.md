@@ -36,3 +36,5 @@ Unit tests cover missing evidence, hard-gate failure, preference coverage, budge
 ## Shortlist updates
 
 October 30, 2026: Keston marked Top tier and moved first in default order. Woodlawn and Cedar removed at the user’s request; 21 properties remain. Historical notes for these IDs remain restorable from backups.
+
+October 30, 2026: Added Thomas and James with inspected listing photos and Census map coordinates; 23 properties now. James uses September listing facts; both additions are leads rather than guarantees of current availability. Thomas is marketed as a teardown/new-build opportunity.

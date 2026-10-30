@@ -501,5 +501,53 @@
       "sourceUrl": "https://www.redfin.com/MN/Saint-Paul/690-Linwood-Ave-55105/home/51071487",
       "credit": "Redfin / NorthstarMLS #7101001; Coldwell Banker Realty"
     }
+  },
+  {
+    "id": "thomas",
+    "address": "2740 Thomas Avenue S",
+    "city": "Minneapolis",
+    "price": 899000,
+    "status": "Lead",
+    "style": "Cottage",
+    "reaction": "Explore",
+    "description": "Cottage with exposed wood beams, paneled walls and a fireplace on a double lot.",
+    "context": "Marketed as a teardown / new-build opportunity.",
+    "url": "https://www.realestatejourney.com/listing/7120408-2740-thomas-avenue-s-minneapolis-mn-55416/",
+    "year": 1935,
+    "sqft": 2275,
+    "lat": 44.952717932086,
+    "lng": -93.313754944933,
+    "locationSource": "US Census street-range geocoder \u00b7 Oct 30, 2026",
+    "matchedAddress": "2740 THOMAS AVE S, MINNEAPOLIS, MN, 55416",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/thomas.jpg",
+      "sourceUrl": "https://www.realestatejourney.com/listing/7120408-2740-thomas-avenue-s-minneapolis-mn-55416/",
+      "credit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Real Estate Journey"
+    }
+  },
+  {
+    "id": "james",
+    "address": "1929 James Avenue S",
+    "city": "Minneapolis",
+    "price": 1100000,
+    "status": "Lead",
+    "style": "Victorian",
+    "reaction": "Explore",
+    "description": "Front porch, oak staircase, built-in buffet, wainscoting and beamed dining-room ceiling.",
+    "context": "Lowry Hill, near Kenwood Park and Lake of the Isles.",
+    "url": "https://www.redfin.com/MN/Minneapolis/1929-James-Ave-S-55403/home/51470199",
+    "year": 1907,
+    "sqft": 3540,
+    "lat": 44.963928061699,
+    "lng": -93.300629631508,
+    "locationSource": "US Census street-range geocoder \u00b7 Oct 30, 2026",
+    "matchedAddress": "1929 JAMES AVE S, MINNEAPOLIS, MN, 55403",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/james.jpg",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/1929-James-Ave-S-55403/home/51470199",
+      "credit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Redfin"
+    }
   }
 ]
