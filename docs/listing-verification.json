@@ -1584,5 +1584,183 @@
       "https://www.realtor.com/realestateandhomes-detail/418-6th-St-S_Stillwater_MN_55082_M81584-65052",
       "https://www.coldwellbankerhomes.com/mn/stillwater/418-6th-street-s/pid_60598320/"
     ]
+  },
+  {
+    "id": "summit776",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-6725116_12523755004188329229.jpg",
+    "localPhoto": "public/photos/summit-victorian-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Francesco Marraffa / KILT Real Estate, LLC / NorthstarMLS6725116. Exact gallery from Pederson Realty/Repliers; photographer unidentified.",
+    "sourceAddressText": "776 Summit Avenue, Saint Paul, MN 55105",
+    "evidence": "Exact-address listing and MLS gallery matched; exterior and selected interiors downloaded unchanged and visually inspected.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-6725116_12523755004188329229.jpg",
+        "localPhoto": "public/photos/summit-victorian-exterior.jpg",
+        "caption": "Street exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-6725116_12524094194619801583.jpg",
+        "localPhoto": "public/photos/summit-victorian-fretwork.jpg",
+        "caption": "Natural woodwork and lyre-shaped fretwork",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-6725116_12529978590094105422.jpg",
+        "localPhoto": "public/photos/summit-victorian-stair.jpg",
+        "caption": "Carved staircase and stained glass",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-6725116_12529569948183002449.jpg",
+        "localPhoto": "public/photos/summit-victorian-workshop.jpg",
+        "caption": "Basement workshop",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.realtor.com/realestateandhomes-detail/776-Summit-Ave_Saint-Paul_MN_55105_M74399-52490",
+      "https://www.homes.com/property/776-summit-ave-saint-paul-mn/hrfx6l76dkkcd/"
+    ]
+  },
+  {
+    "id": "fairmount832",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7136376_12522930254356373821.jpg",
+    "localPhoto": "public/photos/fairmount-victorian-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified.",
+    "sourceAddressText": "832 Fairmount Avenue, Saint Paul, MN 55105",
+    "evidence": "Exact-address MLS gallery HTML saved locally; exterior and at least two substantial interiors visually inspected.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7136376_12522930254356373821.jpg",
+        "localPhoto": "public/photos/fairmount-victorian-exterior.jpg",
+        "caption": "Street exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7136376_12529932249459834296.jpg",
+        "localPhoto": "public/photos/fairmount-victorian-stair.jpg",
+        "caption": "Natural-wood staircase and stained-glass landing",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7136376_12527926732964747655.jpg",
+        "localPhoto": "public/photos/fairmount-victorian-mantel.jpg",
+        "caption": "Carved mantel, tiled fireplace and pocket doors",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.trulia.com/home/832-fairmount-ave-saint-paul-mn-55105-248747149",
+      "https://grumdahlgroup.com/home/832-fairmount-ave-saint-paul-mn-55105-6ea015a6"
+    ]
+  },
+  {
+    "id": "laurel416",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7072128_0.jpg",
+    "localPhoto": "public/photos/laurel-victorian-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Anderson Realty / NorthstarMLS; gallery published by Pederson Realty. Photographer not named.",
+    "sourceAddressText": "416 Laurel Avenue, Saint Paul, MN 55102",
+    "evidence": "Public exact-address Pederson page HTTP200 matchedMLS7072128 and84-photo gallery. Full Zillow page MLS price history records sold890000June22 2026; CB gallery independently address-labeled. Exterior and all selected interiors visually inspected.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7072128_0.jpg",
+        "localPhoto": "public/photos/laurel-victorian-exterior.jpg",
+        "caption": "Street exterior at dusk",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7072128_5.jpg",
+        "localPhoto": "public/photos/laurel-victorian-stair.jpg",
+        "caption": "Natural-wood staircase and paneled hall",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7072128_7.jpg",
+        "localPhoto": "public/photos/laurel-victorian-parlor.jpg",
+        "caption": "Carved mantel and parlor",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7072128_15.jpg",
+        "localPhoto": "public/photos/laurel-victorian-library.jpg",
+        "caption": "Fitted wood library",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.zillow.com/homedetails/416-Laurel-Ave-Saint-Paul-MN-55102/2028124_zpid/",
+      "https://www.coldwellbankerhomes.com/mn/saint-paul/416-laurel-ave/pid_71193351/"
+    ]
+  },
+  {
+    "id": "holly458",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095777_0.jpg",
+    "localPhoto": "public/photos/holly-fretwork-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named.",
+    "sourceAddressText": "458 Holly Avenue, Saint Paul, MN 55102",
+    "evidence": "Exact-address Pederson page HTTP200 matchesMLS7095777 and41-photo gallery, statesSold850000. FullEdina andCompass pages independently match address, architecture, facts, gallery. Selected exterior+dining+stair downloaded and visually inspected.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095777_0.jpg",
+        "localPhoto": "public/photos/holly-fretwork-exterior.jpg",
+        "caption": "Street exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095777_3.jpg",
+        "localPhoto": "public/photos/holly-fretwork-dining.jpg",
+        "caption": "Paneled dining room, stained glass and mantel",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095777_19.jpg",
+        "localPhoto": "public/photos/holly-fretwork-stair.jpg",
+        "caption": "Pierced-and-turned natural-wood staircase",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095777_10.jpg",
+        "localPhoto": "public/photos/holly-fretwork-living.jpg",
+        "caption": "Updated living rooms with painted trim",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.compass.com/homedetails/458-Holly-Ave-St-Paul-MN-55102/ENT8Y_pid/",
+      "https://www.edinarealty.com/homes-for-sale/458-holly-avenue-saint-paul-mn-55102-7095777",
+      "https://realtywire.com/saint-paul-mn-top-5-home-sales-week-ending-2026-10-25/"
+    ]
   }
 ]

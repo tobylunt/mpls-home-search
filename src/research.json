@@ -736,5 +736,209 @@
       "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
       "checkedOn": "2026-10-30"
     }
+  },
+  "summit776": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Summit Hill. Carved, paneled staircase beside stained glass; lyre-shaped fretwork across the main rooms and substantial natural woodwork. Basement workshop.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Inspected listing photos show substantial surviving natural woodwork, carved details and historic glass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 12–18 min to McKnight; 12–16 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=776+Summit+Avenue%2C+Saint+Paul%2C+MN+55105&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=776+Summit+Avenue%2C+Saint+Paul%2C+MN+55105&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "yes",
+      "detail": "Actual gallery shows a basement workshop with bench and tools. Tools are not assumed to convey; usable area, power, ventilation and clearance remain to be checked.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "fairmount832": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Summit Hill. Broad natural-wood staircase with a stained-glass landing, tall ceilings, pocket doors, an ornate tiled fireplace and original butler pantry.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Inspected listing photos show substantial surviving natural woodwork, carved details and historic glass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 14–18 min to McKnight; 12–18 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=832+Fairmount+Avenue%2C+Saint+Paul%2C+MN+55105&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=832+Fairmount+Avenue%2C+Saint+Paul%2C+MN+55105&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "No dedicated workshop verified in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "laurel416": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Ramsey Hill, in the Cathedral Hill search area. Elaborate curved staircase and paneled hall, fitted wood library and carved parlor mantel. Listing attributes the design to Edward Bassford.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Inspected listing photos show substantial surviving natural woodwork, carved details and historic glass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 12–18 min to McKnight; 12–16 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=416+Laurel+Avenue%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=416+Laurel+Avenue%2C+Saint+Paul%2C+MN+55102&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "No dedicated workshop verified in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "holly458": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Cathedral Hill. Unusual pierced-and-turned staircase, natural-wood dining-room paneling, grape-pattern stained glass and a wood mantel.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Inspected listing photos show substantial surviving natural woodwork, carved details and historic glass. Other rooms have painted trim and substantial modern renovations.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 12–18 min to McKnight; 12–16 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=458+Holly+Avenue%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=458+Holly+Avenue%2C+Saint+Paul%2C+MN+55102&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "No dedicated workshop verified in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+      "checkedOn": "2026-10-30"
+    }
   }
 }

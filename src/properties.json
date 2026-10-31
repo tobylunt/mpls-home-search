@@ -287,46 +287,196 @@
     "locationSource": "Google Maps exact-address place pin · Oct 30, 2026"
   },
   {
-    "id": "walnut",
-    "address": "223 Walnut Street",
+    "id": "summit776",
+    "address": "776 Summit Avenue",
     "city": "Saint Paul",
-    "price": 700000,
-    "status": "Pending",
-    "style": "Greek Revival",
+    "price": 795000,
+    "status": "Sold reference",
+    "style": "Queen Anne",
     "reaction": "New find",
-    "description": "Irvine Park. Classical columns, natural woodwork, original floors and carved stone mantels on 0.41 acres. The listing traces some architectural salvage to the Norman Kittson mansion.",
-    "context": "Pending at $700,000. Stained-glass windows are explicitly excluded from the sale. 4 bedrooms, 3 bathrooms; window-unit cooling and no garage listed. Google Maps: 14–20 minutes to McKnight; 14–18 minutes home.",
-    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
-    "year": 1851,
-    "sqft": 3166,
-    "lat": 44.9401388,
-    "lng": -93.1021494,
+    "description": "Summit Hill. Carved, paneled staircase beside stained glass; lyre-shaped fretwork across the main rooms and substantial natural woodwork. Basement workshop.",
+    "context": "Sold September 24, 2025 for $795,000. 5 bedrooms, 3.5 bathrooms, deep fenced yard and two-car garage. Updated kitchen and baths; Summit Avenue street noise remains unverified. Google Maps: 12–18 minutes to McKnight; 12–16 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+    "year": 1905,
+    "sqft": 3506,
+    "lat": 44.9410009,
+    "lng": -93.1328399,
     "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
     "verifiedOn": "2026-10-30",
     "photo": {
-      "src": "/photos/walnut-exterior.jpg",
-      "caption": "Exterior",
-      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
-      "credit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      "src": "/photos/summit-victorian-exterior.jpg",
+      "caption": "Street exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+      "credit": "Francesco Marraffa / KILT Real Estate, LLC / NorthstarMLS6725116. Exact gallery from Pederson Realty/Repliers; photographer unidentified."
     },
     "gallery": [
       {
-        "src": "/photos/walnut-exterior.jpg",
-        "caption": "Exterior",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
-        "credit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified."
+        "src": "/photos/summit-victorian-exterior.jpg",
+        "caption": "Street exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+        "credit": "Francesco Marraffa / KILT Real Estate, LLC / NorthstarMLS6725116. Exact gallery from Pederson Realty/Repliers; photographer unidentified."
       },
       {
-        "src": "/photos/walnut-foyer.jpg",
-        "caption": "Woodwork and entry",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
-        "credit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified."
+        "src": "/photos/summit-victorian-fretwork.jpg",
+        "caption": "Natural woodwork and lyre-shaped fretwork",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+        "credit": "Francesco Marraffa / KILT Real Estate, LLC / NorthstarMLS6725116. Exact gallery from Pederson Realty/Repliers; photographer unidentified."
       },
       {
-        "src": "/photos/walnut-mantel.jpg",
-        "caption": "Carved stone mantel",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
-        "credit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified."
+        "src": "/photos/summit-victorian-stair.jpg",
+        "caption": "Carved staircase and stained glass",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+        "credit": "Francesco Marraffa / KILT Real Estate, LLC / NorthstarMLS6725116. Exact gallery from Pederson Realty/Repliers; photographer unidentified."
+      },
+      {
+        "src": "/photos/summit-victorian-workshop.jpg",
+        "caption": "Basement workshop",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+        "credit": "Francesco Marraffa / KILT Real Estate, LLC / NorthstarMLS6725116. Exact gallery from Pederson Realty/Repliers; photographer unidentified."
+      }
+    ]
+  },
+  {
+    "id": "fairmount832",
+    "address": "832 Fairmount Avenue",
+    "city": "Saint Paul",
+    "price": 739345,
+    "status": "Sold reference",
+    "style": "Victorian",
+    "reaction": "New find",
+    "description": "Summit Hill. Broad natural-wood staircase with a stained-glass landing, tall ceilings, pocket doors, an ornate tiled fireplace and original butler pantry.",
+    "context": "Sold October 16, 2026 for $739,345. 6 bedrooms but only 2 bathrooms. Compact urban lot with neighboring houses close by. Google Maps: 14–18 minutes to McKnight; 12–18 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+    "year": 1894,
+    "sqft": 2896,
+    "lat": 44.936559,
+    "lng": -93.1352241,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/fairmount-victorian-exterior.jpg",
+      "caption": "Street exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+      "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified."
+    },
+    "gallery": [
+      {
+        "src": "/photos/fairmount-victorian-exterior.jpg",
+        "caption": "Street exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+        "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      },
+      {
+        "src": "/photos/fairmount-victorian-stair.jpg",
+        "caption": "Natural-wood staircase and stained-glass landing",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+        "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      },
+      {
+        "src": "/photos/fairmount-victorian-mantel.jpg",
+        "caption": "Carved mantel, tiled fireplace and pocket doors",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+        "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      }
+    ]
+  },
+  {
+    "id": "laurel416",
+    "address": "416 Laurel Avenue",
+    "city": "Saint Paul",
+    "price": 890000,
+    "status": "Sold reference",
+    "style": "Victorian",
+    "reaction": "New find",
+    "description": "Ramsey Hill, in the Cathedral Hill search area. Elaborate curved staircase and paneled hall, fitted wood library and carved parlor mantel. Listing attributes the design to Edward Bassford.",
+    "context": "Sold June 22, 2026 for $890,000. 5 bedrooms, 5 bathrooms and about 5,000 sq ft: one of the larger houses in this group. Small urban lot. Google Maps: 12–18 minutes to McKnight; 12–16 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+    "year": null,
+    "sqft": 5000,
+    "lat": 44.9451871,
+    "lng": -93.1176594,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/laurel-victorian-exterior.jpg",
+      "caption": "Street exterior at dusk",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "credit": "Anderson Realty / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
+    },
+    "gallery": [
+      {
+        "src": "/photos/laurel-victorian-exterior.jpg",
+        "caption": "Street exterior at dusk",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+        "credit": "Anderson Realty / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
+      },
+      {
+        "src": "/photos/laurel-victorian-stair.jpg",
+        "caption": "Natural-wood staircase and paneled hall",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+        "credit": "Anderson Realty / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
+      },
+      {
+        "src": "/photos/laurel-victorian-parlor.jpg",
+        "caption": "Carved mantel and parlor",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+        "credit": "Anderson Realty / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
+      },
+      {
+        "src": "/photos/laurel-victorian-library.jpg",
+        "caption": "Fitted wood library",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+        "credit": "Anderson Realty / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
+      }
+    ]
+  },
+  {
+    "id": "holly458",
+    "address": "458 Holly Avenue",
+    "city": "Saint Paul",
+    "price": 850000,
+    "status": "Sold reference",
+    "style": "Victorian",
+    "reaction": "New find",
+    "description": "Cathedral Hill. Unusual pierced-and-turned staircase, natural-wood dining-room paneling, grape-pattern stained glass and a wood mantel.",
+    "context": "Sold October 2026 for $850,000. 4 bedrooms, 3 bathrooms. Several other rooms have painted trim and substantial modern renovations; the stair and dining room are the standouts. Google Maps: 12–18 minutes to McKnight; 12–16 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+    "year": 1888,
+    "sqft": 2889,
+    "lat": 44.9431395,
+    "lng": -93.1194722,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/holly-fretwork-exterior.jpg",
+      "caption": "Street exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+      "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
+    },
+    "gallery": [
+      {
+        "src": "/photos/holly-fretwork-exterior.jpg",
+        "caption": "Street exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+        "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
+      },
+      {
+        "src": "/photos/holly-fretwork-dining.jpg",
+        "caption": "Paneled dining room, stained glass and mantel",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+        "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
+      },
+      {
+        "src": "/photos/holly-fretwork-stair.jpg",
+        "caption": "Pierced-and-turned natural-wood staircase",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+        "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
+      },
+      {
+        "src": "/photos/holly-fretwork-living.jpg",
+        "caption": "Updated living rooms with painted trim",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+        "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
       }
     ]
   },

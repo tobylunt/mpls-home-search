@@ -1,0 +1,404 @@
+{
+  "checkedOn": "2026-10-30",
+  "brief": "Summit Hill / Crocus Hill / Cathedral Hill, exceptional original woodwork and details, under $1M, within 45 minutes off-peak of McKnight. Stale and sold listings accepted.",
+  "removed": [
+    {
+      "id": "walnut",
+      "address": "223 Walnut Street",
+      "reason": "User says not their style. Removed from published property collection; existing notes remain restorable."
+    }
+  ],
+  "selected": [
+    {
+      "id": "summit776",
+      "verified": true,
+      "address": "776 Summit Avenue, Saint Paul, MN55105",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/776-summit-avenue/mls-6725116",
+      "price": 795000,
+      "priceType": "Sale",
+      "priceDate": "2025-09-24",
+      "status": "Sold",
+      "beds": 5,
+      "baths": 3.5,
+      "sqft": 3506,
+      "year": 1905,
+      "acres": 0.229,
+      "latitude": 44.940864,
+      "longitude": -93.13283,
+      "neighborhood": "Summit Hill",
+      "neighborhoodEvidence": "Realtor exact listing Source Neighborhood field names Summit Hill",
+      "architectureEvidence": "Listing calls Queen Anne Victorian and describes rich woodwork; inspected images show unpainted carved and paneled staircase beside stained glass, decorative lyre-shaped fretwork at broad room openings, substantial natural door/window surrounds and wood mantel. Not all fixtures are verified original.",
+      "bonuses": [
+        "Basement workshop setup visible in actual gallery40/41 (workbench and tools; not a claim tools convey)",
+        "Deep fenced yard on40x250lot",
+        "Two-car garage",
+        "Five bedrooms and finished third-floor room; ductless cooling"
+      ],
+      "compromises": [
+        "Sold2025, no current offer or availability",
+        "Narrow urban lot with adjacent neighbors",
+        "Kitchen/baths and parts of interior updated; original detail strongest main rooms/stair",
+        "Pederson soldDate Aug25 appears pending date; Realtor and Homes.com confirm closingSep24"
+      ],
+      "credit": "Francesco Marraffa / KILT Real Estate, LLC / NorthstarMLS6725116. Exact gallery from Pederson Realty/Repliers; photographer unidentified.",
+      "sourceURLs": [
+        "https://www.realtor.com/realestateandhomes-detail/776-Summit-Ave_Saint-Paul_MN_55105_M74399-52490",
+        "https://www.homes.com/property/776-summit-ave-saint-paul-mn/hrfx6l76dkkcd/"
+      ],
+      "photos": [
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-6725116_12523755004188329229.jpg",
+          "localPath": "/private/tmp/hill-deep-summit/summit776-2.jpg",
+          "visuallyInspected": true,
+          "role": "street exterior"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-6725116_12524094194619801583.jpg",
+          "localPath": "/private/tmp/hill-deep-summit/summit776-5.jpg",
+          "visuallyInspected": true,
+          "role": "main rooms and decorative fretwork"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-6725116_12529978590094105422.jpg",
+          "localPath": "/private/tmp/hill-deep-summit/summit776-13.jpg",
+          "visuallyInspected": true,
+          "role": "carved staircase and stained glass"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-6725116_12524626544185817022.jpg",
+          "localPath": "/private/tmp/hill-deep-summit/summit776-1.jpg",
+          "visuallyInspected": true,
+          "role": "living room wood mantel"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-6725116_12529569948183002449.jpg",
+          "localPath": "/private/tmp/hill-deep-summit/summit776-41.jpg",
+          "visuallyInspected": true,
+          "role": "basement workshop setup"
+        }
+      ]
+    },
+    {
+      "id": "fairmount832",
+      "verified": true,
+      "address": "832 Fairmount Avenue, Saint Paul, MN 55105",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+      "price": 739345,
+      "priceType": "Sale",
+      "status": "Sold",
+      "priceDate": "2026-10-16",
+      "beds": 6,
+      "baths": 2,
+      "sqft": 2896,
+      "year": 1894,
+      "acres": 0.138,
+      "latitude": 44.936454,
+      "longitude": -93.135196,
+      "neighborhood": "Summit Hill",
+      "neighborhoodEvidence": "Exact listing description names Summit Hill",
+      "pros": [
+        "Original staircase with large stained-glass landing; 10–11-foot ceilings",
+        "Natural woodwork, decorative fireplace and original butler pantry",
+        "Six bedrooms; mature urban streetscape"
+      ],
+      "compromises": [
+        "Sold Oct 16 2026; not available",
+        "Only two bathrooms for six bedrooms",
+        "Compact urban lot; adjacent houses"
+      ],
+      "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified.",
+      "photos": [
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7136376_12522930254356373821.jpg",
+          "localPath": "/private/tmp/hill-deep-summit/fairmount832-0.jpg",
+          "visuallyInspected": true,
+          "role": "exterior"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7136376_12529932249459834296.jpg",
+          "localPath": "/private/tmp/hill-deep-summit/fairmount832-4.jpg",
+          "visuallyInspected": true,
+          "role": "architectural interior"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7136376_12527926732964747655.jpg",
+          "localPath": "/private/tmp/hill-deep-summit/fairmount832-13.jpg",
+          "visuallyInspected": true,
+          "role": "architectural interior"
+        }
+      ],
+      "galleryEvidence": "Exact-address MLS gallery HTML saved locally; exterior and at least two substantial interiors visually inspected.",
+      "statusEvidence": "Trulia history and Grumdahl closed date agree Oct16 2026 sold739345. Pederson soldPrice agrees but soldDate appears to reuse pending Sept30 date.",
+      "sourceURLs": [
+        "https://www.trulia.com/home/832-fairmount-ave-saint-paul-mn-55105-248747149",
+        "https://grumdahlgroup.com/home/832-fairmount-ave-saint-paul-mn-55105-6ea015a6"
+      ],
+      "selectionReason": "Reconsidered for deeper unpainted-detail pass: extensive natural staircase, stained landing window, natural door trim/pocket doors and ornate tiled fireplace; stronger than997Lincoln."
+    },
+    {
+      "id": "laurel416",
+      "verified": true,
+      "address": "416 Laurel Avenue, Saint Paul, MN 55102",
+      "price": 890000,
+      "priceType": "sold",
+      "status": "Sold",
+      "statusDate": "2026-06-22",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "mls": "7072128",
+      "beds": 5,
+      "baths": 5,
+      "bathDetails": "3 full, 1 three-quarter, 1 half",
+      "sqft": 5000,
+      "year": 1880,
+      "acres": 0.16414141414141414,
+      "lat": 44.94519301,
+      "lng": -93.11765202,
+      "neighborhood": "Ramsey Hill / Historic Hill, north of Summit",
+      "architecture": "Listing attributes design to Edward Bassford; late Victorian exterior, elaborate natural-wood staircase and square-paneled hall, fitted wood library and carved mantel. Strongest of these two for the requested woodwork.",
+      "architectEvidence": "Zillow and original syndicated listing description name Edward Bassford, but say1890 while facts say1880. Attribution is listing claim, not independently archival verified.",
+      "caveats": [
+        "Sold reference, not available inventory.",
+        "Year conflicts: facts1880 versus description1890.",
+        "Living area5000 in broker facts; Zillow5112 is total structure area and contradicts its3600+1400finished breakdown. Use5000 with caveat.",
+        "Pederson soldDate May27 incorrectly mirrors pending date; Zillow MLS history gives June22 closing.",
+        "Small urban lot, neighboring houses close; no acreage."
+      ],
+      "photoCredit": "Anderson Realty / NorthstarMLS; gallery published by Pederson Realty. Photographer not named.",
+      "photos": [
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7072128_0.jpg",
+          "localPath": "/private/tmp/hill-deep-cathedral/laurel416-0.jpg",
+          "caption": "Victorian exterior",
+          "visuallyInspected": true,
+          "provenance": "Exact-address Pederson Realty MLS gallery; original image downloaded without alteration"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7072128_5.jpg",
+          "localPath": "/private/tmp/hill-deep-cathedral/laurel416-5.jpg",
+          "caption": "Natural-wood staircase and paneled hall",
+          "visuallyInspected": true,
+          "provenance": "Exact-address Pederson Realty MLS gallery; original image downloaded without alteration"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7072128_7.jpg",
+          "localPath": "/private/tmp/hill-deep-cathedral/laurel416-7.jpg",
+          "caption": "Carved mantel and parlor",
+          "visuallyInspected": true,
+          "provenance": "Exact-address Pederson Realty MLS gallery; original image downloaded without alteration"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7072128_15.jpg",
+          "localPath": "/private/tmp/hill-deep-cathedral/laurel416-15.jpg",
+          "caption": "Fitted wood library",
+          "visuallyInspected": true,
+          "provenance": "Exact-address Pederson Realty MLS gallery; original image downloaded without alteration"
+        }
+      ],
+      "evidenceURLs": [
+        "https://www.zillow.com/homedetails/416-Laurel-Ave-Saint-Paul-MN-55102/2028124_zpid/",
+        "https://www.coldwellbankerhomes.com/mn/saint-paul/416-laurel-ave/pid_71193351/"
+      ],
+      "evidence": "Public exact-address Pederson page HTTP200 matchedMLS7072128 and84-photo gallery. Full Zillow page MLS price history records sold890000June22 2026; CB gallery independently address-labeled. Exterior and all selected interiors visually inspected."
+    },
+    {
+      "id": "holly458",
+      "verified": true,
+      "address": "458 Holly Avenue, Saint Paul, MN 55102",
+      "price": 850000,
+      "priceType": "sold",
+      "status": "Sold",
+      "statusDate": "2026-10",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
+      "mls": "7095777",
+      "beds": 4,
+      "baths": 3,
+      "bathDetails": "2 full,1three-quarter",
+      "sqft": 2889,
+      "year": 1888,
+      "acres": 0.132,
+      "lat": 44.94311,
+      "lng": -93.119437,
+      "neighborhood": "Cathedral Hill (explicitly named in listing); Summit-University administrative neighborhood",
+      "architecture": "1888 Victorian with distinctive pierced-and-turned natural wood stair, paneled dining room, grape-pattern stained glass and wood mantel. No architect attribution found.",
+      "caveats": [
+        "Many other rooms have painted trim and substantial modern renovation; strongest surviving details are dining room and stair.",
+        "Sold reference. Fresh Pederson page confirmsClosed850000; secondary RealtyWire reports sale week endingOctober25. ExactOctober22 closing appears broker neighborhood index but not yet verified full detail. UseSoldOct2026.",
+        "Pederson dateSeptember5 mirrors pending date and should not be used as closing. Older indexedCompass/Edina pages still showActive.",
+        "Small0.13acreurbanlot; annual2026tax16104plus216assessment."
+      ],
+      "photoCredit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named.",
+      "photos": [
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7095777_0.jpg",
+          "localPath": "/private/tmp/hill-deep-cathedral/holly458-0.jpg",
+          "caption": "Victorian exterior",
+          "visuallyInspected": true,
+          "provenance": "Exact-address Pederson Realty MLS gallery; original image downloaded without alteration"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7095777_3.jpg",
+          "localPath": "/private/tmp/hill-deep-cathedral/holly458-3.jpg",
+          "caption": "Unpainted paneled dining room, stained glass and mantel",
+          "visuallyInspected": true,
+          "provenance": "Exact-address Pederson Realty MLS gallery; original image downloaded without alteration"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7095777_19.jpg",
+          "localPath": "/private/tmp/hill-deep-cathedral/holly458-19.jpg",
+          "caption": "Distinctive natural-wood pierced staircase",
+          "visuallyInspected": true,
+          "provenance": "Exact-address Pederson Realty MLS gallery; original image downloaded without alteration"
+        },
+        {
+          "url": "https://cdn.repliers.io/northstar/IMG-7095777_10.jpg",
+          "localPath": "/private/tmp/hill-deep-cathedral/holly458-10.jpg",
+          "visuallyInspected": true,
+          "caption": "Updated living rooms with painted trim"
+        }
+      ],
+      "evidenceURLs": [
+        "https://www.compass.com/homedetails/458-Holly-Ave-St-Paul-MN-55102/ENT8Y_pid/",
+        "https://www.edinarealty.com/homes-for-sale/458-holly-avenue-saint-paul-mn-55102-7095777",
+        "https://realtywire.com/saint-paul-mn-top-5-home-sales-week-ending-2026-10-25/"
+      ],
+      "evidence": "Exact-address Pederson page HTTP200 matchesMLS7095777 and41-photo gallery, statesSold850000. FullEdina andCompass pages independently match address, architecture, facts, gallery. Selected exterior+dining+stair downloaded and visually inspected."
+    }
+  ],
+  "routes": [
+    {
+      "id": "summit776",
+      "provider": "Google Maps",
+      "checkedOn": "2026-10-30",
+      "date": "2026-11-04",
+      "timezone": "America/Chicago",
+      "destination": "921 Washington Avenue S, Minneapolis, MN 55415",
+      "inbound": {
+        "arriveBy": "11:00",
+        "typicalMinutes": "12–18",
+        "miles": 7.9,
+        "via": "I-94 W",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=776+Summit+Avenue%2C+Saint+Paul%2C+MN+55105&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving"
+      },
+      "return": {
+        "departAt": "14:00",
+        "typicalMinutes": "12–16",
+        "miles": 7.8,
+        "via": "I-94 E",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=776+Summit+Avenue%2C+Saint+Paul%2C+MN+55105&travelmode=driving"
+      },
+      "method": "Read scheduled driving route results in Google Maps UI, both directions; place coordinates from exact-address result."
+    },
+    {
+      "id": "fairmount832",
+      "provider": "Google Maps",
+      "checkedOn": "2026-10-30",
+      "date": "2026-11-04",
+      "timezone": "America/Chicago",
+      "destination": "921 Washington Avenue S, Minneapolis, MN 55415",
+      "inbound": {
+        "arriveBy": "11:00",
+        "typicalMinutes": "14–18",
+        "miles": 8,
+        "via": "I-94 W",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=832+Fairmount+Avenue%2C+Saint+Paul%2C+MN+55105&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving"
+      },
+      "return": {
+        "departAt": "14:00",
+        "typicalMinutes": "12–18",
+        "miles": 8,
+        "via": "I-94 E",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=832+Fairmount+Avenue%2C+Saint+Paul%2C+MN+55105&travelmode=driving"
+      },
+      "method": "Read scheduled driving route results in Google Maps UI, both directions; place coordinates from exact-address result."
+    },
+    {
+      "id": "laurel416",
+      "provider": "Google Maps",
+      "checkedOn": "2026-10-30",
+      "date": "2026-11-04",
+      "timezone": "America/Chicago",
+      "destination": "921 Washington Avenue S, Minneapolis, MN 55415",
+      "inbound": {
+        "arriveBy": "11:00",
+        "typicalMinutes": "12–18",
+        "miles": 8.4,
+        "via": "I-94 W",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=416+Laurel+Avenue%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving"
+      },
+      "return": {
+        "departAt": "14:00",
+        "typicalMinutes": "12–16",
+        "miles": 8.3,
+        "via": "I-94 E",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=416+Laurel+Avenue%2C+Saint+Paul%2C+MN+55102&travelmode=driving"
+      },
+      "method": "Read scheduled driving route results in Google Maps UI, both directions; place coordinates from exact-address result."
+    },
+    {
+      "id": "holly458",
+      "provider": "Google Maps",
+      "checkedOn": "2026-10-30",
+      "date": "2026-11-04",
+      "timezone": "America/Chicago",
+      "destination": "921 Washington Avenue S, Minneapolis, MN 55415",
+      "inbound": {
+        "arriveBy": "11:00",
+        "typicalMinutes": "12–18",
+        "miles": 8.6,
+        "via": "I-94 W",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=458+Holly+Avenue%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving"
+      },
+      "return": {
+        "departAt": "14:00",
+        "typicalMinutes": "12–16",
+        "miles": 8.3,
+        "via": "I-94 E",
+        "url": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=458+Holly+Avenue%2C+Saint+Paul%2C+MN+55102&travelmode=driving"
+      },
+      "method": "Read scheduled driving route results in Google Maps UI, both directions; place coordinates from exact-address result."
+    }
+  ],
+  "held": [
+    {
+      "id": "fairmount880",
+      "address": "880 Fairmount Avenue",
+      "reason": "Exceptional original unpainted architectural detail but newer Realtor record June29 2026 removed at1.05M conflicts with sub1M brief.2025sale899k verified; do not represent latestprice as899k. Zillow/Redfin only show2025record and1.05M ask inJuly2025; source disagreement unresolved.",
+      "url": "https://www.realtor.com/realestateandhomes-detail/880-Fairmount-Ave_Saint-Paul_MN_55105_M73770-84845",
+      "assets": "/private/tmp/hill-deep-summit/fairmount880-*"
+    },
+    {
+      "id": "lincoln997",
+      "address": "997 Lincoln Avenue",
+      "price": 725000,
+      "status": "Active",
+      "mls": "7138467",
+      "reason": "Actual exterior/living/diningphotos inspected, original woodwork and leadedglass retained but craftsmanship less exceptional thanselected. Do not add just for active status.",
+      "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/997-lincoln-avenue/mls-7138467",
+      "assets": "/private/tmp/hill-deep-summit/lincoln997-*"
+    },
+    {
+      "id": "goodrich834",
+      "address": "834 Goodrich Avenue",
+      "reason": "Recent938k sale but inspectedmain interiors predominantlypainted/modernized; fails unpainted-detail priority."
+    },
+    {
+      "address": "807 Fairmount Avenue",
+      "reason": "Listing explicitly enameledwhitewoodwork"
+    },
+    {
+      "address": "920 Lincoln Avenue",
+      "reason": "Latest1.02Msale overbudget"
+    },
+    {
+      "address": "30 Crocus Place",
+      "reason": "Latest1.25Msale overbudget"
+    },
+    {
+      "id": "goodrich793",
+      "address": "793 Goodrich Avenue",
+      "reason": "Verified $937,500 sale and original details, but less exceptional than selected four. Held to keep this pass selective."
+    }
+  ],
+  "sourceDiscrepancies": "Pending dates copied into sold-date fields were corrected from closing histories. 416 Laurel construction year conflicts (1880/1890), so year is omitted in the UI. Its size uses MLS finished area of 5,000 sq ft. 458 Holly sale is dated only to October 2026.",
+  "photoVerification": "All 15 selected images come from exact-address listing galleries, are visually inspected, and are stored unchanged with source and credit. Each home has a street exterior and at least two substantive interiors."
+}

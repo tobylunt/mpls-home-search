@@ -20,7 +20,7 @@ describe('verified gallery',()=>{
   expect(parseState(s).reviews).toEqual(s.reviews);
  });
  it('keeps existing notes restorable after a listing is removed',()=>{
-  const s={...initial,reviews:{turnpike:{favorite:true,notes:'Keep these notes in my backup.'}}};
-  expect(parseState(s).reviews.turnpike.notes).toBe('Keep these notes in my backup.');
+  const s={...initial,reviews:{turnpike:{favorite:true,notes:'Keep these notes in my backup.'},walnut:{notes:'Not my style.'}}};
+  expect(parseState(s).reviews).toEqual(s.reviews);
  });
 });
