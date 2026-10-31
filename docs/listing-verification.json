@@ -1191,6 +1191,32 @@
     "photoCredit": "Edina Realty / NorthstarMLS via Pederson Realty",
     "sourceAddressText": "1 Chickadee Lane, North Oaks, MN",
     "verifiedAt": "2026-10-30",
-    "evidence": "Exact-address MLS 7072046 gallery via Pederson Realty. Exterior and interior inspected. Closed price $765,000 corroborated by Coldwell Banker."
+    "evidence": "Exact-address MLS 7072046 gallery via Pederson Realty. Exterior and interior inspected. Closed price $765,000 corroborated by Coldwell Banker.",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7072046_2.jpg",
+        "localPhoto": "public/photos/chickadee-living-room.jpg",
+        "caption": "Living room",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+        "visuallyInspected": true,
+        "verifiedAt": "2026-10-30"
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7072046_7.jpg",
+        "localPhoto": "public/photos/chickadee-kitchen.jpg",
+        "caption": "Kitchen",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+        "visuallyInspected": true,
+        "verifiedAt": "2026-10-30"
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7072046_12.jpg",
+        "localPhoto": "public/photos/chickadee-sunroom.jpg",
+        "caption": "Sunroom",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
+        "visuallyInspected": true,
+        "verifiedAt": "2026-10-30"
+      }
+    ]
   }
 ]
