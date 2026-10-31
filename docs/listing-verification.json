@@ -1218,5 +1218,136 @@
         "verifiedAt": "2026-10-30"
       }
     ]
+  },
+  {
+    "id": "carverbeach",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7109041_8bfe943d3f5fc905aa9e0334f3688b59453fda2562d7d7b5c9b3c7102784d743.jpg",
+    "localPhoto": "public/photos/carverbeach-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Anderson Realty / NorthstarMLS via Pederson Realty",
+    "sourceAddressText": "606 Carver Beach Road, Chanhassen, MN 55317",
+    "evidence": "Exact-address MLS gallery inspected. Current price/status checked against linked brokerage and corroborating sources; sold records remain labeled as references.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7109041_8bfe943d3f5fc905aa9e0334f3688b59453fda2562d7d7b5c9b3c7102784d743.jpg",
+        "localPhoto": "public/photos/carverbeach-exterior.jpg",
+        "caption": "Exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7109041_ddd3f342c9e90f19f69ae9f21ce33279bc5169ac8593f2a01ae8b192c140d7e8.jpg",
+        "localPhoto": "public/photos/carverbeach-living.jpg",
+        "caption": "Living room",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7109041_47f4788100469f19a9348b99abfcef362bd808f0ef397e5d656fc069066ec193.jpg",
+        "localPhoto": "public/photos/carverbeach-woods.jpg",
+        "caption": "Wooded drive",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.redfin.com/MN/Chanhassen/606-Carver-Beach-Rd-55317/home/49972529",
+      "https://www.coldwellbankerhomes.com/mn/chanhassen/606-carver-beach-rd/pid_73319387/"
+    ]
+  },
+  {
+    "id": "hilltrail",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095467_12529750612056984067.jpg",
+    "localPhoto": "public/photos/hilltrail-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty",
+    "sourceAddressText": "8000 Hill Trail N, Lake Elmo, MN 55042",
+    "evidence": "Exact-address MLS gallery inspected. Current price/status checked against linked brokerage and corroborating sources; sold records remain labeled as references.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095467_12529750612056984067.jpg",
+        "localPhoto": "public/photos/hilltrail-exterior.jpg",
+        "caption": "Exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095467_12523110222873356357.jpg",
+        "localPhoto": "public/photos/hilltrail-dining.jpg",
+        "caption": "Wood and stone interior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095467_12521412199910384498.jpg",
+        "localPhoto": "public/photos/hilltrail-living.jpg",
+        "caption": "Living room",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095467_12524601776449601950.jpg",
+        "localPhoto": "public/photos/hilltrail-grounds.jpg",
+        "caption": "Lake and wooded grounds",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095467_12528362330072627698.jpg",
+        "localPhoto": "public/photos/hilltrail-dock.jpg",
+        "caption": "Dock",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.trulia.com/home/8000-hill-trl-n-lake-elmo-mn-55042-2215982",
+      "https://www.compass.com/homedetails/8000-Hill-Trail-N-Lake-Elmo-MN-55042/DE5VT_pid/"
+    ]
+  },
+  {
+    "id": "sherwoodhills",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+    "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/068/6787068_0.jpg",
+    "localPhoto": "public/photos/sherwoodhills-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "BRIX Real Estate / NorthstarMLS via Redfin and Pederson Realty",
+    "sourceAddressText": "2404 Sherwood Hills Road, Minnetonka, MN 55305",
+    "evidence": "Exact-address MLS gallery inspected. Current price/status checked against linked brokerage and corroborating sources; sold records remain labeled as references.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/068/6787068_0.jpg",
+        "localPhoto": "public/photos/sherwoodhills-exterior.jpg",
+        "caption": "Exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-6787068_1b81fc797e600e2e9e28676fd65e3de667cec37ad3c311167fe73be490b7f755.jpg",
+        "localPhoto": "public/photos/sherwoodhills-living.jpg",
+        "caption": "Living room",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-6787068_dc289361c440577c1aa2e7d0ab27918f30eb0bd9f46de7fb454ec359892852c0.jpg",
+        "localPhoto": "public/photos/sherwoodhills-study.jpg",
+        "caption": "Study",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.redfin.com/MN/Hopkins/2404-Sherwood-Hills-Rd-55305/home/49971772",
+      "https://www.ratemyagent.com/real-estate-agency/brix-real-estate/property-listings/2404-sherwood-hills-road-minnetonka-bqsl9r"
+    ]
   }
 ]

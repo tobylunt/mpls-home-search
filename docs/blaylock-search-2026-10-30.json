@@ -1,0 +1,171 @@
+{
+  "checkedOn": "2026-10-30",
+  "brief": "Blaylock-like architecture and wooded land, under $1M, within 45 minutes off-peak of McKnight. Recent sold references allowed; no Uptown search in this pass.",
+  "selected": [
+    {
+      "id": "carverbeach",
+      "address": "606 Carver Beach Road",
+      "price": 765000,
+      "status": "Contingent",
+      "sources": [
+        "https://www.redfin.com/MN/Chanhassen/606-Carver-Beach-Rd-55317/home/49972529",
+        "https://www.coldwellbankerhomes.com/mn/chanhassen/606-carver-beach-rd/pid_73319387/"
+      ]
+    },
+    {
+      "id": "hilltrail",
+      "address": "8000 Hill Trail N",
+      "price": 885000,
+      "status": "Sold reference",
+      "sources": [
+        "https://www.trulia.com/home/8000-hill-trl-n-lake-elmo-mn-55042-2215982",
+        "https://www.compass.com/homedetails/8000-Hill-Trail-N-Lake-Elmo-MN-55042/DE5VT_pid/"
+      ]
+    },
+    {
+      "id": "sherwoodhills",
+      "address": "2404 Sherwood Hills Road",
+      "price": 983500,
+      "status": "Sold reference",
+      "sources": [
+        "https://www.redfin.com/MN/Hopkins/2404-Sherwood-Hills-Rd-55305/home/49971772",
+        "https://www.ratemyagent.com/real-estate-agency/brix-real-estate/property-listings/2404-sherwood-hills-road-minnetonka-bqsl9r"
+      ]
+    }
+  ],
+  "commuteMethod": {
+    "provider": "Google Maps visible Directions UI",
+    "date": "2026-11-04",
+    "timezone": "America/Chicago",
+    "inboundArrival": "11:00",
+    "outboundDeparture": "14:00",
+    "destination": "921 Washington Avenue S, Minneapolis, MN 55415",
+    "meaning": "Typical route ranges, not guaranteed journey times."
+  },
+  "commutes": {
+    "carverbeach": {
+      "inbound": [
+        30,
+        45
+      ],
+      "outbound": [
+        28,
+        45
+      ],
+      "inMiles": 24.0,
+      "outMiles": 23.6,
+      "inRoute": "I-35W N",
+      "outRoute": "MN-62 W",
+      "note": "Return via I-394 W can take 30–50 minutes; MN-62 W is the qualifying route."
+    },
+    "hilltrail": {
+      "inbound": [
+        20,
+        28
+      ],
+      "outbound": [
+        22,
+        30
+      ],
+      "inMiles": 17.9,
+      "outMiles": 17.5,
+      "inRoute": "MN-36 W",
+      "outRoute": "MN-36 E"
+    },
+    "sherwoodhills": {
+      "inbound": [
+        16,
+        22
+      ],
+      "outbound": [
+        18,
+        26
+      ],
+      "inMiles": 11.4,
+      "outMiles": 10.5,
+      "inRoute": "I-394 E",
+      "outRoute": "I-394 W"
+    }
+  },
+  "tradeoff": "No new match verified with Blaylock-scale acreage. Selected properties have 0.69–1.10 acres; two are recent sold references and one contingent.",
+  "held": [
+    {
+      "address": "8695 68th Street N, Grant / Stillwater",
+      "reason": "Excellent 48-acre historical MacKenzie artist property with workshop. $970k sale is from 2020; current sub-$1M budget fit unverified (Redfin estimate about $1.12M). Historical parcel package also needs checking.",
+      "url": "https://www.redfin.com/MN/Stillwater/8695-68th-St-N-55082/home/172506371"
+    },
+    {
+      "address": "1 Acorn Drive, Sunfish Lake",
+      "reason": "Graffunder on 4.86 acres; $680k sale from 2018. Current budget fit unverified, with Redfin estimate about $1.37M. Not added.",
+      "url": "https://www.redfin.com/MN/Sunfish-Lake/1-Acorn-Dr-55077/home/50760827"
+    },
+    {
+      "address": "571 Neal Avenue S, Afton",
+      "reason": "4.95 acres and verified photos, but sale from 2018 and weaker architectural fit. Held rather than padding."
+    },
+    {
+      "address": "4431 Eastwood Road, Minnetonka",
+      "reason": "Rapson studio/home, 0.93 acre. $525k sale predates Stinson renovation; present budget fit unknown."
+    },
+    {
+      "address": "2159 Charlton Road, Sunfish Lake",
+      "reason": "Howe design, but exact-address listing photos could not be verified."
+    },
+    {
+      "address": "1115 Willard Street W, Stillwater",
+      "reason": "McGuire lakeside home, but substantive interiors could not be verified."
+    }
+  ],
+  "excluded": [
+    {
+      "address": "2022 Medina Road, Medina",
+      "reason": "Latest known sale $1,582,500 July20 2026 exceeds budget despite old $909k2019 sale; Rolf Lokensgard,7+acres.",
+      "url": "https://www.redfin.com/MN/Medina/2022-Medina-Rd-55340/home/51437039"
+    },
+    {
+      "address": "18101 Woolman Drive, Minnetonka",
+      "reason": "Latest known sale $1,110,000 Sept15 2025 exceeds budget; Donald E Hustad1961,1.33 wooded acres.",
+      "url": "https://www.redfin.com/MN/Minnetonka/18101-Woolman-Dr-55345/home/51486784"
+    },
+    {
+      "address": "3936 Willmatt Hill, Minnetonka",
+      "reason": "Parker own home remains unverified photo pair: exact Redfin search record contains gallery but web.open repeatedly cache-miss; no downloaded address-bound interior. Also0.46acre rather than acreage.",
+      "url": "https://www.redfin.com/MN/Minnetonka/3936-Willmatt-Hl-55305/home/50137244"
+    },
+    {
+      "address": "3020 Woodlawn Avenue, Minnetonka",
+      "reason": "Search suggests sold $995k July17 2026,0.93acre Streeter remodel, but full source retrieval failed and no inspected exact-address photo pair. Not recommended.",
+      "url": "https://grumdahlgroup.com/home/3020-woodlawn-ave-minnetonka-mn-55391-0058e35c"
+    },
+    {
+      "address": "15270 Painters Lane Circle N, Stillwater",
+      "reason": "6+ wooded acres but current ask $1.995M, exceeds budget",
+      "url": "https://www.trulia.com/home/15270-painters-lane-cir-n-stillwater-mn-55082-2259410"
+    },
+    {
+      "address": "13960 Paris Ave N, May Township / Stillwater",
+      "reason": "2.54 wooded acres and mid-century description, but sold March16 2026 $450k. Architectural quality and interior not visually verified; not advanced.",
+      "url": "https://www.edinarealty.com/homes-for-sale/13960-paris-avenue-n-may-twp-mn-55082-6811869"
+    },
+    {
+      "address": "14440 59th St S, Afton",
+      "reason": "5.42 acres but sold Jan2026 $1.225M, over budget"
+    },
+    {
+      "address": "5730 Heather Dr SW, Rochester",
+      "reason": "Current $980k and 11.46 acres but outside plausible metro commute"
+    },
+    {
+      "address": "2413 Indian Road W",
+      "reason": "Recent$920k2026sale/1.11acre fits numbers but inspected exterior/interior felt generic remodeled home compared with requested architecture; not recommended."
+    },
+    {
+      "address": "10460 Bluff Circle, Chaska",
+      "reason": "Latest2025sale$1,354,999 exceeds budget."
+    },
+    {
+      "address": "4535 Eastwood Road",
+      "reason": "Latest2025sale$1,007,000 exceeds strict budget."
+    }
+  ]
+}

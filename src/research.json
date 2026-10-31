@@ -313,5 +313,122 @@
       "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/north-oaks/1-chickadee-lane/mls-7072046",
       "checkedOn": "2026-10-30"
     }
+  },
+  "carverbeach": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Listing identifies the architect’s own residence; architect unnamed. Inspected photos show the tall brick hearth and open split-level spaces.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 30–45 min to McKnight; 28–45 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30. Return via I-394 W can take 30–50 minutes; MN-62 W is the qualifying route.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=606+Carver+Beach+Road%2C+Chanhassen%2C+MN+55317&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=606+Carver+Beach+Road%2C+Chanhassen%2C+MN+55317&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "yes",
+      "detail": "Public access: listing places Carver Beach two blocks away. City confirms swimming beaches, fishing dock and canoe rack on Lotus Lake. Private lake frontage is unconfirmed.",
+      "sourceUrl": "https://www.chanhassenmn.gov/Home/Components/FacilityDirectory/FacilityDirectory/58/34",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Mature trees are documented; established growing beds, orchard or greenhouse are unconfirmed.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "No dedicated workshop documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "hilltrail": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Inspected listing photos show expressive stonework, timber ceilings and rooms opening to the trees. Architect not identified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 20–28 min to McKnight; 22–30 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=8000+Hill+Trail+N%2C+Lake+Elmo%2C+MN+55042&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=8000+Hill+Trail+N%2C+Lake+Elmo%2C+MN+55042&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "yes",
+      "detail": "Listing documents private Lake DeMontreville frontage and a dock, reached by a wooded path and footbridge.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "yes",
+      "detail": "Greenhouse documented in the 2026 listing. Condition and growing infrastructure need an on-site check.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Large storage building marketed for workshop use. Dedicated shop fit-out, power, heating and ventilation are unverified; no workshop points awarded yet.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "sherwoodhills": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Inspected photos show two-story corner glazing, timber ceilings and a wood-and-stone study. Architect not identified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 16–22 min to McKnight; 18–26 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=2404+Sherwood+Hills+Road%2C+Minnetonka%2C+MN+55305&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=2404+Sherwood+Hills+Road%2C+Minnetonka%2C+MN+55305&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Mature trees are documented; established growing beds, orchard or greenhouse are unconfirmed.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "No dedicated workshop documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+      "checkedOn": "2026-10-30"
+    }
   }
 }

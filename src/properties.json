@@ -143,6 +143,150 @@
     ]
   },
   {
+    "id": "carverbeach",
+    "address": "606 Carver Beach Road",
+    "city": "Chanhassen",
+    "price": 765000,
+    "status": "Contingent",
+    "style": "Contemporary",
+    "reaction": "New find",
+    "year": 1979,
+    "sqft": 3358,
+    "lat": 44.875845,
+    "lng": -93.5352273,
+    "description": "An architect’s own 1979 house on a wooded acre. A double-height brick hearth, oak floors and tall windows face a ravine with a creek and pond below.",
+    "context": "4 bedrooms, 4 bathrooms. $765,000, contingent as of October 27. Public Carver Beach on Lotus Lake is two blocks away. Google Maps: 30–45 minutes to McKnight; 28–45 minutes home via MN-62. Some return routes reach 50 minutes.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+    "photo": {
+      "src": "/photos/carverbeach-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+      "credit": "Anderson Realty / NorthstarMLS via Pederson Realty"
+    },
+    "gallery": [
+      {
+        "src": "/photos/carverbeach-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+        "credit": "Anderson Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/carverbeach-living.jpg",
+        "caption": "Living room",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+        "credit": "Anderson Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/carverbeach-woods.jpg",
+        "caption": "Wooded drive",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/chanhassen/606-carver-beach-road/mls-7109041",
+        "credit": "Anderson Realty / NorthstarMLS via Pederson Realty"
+      }
+    ],
+    "verifiedOn": "2026-10-30",
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026"
+  },
+  {
+    "id": "hilltrail",
+    "address": "8000 Hill Trail N",
+    "city": "Lake Elmo",
+    "price": 885000,
+    "status": "Sold reference",
+    "style": "Mid-century",
+    "reaction": "New find",
+    "year": 1974,
+    "sqft": 3222,
+    "lat": 45.0244014,
+    "lng": -92.944577,
+    "description": "Wood beams, stone walls and treetop windows on 1.10 wooded acres above Lake DeMontreville. Private dock, greenhouse and a large outbuilding with workshop potential.",
+    "context": "5 bedrooms, 3 bathrooms. Sold August 2026 for $885,000. Smaller grounds than Blaylock, with direct lake access. Check the steep walk to the water and outbuilding power, heat and ventilation. Google Maps: 20–28 minutes to McKnight; 22–30 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+    "photo": {
+      "src": "/photos/hilltrail-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+      "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+    },
+    "gallery": [
+      {
+        "src": "/photos/hilltrail-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/hilltrail-dining.jpg",
+        "caption": "Wood and stone interior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/hilltrail-living.jpg",
+        "caption": "Living room",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/hilltrail-grounds.jpg",
+        "caption": "Lake and wooded grounds",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/hilltrail-dock.jpg",
+        "caption": "Dock",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      }
+    ],
+    "verifiedOn": "2026-10-30",
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026"
+  },
+  {
+    "id": "sherwoodhills",
+    "address": "2404 Sherwood Hills Road",
+    "city": "Minnetonka",
+    "price": 983500,
+    "status": "Sold reference",
+    "style": "Contemporary",
+    "reaction": "New find",
+    "year": 1977,
+    "sqft": null,
+    "lat": 44.9582215,
+    "lng": -93.4299216,
+    "description": "Two-story corner windows bring the trees into the living room. Wood ceilings, a stone hearth and a wood-lined study, surrounded by mature trees on 0.69 acre.",
+    "context": "3 bedrooms, 3 bathrooms. Sold October 2025 for $983,500. A strong architectural match with much less land than Blaylock. Published floor areas disagree, so square footage is omitted. Google Maps: 16–22 minutes to McKnight; 18–26 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+    "photo": {
+      "src": "/photos/sherwoodhills-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+      "credit": "BRIX Real Estate / NorthstarMLS via Redfin and Pederson Realty"
+    },
+    "gallery": [
+      {
+        "src": "/photos/sherwoodhills-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+        "credit": "BRIX Real Estate / NorthstarMLS via Redfin and Pederson Realty"
+      },
+      {
+        "src": "/photos/sherwoodhills-living.jpg",
+        "caption": "Living room",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+        "credit": "BRIX Real Estate / NorthstarMLS via Redfin and Pederson Realty"
+      },
+      {
+        "src": "/photos/sherwoodhills-study.jpg",
+        "caption": "Study",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+        "credit": "BRIX Real Estate / NorthstarMLS via Redfin and Pederson Realty"
+      }
+    ],
+    "verifiedOn": "2026-10-30",
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026"
+  },
+  {
     "id": "williston",
     "address": "3904 Williston Road",
     "city": "Minnetonka",
