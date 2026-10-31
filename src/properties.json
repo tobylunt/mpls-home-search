@@ -1273,30 +1273,6 @@
     }
   },
   {
-    "id": "minnetonka",
-    "address": "4700 Minnetonka Boulevard",
-    "city": "Saint Louis Park",
-    "price": 575000,
-    "status": "Sold reference",
-    "style": "Mid-century",
-    "reaction": "Wrong street",
-    "description": "A vaulted living room and unusual former medical-office plan.",
-    "context": "The source chat flags the boulevard as failing the quiet-street brief.",
-    "url": "https://www.redfin.com/MN/Saint-Louis-Park/4700-Minnetonka-Blvd-55416/home/51491995",
-    "year": 1950,
-    "sqft": 2961,
-    "lat": 44.948520538839,
-    "lng": -93.339153614179,
-    "locationSource": "US Census street-range geocoder · Oct 29, 2026",
-    "matchedAddress": "4700 MINNETONKA BLVD, SAINT LOUIS PARK, MN, 55416",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/minnetonka.jpg",
-      "sourceUrl": "https://www.redfin.com/MN/Saint-Louis-Park/4700-Minnetonka-Blvd-55416/home/51491995",
-      "credit": "Redfin / NorthstarMLS #7138015"
-    }
-  },
-  {
     "id": "linwood",
     "address": "690 Linwood Avenue",
     "city": "Saint Paul",
