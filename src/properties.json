@@ -1106,30 +1106,6 @@
     }
   },
   {
-    "id": "croix",
-    "address": "1525 Saint Croix Circle",
-    "city": "Golden Valley",
-    "price": 425000,
-    "status": "Sold reference",
-    "style": "Mid-century",
-    "reaction": "Explore",
-    "description": "Exposed beams, fireplaces and a screened porch.",
-    "context": "Sold October 28, 2026 for $425,000.",
-    "url": "https://www.yourmnproperties.com/property/7150556/",
-    "year": 1961,
-    "sqft": 3749,
-    "lat": 44.994915139587,
-    "lng": -93.340798191095,
-    "locationSource": "US Census street-range geocoder · Oct 29, 2026",
-    "matchedAddress": "1525 SAINT CROIX CIR, GOLDEN VALLEY, MN, 55422",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/croix.webp",
-      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/1525-Saint-Croix-Cir_Golden-Valley_MN_55422_M89098-29208",
-      "credit": "Realtor.com / NorthstarMLS7120062; Joshua Leonhardt, Coldwell Banker Burnet"
-    }
-  },
-  {
     "id": "goodrich",
     "address": "2188 Goodrich Avenue",
     "city": "Saint Paul",
