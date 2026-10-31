@@ -1,6 +1,17 @@
 import { describe,it,expect } from 'vitest';
-import {assess,initial,properties,parseState,reviewFor} from './model';
+import {assess,initial,properties,parseState,reviewFor,isSaved} from './model';
 const unassessedHome = {...properties[0], research: undefined};
+describe('shared shortlist',()=>{
+ it('shows shared selections for new and existing browsers while honoring personal overrides',()=>{
+  const home={...unassessedHome,shortlisted:true};
+  expect(isSaved(home)).toBe(true);
+  const personal={notes:'Keep these notes',checks:{quiet:'yes' as const}};
+  expect(isSaved(home,personal)).toBe(true);
+  expect(isSaved(home,{...personal,favorite:false})).toBe(false);
+  expect(isSaved({...home,shortlisted:false},{favorite:true})).toBe(true);
+  expect(personal).toEqual({notes:'Keep these notes',checks:{quiet:'yes'}});
+ });
+});
 describe('transparent rubric',()=>{
  it('never treats missing evidence as a pass',()=>expect(assess(unassessedHome).label).toBe('Needs review'));
  it('does not let bonuses cancel a failed must-have',()=>expect(assess(unassessedHome,{checks:{quiet:'no',architecture:'yes',materials:'yes',setting:'yes',southwest:'yes'}}).label).toBe('Does not meet brief'));

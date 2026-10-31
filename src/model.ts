@@ -4,11 +4,14 @@ export type Verdict = 'unknown' | 'yes' | 'no';
 export type Evidence = { verdict: Verdict; detail: string; sourceUrl: string; returnUrl?: string; checkedOn: string };
 export type Criterion = { id: string; name: string; tier: 'Must-have' | 'Nice-to-have'; detail: string; weight: number };
 export type PropertyPhoto = { src:string; sourceUrl:string; credit:string; caption?:string };
-export type Property = { id:string; address:string; city:string; price:number|null; status:string; style:string; reaction:string; description:string; context:string; url:string; year:number|null; sqft:number|null; lat:number|null; lng:number|null; locationSource:string|null; matchedAddress?:string; photo?:PropertyPhoto; gallery?:PropertyPhoto[]; verifiedOn?:string; research?: Record<string,Evidence> };
+export type Property = { id:string; address:string; city:string; price:number|null; status:string; style:string; reaction:string; shortlisted?:boolean; description:string; context:string; url:string; year:number|null; sqft:number|null; lat:number|null; lng:number|null; locationSource:string|null; matchedAddress?:string; photo?:PropertyPhoto; gallery?:PropertyPhoto[]; verifiedOn?:string; research?: Record<string,Evidence> };
 export type Review = { favorite?: boolean; notes?: string; checks?: Record<string,Verdict> };
 export type State = { version: 1; reviews: Record<string, Review>; criteria: Criterion[]; budget: number };
 export const sourceChat = 'https://chatgpt.com/share/6ae3ac2e-a27c-83ea-837d-3a71ec763fbf';
 export const properties: Property[] = seeds.map(p=>({...p,research:(researchData as Record<string,Record<string,Evidence>>)[p.id]}));
+export function isSaved(p: Property, review?: Review): boolean {
+ return review?.favorite ?? p.shortlisted ?? false;
+}
 export function reviewFor(p: Property, review: Review = {}): Review {
  return {...review, checks:{...Object.fromEntries(Object.entries(p.research??{}).map(([id,e])=>[id,e.verdict])),...review.checks}};
 }
