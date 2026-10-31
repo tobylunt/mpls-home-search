@@ -1349,5 +1349,240 @@
       "https://www.redfin.com/MN/Hopkins/2404-Sherwood-Hills-Rd-55305/home/49971772",
       "https://www.ratemyagent.com/real-estate-agency/brix-real-estate/property-listings/2404-sherwood-hills-road-minnetonka-bqsl9r"
     ]
+  },
+  {
+    "id": "walnut",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7101189_0.jpg",
+    "localPhoto": "public/photos/walnut-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified.",
+    "sourceAddressText": "223 Walnut Street, Saint Paul, MN 55102",
+    "evidence": "Exact-address MLS gallery HTML saved locally; exterior and at least two substantial interiors visually inspected.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7101189_0.jpg",
+        "localPhoto": "public/photos/walnut-exterior.jpg",
+        "caption": "Exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7101189_7.jpg",
+        "localPhoto": "public/photos/walnut-foyer.jpg",
+        "caption": "Woodwork and entry",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7101189_13.jpg",
+        "localPhoto": "public/photos/walnut-mantel.jpg",
+        "caption": "Carved stone mantel",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://mcgregorrealty.com/PropertyDetails/NST7101189/223-walnut-street-55102/MG_NST",
+      "https://www.zillow.com/homedetails/223-Walnut-St-Saint-Paul-MN-55102/2050833_zpid/",
+      "https://www.stpaul.gov/sites/default/files/2022-08/1973%20Irvine%20Park.pdf"
+    ]
+  },
+  {
+    "id": "lincoln",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7056791_0.jpg",
+    "localPhoto": "public/photos/lincoln-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Rebecca S. Carlson / Re/Max Synergy / NorthstarMLS 7056791. Gallery served by Pederson Realty via Repliers; photographer not identified.",
+    "sourceAddressText": "567 Lincoln Avenue, Saint Paul, MN 55102",
+    "evidence": "Exact-address MLS gallery HTML saved locally; exterior and at least two substantial interiors visually inspected.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7056791_0.jpg",
+        "localPhoto": "public/photos/lincoln-exterior.jpg",
+        "caption": "Exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7056791_7.jpg",
+        "localPhoto": "public/photos/lincoln-living.jpg",
+        "caption": "Paneled living room",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7056791_10.jpg",
+        "localPhoto": "public/photos/lincoln-interior.jpg",
+        "caption": "Original woodwork",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.movoto.com/saint-paul-mn/567-lincoln-ave-saint-paul-mn-55102/pid_0egn4lykgh/",
+      "https://www.homes.com/real-estate-agents/rebecca-carlson/e07rseq/",
+      "https://www.compass.com/homedetails/567-Lincoln-Ave-St-Paul-MN-55102/DRIU9_pid/"
+    ]
+  },
+  {
+    "id": "holly",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-6761721_0.jpg",
+    "localPhoto": "public/photos/holly-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Shane M. Montoya / Coldwell Banker Realty / NorthstarMLS6761721. Gallery served by Pederson Realty via Repliers; photographer unidentified.",
+    "sourceAddressText": "565 Holly Avenue, Saint Paul, MN 55102",
+    "evidence": null,
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-6761721_0.jpg",
+        "localPhoto": "public/photos/holly-exterior.jpg",
+        "caption": "Exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-6761721_4.jpg",
+        "localPhoto": "public/photos/holly-stair.jpg",
+        "caption": "Paneled staircase",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-6761721_10.jpg",
+        "localPhoto": "public/photos/holly-columns.jpg",
+        "caption": "Carved columns and fireplace",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.compass.com/homedetails/565-Holly-Ave-St-Paul-MN-55102/E88RK_pid/",
+      "https://www.coldwellbankercrown.com/for-sale/565-holly-avenue-saint-paul-mn-55102/id_1700647",
+      "https://www.trulia.com/home/565-holly-ave-saint-paul-mn-55102-2028549"
+    ]
+  },
+  {
+    "id": "bryant2444",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034799_0.jpg",
+    "localPhoto": "public/photos/bryant-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Coldwell Banker Realty - Lakes, Susan Westerman and Kylie Urriche / NorthstarMLS #7034799 via Pederson Realty; photographer unspecified",
+    "sourceAddressText": "2444 Bryant Avenue S, Minneapolis, MN 55405",
+    "evidence": "Exact-address Redfin full page and Pederson raw HTTP200. Brokerage HTML gives Sold $750000,3586sf,1898 and matching MLS gallery; Redfin saleJuly15 2026. All three photos downloaded and visually inspected.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034799_0.jpg",
+        "localPhoto": "public/photos/bryant-exterior.jpg",
+        "caption": "Exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034799_4.jpg",
+        "localPhoto": "public/photos/bryant-stair.jpg",
+        "caption": "Staircase and stained glass",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034799_10.jpg",
+        "localPhoto": "public/photos/bryant-mantel.jpg",
+        "caption": "Carved mantel and living room",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.redfin.com/MN/Minneapolis/2444-Bryant-Ave-S-55405/home/51508893"
+    ]
+  },
+  {
+    "id": "sewardqueenanne",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+    "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/901/6807901_1_0.jpg",
+    "localPhoto": "public/photos/sewardqueenanne-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Coldwell Banker Realty - Lakes, Jonna Kosalko and Barbara Davis / NorthstarMLS #6807901 via Redfin; photographer unspecified",
+    "sourceAddressText": "2428 E 22nd Street, Minneapolis, MN 55406",
+    "evidence": "Full Redfin exact-address page returned49photos and MLS listing. Image links clicked then downloaded exact URLs. SaleNov19 2025$585000. MLS living area3008; public record3416 differs. Selected three images visually inspected.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/901/6807901_1_0.jpg",
+        "localPhoto": "public/photos/sewardqueenanne-exterior.jpg",
+        "caption": "Exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/901/6807901_4_0.jpg",
+        "localPhoto": "public/photos/sewardqueenanne-mantel.jpg",
+        "caption": "Eastlake mantel and green tile",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/901/6807901_6_0.jpg",
+        "localPhoto": "public/photos/sewardqueenanne-stair.jpg",
+        "caption": "Stained glass and staircase",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.edinarealty.com/homes-for-sale/2428-e-22nd-street-minneapolis-mn-55406-6807901"
+    ]
+  },
+  {
+    "id": "sixthstillwater",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+    "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_8.jpg",
+    "localPhoto": "public/photos/sixthstillwater-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified.",
+    "sourceAddressText": "418 6th St S, Stillwater, MN 55082",
+    "evidence": "Exact Redfin and Realtor pages opened via web.open, matching full address, galleries and sale facts. Downloaded exact address-labelled Redfin gallery image links and inspected with view_image.",
+    "verifiedAt": "2026-10-30",
+    "gallery": [
+      {
+        "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_8.jpg",
+        "localPhoto": "public/photos/sixthstillwater-exterior.jpg",
+        "caption": "Exterior",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_1_8.jpg",
+        "localPhoto": "public/photos/sixthstillwater-stair.jpg",
+        "caption": "Carved staircase and stained glass",
+        "verified": true,
+        "visuallyInspected": true
+      },
+      {
+        "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_4_B.jpg",
+        "localPhoto": "public/photos/sixthstillwater-floors.jpg",
+        "caption": "Inlaid floors and woodwork",
+        "verified": true,
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.realtor.com/realestateandhomes-detail/418-6th-St-S_Stillwater_MN_55082_M81584-65052",
+      "https://www.coldwellbankerhomes.com/mn/stillwater/418-6th-street-s/pid_60598320/"
+    ]
   }
 ]

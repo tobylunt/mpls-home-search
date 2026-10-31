@@ -1,0 +1,637 @@
+{
+  "checkedOn": "2026-10-30",
+  "brief": "Grand historic houses under $1M, exceptional original details, verified exterior and two interiors, within 45min off-peak of McKnight. Sold references allowed; historical prices labeled.",
+  "preferenceChanges": [
+    "Hill Trail marked Top tier and placed immediately after Blaylock",
+    "Carver Beach and Sherwood Hills marked Liked"
+  ],
+  "selected": [
+    {
+      "id": "walnut",
+      "source": {
+        "id": "walnut",
+        "verified": true,
+        "address": "223 Walnut Street, Saint Paul, MN 55102",
+        "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+        "price": 700000,
+        "priceType": "Asking",
+        "status": "Pending",
+        "priceDate": "Checked 2026-10-30",
+        "beds": 4,
+        "baths": 3,
+        "sqft": 3166,
+        "year": 1851,
+        "acres": 0.408,
+        "latitude": 44.940103,
+        "longitude": -93.102197,
+        "neighborhood": "Irvine Park",
+        "neighborhoodEvidence": "Exact listing description names Irvine Park",
+        "pros": [
+          "Classical columned facade; extensive natural woodwork, original floors and ornate stone mantels",
+          "0.41-acre landscaped city lot",
+          "Listing describes architectural elements salvaged from Norman Kittson Mansion"
+        ],
+        "compromises": [
+          "Stained-glass windows explicitly EXCLUDED from sale",
+          "Window-unit cooling; no garage listed",
+          "Pending status in latest fetched MLS page; cached portals show active"
+        ],
+        "credit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified.",
+        "photos": [
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7101189_0.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/walnut-0.jpg",
+            "visuallyInspected": true,
+            "role": "exterior"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7101189_7.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/walnut-7.jpg",
+            "visuallyInspected": true,
+            "role": "architectural interior"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7101189_13.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/walnut-13.jpg",
+            "visuallyInspected": true,
+            "role": "architectural interior"
+          }
+        ],
+        "galleryEvidence": "Exact-address MLS gallery HTML saved locally; exterior and at least two substantial interiors visually inspected.",
+        "statusEvidence": "Fresh page embedded standardStatus Pending, price700000; cached Zillow/Redfin show older775000 active. Use fresh fetched status.",
+        "sourceURLs": [
+          "https://mcgregorrealty.com/PropertyDetails/NST7101189/223-walnut-street-55102/MG_NST",
+          "https://www.zillow.com/homedetails/223-Walnut-St-Saint-Paul-MN-55102/2050833_zpid/",
+          "https://www.stpaul.gov/sites/default/files/2022-08/1973%20Irvine%20Park.pdf"
+        ]
+      },
+      "commute": {
+        "arriveAtMcKnight": "2026-11-04 11:00 America/Chicago",
+        "departMcKnight": "2026-11-04 14:00 America/Chicago",
+        "inboundTypicalMinutes": "14–20",
+        "returnTypicalMinutes": "14–18",
+        "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=223+Walnut+Street%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+        "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=223+Walnut+Street%2C+Saint+Paul%2C+MN+55102&travelmode=driving",
+        "method": "Google Maps driving directions, date/time selected in live UI; exact-address place pins checked",
+        "checkedOn": "2026-10-30",
+        "limitation": "Typical estimates, not a guaranteed maximum."
+      }
+    },
+    {
+      "id": "lincoln",
+      "source": {
+        "id": "lincoln",
+        "verified": true,
+        "address": "567 Lincoln Avenue, Saint Paul, MN 55102",
+        "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+        "price": 974900,
+        "priceType": "Sale",
+        "status": "Sold",
+        "priceDate": "2026-08-21",
+        "beds": 4,
+        "baths": 5,
+        "sqft": 3525,
+        "year": 1910,
+        "acres": 0.193,
+        "latitude": 44.939302,
+        "longitude": -93.123846,
+        "neighborhood": "Summit Hill",
+        "neighborhoodEvidence": "Exact listing description names Summit Hill",
+        "pros": [
+          "Distinctive Arts-and-Crafts/Tudor exterior; beamed living room, unpainted paneling and leaded built-ins",
+          "Listing identifies Ladislav J. Pavlicek House",
+          "Lower-level workshop and root cellar; 2-car garage"
+        ],
+        "compromises": [
+          "Sold Aug 21 2026; not available",
+          "Near budget ceiling",
+          "Some interior woodwork painted; third-floor suite and stairs"
+        ],
+        "credit": "Rebecca S. Carlson / Re/Max Synergy / NorthstarMLS 7056791. Gallery served by Pederson Realty via Repliers; photographer not identified.",
+        "photos": [
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7056791_0.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/lincoln-0.jpg",
+            "visuallyInspected": true,
+            "role": "exterior"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7056791_7.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/lincoln-7.jpg",
+            "visuallyInspected": true,
+            "role": "architectural interior"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7056791_10.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/lincoln-10.jpg",
+            "visuallyInspected": true,
+            "role": "architectural interior"
+          }
+        ],
+        "galleryEvidence": "Exact-address MLS gallery HTML saved locally; exterior and at least two substantial interiors visually inspected.",
+        "statusEvidence": "Movoto dated history Aug21 2026 sold974900, corroborated by Homes.com listing agent record; Pederson sold974900 but its soldDate appears to reuse pending July3 date.",
+        "sourceURLs": [
+          "https://www.movoto.com/saint-paul-mn/567-lincoln-ave-saint-paul-mn-55102/pid_0egn4lykgh/",
+          "https://www.homes.com/real-estate-agents/rebecca-carlson/e07rseq/",
+          "https://www.compass.com/homedetails/567-Lincoln-Ave-St-Paul-MN-55102/DRIU9_pid/"
+        ]
+      },
+      "commute": {
+        "arriveAtMcKnight": "2026-11-04 11:00 America/Chicago",
+        "departMcKnight": "2026-11-04 14:00 America/Chicago",
+        "inboundTypicalMinutes": "14–18",
+        "returnTypicalMinutes": "14–18",
+        "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=567+Lincoln+Avenue%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+        "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=567+Lincoln+Avenue%2C+Saint+Paul%2C+MN+55102&travelmode=driving",
+        "method": "Google Maps driving directions, date/time selected in live UI; exact-address place pins checked",
+        "checkedOn": "2026-10-30",
+        "limitation": "Typical estimates, not a guaranteed maximum."
+      }
+    },
+    {
+      "id": "holly",
+      "source": {
+        "id": "holly",
+        "verified": true,
+        "address": "565 Holly Avenue, Saint Paul, MN 55102",
+        "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+        "price": 660000,
+        "priceDate": "2026-09-14",
+        "priceType": "Sale",
+        "status": "Sold (Compass public record)",
+        "recentAsk": 699000,
+        "recentAskDate": "2026-04-17",
+        "year": 1884,
+        "beds": 6,
+        "baths": 4,
+        "sqft": 4805,
+        "factCaveat": "MLS shows6BR4bath4805sqft; narrative says over4200sqft. Compass public records5BR3.5bath3784sqft. Use MLS with explicit discrepancy; finished-area/layout needs verification.",
+        "acres": 0.397,
+        "latitude": 44.94362899,
+        "longitude": -93.12401498,
+        "neighborhood": "Cathedral Hill",
+        "neighborhoodEvidence": "Coldwell Banker Crown exact listing photo caption names Cathedral Hill",
+        "sourceURLs": [
+          "https://www.compass.com/homedetails/565-Holly-Ave-St-Paul-MN-55102/E88RK_pid/",
+          "https://www.coldwellbankercrown.com/for-sale/565-holly-avenue-saint-paul-mn-55102/id_1700647",
+          "https://www.trulia.com/home/565-holly-ave-saint-paul-mn-55102-2028549"
+        ],
+        "pros": [
+          "Exceptional unpainted staircase and high paneling; leaded glass, Corinthian columns and tiled fireplaces visually verified",
+          "Five-stall carriage house with unfinished second floor per MLS",
+          "0.40acre double-sized city lot",
+          "Third-floor two-bedroom suite per MLS"
+        ],
+        "compromises": [
+          "Recent sold, not current; MLS canceled May26 but newer Compass public-record sale Sept14 supersedes",
+          "Explicit restoration/work-needed listing; no AC",
+          "2025 taxes20650 per MLS; Trulia2026tax21300",
+          "Sqft and bedroom counts differ across MLS and public records"
+        ],
+        "credit": "Shane M. Montoya / Coldwell Banker Realty / NorthstarMLS6761721. Gallery served by Pederson Realty via Repliers; photographer unidentified.",
+        "photos": [
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-6761721_0.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/holly-0.jpg",
+            "role": "exterior",
+            "visuallyInspected": true
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-6761721_4.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/holly-4.jpg",
+            "role": "architectural interior",
+            "visuallyInspected": true
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-6761721_7.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/holly-7.jpg",
+            "role": "architectural interior",
+            "visuallyInspected": true
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-6761721_10.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/holly-10.jpg",
+            "role": "architectural interior",
+            "visuallyInspected": true
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-6761721_13.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/holly-13.jpg",
+            "role": "architectural interior",
+            "visuallyInspected": true
+          }
+        ],
+        "recommendation": "Architecturally stronger than Fairmount for original woodwork; substantial restoration compromise. Parent may select instead of Fairmount.",
+        "freshSaleEvidence": "/private/tmp/grand-dames-stpaul/holly-sale-evidence.json"
+      },
+      "commute": {
+        "arriveAtMcKnight": "2026-11-04 11:00 America/Chicago",
+        "departMcKnight": "2026-11-04 14:00 America/Chicago",
+        "inboundTypicalMinutes": "12–16",
+        "returnTypicalMinutes": "12–16",
+        "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=565+Holly+Avenue%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+        "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=565+Holly+Avenue%2C+Saint+Paul%2C+MN+55102&travelmode=driving",
+        "method": "Google Maps driving directions, date/time selected in live UI; exact-address place pins checked",
+        "checkedOn": "2026-10-30",
+        "limitation": "Typical estimates, not a guaranteed maximum."
+      }
+    },
+    {
+      "id": "bryant2444",
+      "source": {
+        "id": "bryant2444",
+        "verified": true,
+        "address": "2444 Bryant Avenue S, Minneapolis, MN 55405",
+        "neighborhood": "Lowry Hill East",
+        "neighborhoodEvidence": "Exact listing description names Lowry Hill East; primary listing broker Coldwell Banker Realty - Lakes.",
+        "url": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+        "sources": [
+          "https://www.redfin.com/MN/Minneapolis/2444-Bryant-Ave-S-55405/home/51508893"
+        ],
+        "price": 750000,
+        "priceType": "sale",
+        "saleDate": "2026-07-15",
+        "status": "Sold",
+        "year": 1898,
+        "sqft": 3586,
+        "beds": 4,
+        "baths": 3,
+        "acres": 0.13,
+        "lat": 44.957596,
+        "lng": -93.290932,
+        "architecture": "Three-story Victorian attributed by listing to master builder Henry Ingham. Grand carved stair and large stained-glass landing, extensive unpainted paneling and door trim, carved mantel, dining built-ins.",
+        "photos": [
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7034799_0.jpg",
+            "localPath": "/private/tmp/grand-dames-mpls/bryant-0.jpg",
+            "visuallyInspected": true,
+            "kind": "exterior"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7034799_4.jpg",
+            "localPath": "/private/tmp/grand-dames-mpls/bryant-4.jpg",
+            "visuallyInspected": true,
+            "kind": "staircase and stained glass"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7034799_10.jpg",
+            "localPath": "/private/tmp/grand-dames-mpls/bryant-10.jpg",
+            "visuallyInspected": true,
+            "kind": "carved fireplace and living room"
+          }
+        ],
+        "photoCredit": "Coldwell Banker Realty - Lakes, Susan Westerman and Kylie Urriche / NorthstarMLS #7034799 via Pederson Realty; photographer unspecified",
+        "evidence": "Exact-address Redfin full page and Pederson raw HTTP200. Brokerage HTML gives Sold $750000,3586sf,1898 and matching MLS gallery; Redfin saleJuly15 2026. All three photos downloaded and visually inspected.",
+        "tradeoffs": [
+          "City lot with close neighbors; no acreage.",
+          "Third-floor kitchen and bath create guest/flexible living area; rental legality not verified.",
+          "Sold architectural reference, not current availability.",
+          "Commute unverified by researcher."
+        ]
+      },
+      "commute": {
+        "arriveAtMcKnight": "2026-11-04 11:00 America/Chicago",
+        "departMcKnight": "2026-11-04 14:00 America/Chicago",
+        "inboundTypicalMinutes": "7–12",
+        "returnTypicalMinutes": "8–14",
+        "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=2444+Bryant+Avenue+S%2C+Minneapolis%2C+MN+55405&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+        "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=2444+Bryant+Avenue+S%2C+Minneapolis%2C+MN+55405&travelmode=driving",
+        "method": "Google Maps driving directions, date/time selected in live UI; exact-address place pins checked",
+        "checkedOn": "2026-10-30",
+        "limitation": "Typical estimates, not a guaranteed maximum."
+      }
+    },
+    {
+      "id": "sewardqueenanne",
+      "source": {
+        "id": "sewardqueenanne",
+        "verified": true,
+        "address": "2428 E 22nd Street, Minneapolis, MN 55406",
+        "neighborhood": "Seward",
+        "neighborhoodEvidence": "Exact MLS description and Neighborhood Number field both explicitly identify Seward; source Coldwell Banker Realty - Lakes.",
+        "url": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+        "sources": [
+          "https://www.edinarealty.com/homes-for-sale/2428-e-22nd-street-minneapolis-mn-55406-6807901"
+        ],
+        "price": 585000,
+        "priceType": "sale",
+        "saleDate": "2025-11-19",
+        "status": "Sold",
+        "year": 1900,
+        "sqft": 3008,
+        "beds": 4,
+        "baths": 2,
+        "acres": 0.11,
+        "lat": 44.9611946,
+        "lng": -93.2364394,
+        "architecture": "Brick Queen Anne with intact Eastlake carved mantel and embossed green tile, inlaid floors, stained-glass transom, two-wood pocket doors, and ornamental staircase.",
+        "photos": [
+          {
+            "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/901/6807901_1_0.jpg",
+            "localPath": "/private/tmp/grand-dames-mpls/seward-1.jpg",
+            "visuallyInspected": true,
+            "kind": "exterior"
+          },
+          {
+            "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/901/6807901_4_0.jpg",
+            "localPath": "/private/tmp/grand-dames-mpls/seward-4.jpg",
+            "visuallyInspected": true,
+            "kind": "Eastlake fireplace and living room"
+          },
+          {
+            "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/901/6807901_6_0.jpg",
+            "localPath": "/private/tmp/grand-dames-mpls/seward-6.jpg",
+            "visuallyInspected": true,
+            "kind": "stained glass and staircase view"
+          }
+        ],
+        "photoCredit": "Coldwell Banker Realty - Lakes, Jonna Kosalko and Barbara Davis / NorthstarMLS #6807901 via Redfin; photographer unspecified",
+        "evidence": "Full Redfin exact-address page returned49photos and MLS listing. Image links clicked then downloaded exact URLs. SaleNov19 2025$585000. MLS living area3008; public record3416 differs. Selected three images visually inspected.",
+        "tradeoffs": [
+          "Originally duplex, used as single family for decades; separate mechanicals remain.",
+          "Small0.11acre corner lot.",
+          "Decorative fireplace; do not imply operational wood burning.",
+          "Sold reference, not current availability.",
+          "Use3008MLSsf rather than3416public record.",
+          "Commute unverified by researcher."
+        ]
+      },
+      "commute": {
+        "arriveAtMcKnight": "2026-11-04 11:00 America/Chicago",
+        "departMcKnight": "2026-11-04 14:00 America/Chicago",
+        "inboundTypicalMinutes": "6–9",
+        "returnTypicalMinutes": "5–8",
+        "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=2428+E+22nd+Street%2C+Minneapolis%2C+MN+55406&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+        "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=2428+E+22nd+Street%2C+Minneapolis%2C+MN+55406&travelmode=driving",
+        "method": "Google Maps driving directions, date/time selected in live UI; exact-address place pins checked",
+        "checkedOn": "2026-10-30",
+        "limitation": "Typical estimates, not a guaranteed maximum."
+      }
+    },
+    {
+      "id": "sixthstillwater",
+      "source": {
+        "id": "sixth-stillwater",
+        "verified": true,
+        "recommended": true,
+        "address": "418 6th St S",
+        "city": "Stillwater",
+        "sourceAddress": "418 6th St S, Stillwater, MN 55082",
+        "url": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+        "sources": [
+          "https://www.realtor.com/realestateandhomes-detail/418-6th-St-S_Stillwater_MN_55082_M81584-65052",
+          "https://www.coldwellbankerhomes.com/mn/stillwater/418-6th-street-s/pid_60598320/"
+        ],
+        "price": 962000,
+        "priceType": "Historical sale",
+        "status": "Sold reference",
+        "soldDate": "2024-12-17",
+        "year": 1896,
+        "sqft": 4601,
+        "beds": 6,
+        "baths": 4.5,
+        "acres": 0.41,
+        "style": "Queen Anne",
+        "description": "Carved staircase beneath three arched stained-glass windows, patterned oak-and-walnut floors and unpainted woodwork.",
+        "neighborhoodContext": "Stillwater South Hill residential street; downtown access. Quietness and McKnight drive time require separate verification.",
+        "photoUrl": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_8.jpg",
+        "localPhoto": "/private/tmp/grand-dames-outer/sixth-exterior.jpg",
+        "photos": [
+          {
+            "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_8.jpg",
+            "local": "/private/tmp/grand-dames-outer/sixth-exterior.jpg",
+            "purpose": "Exterior",
+            "visuallyInspected": true
+          },
+          {
+            "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_1_8.jpg",
+            "local": "/private/tmp/grand-dames-outer/sixth-8.jpg",
+            "purpose": "Grand staircase and stained glass",
+            "visuallyInspected": true
+          },
+          {
+            "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_4_B.jpg",
+            "local": "/private/tmp/grand-dames-outer/sixth-11.jpg",
+            "purpose": "Inlaid floors and living rooms",
+            "visuallyInspected": true
+          },
+          {
+            "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_9_C.jpg",
+            "local": "/private/tmp/grand-dames-outer/sixth-16.jpg",
+            "purpose": "Woodwork, porch doors, staircase",
+            "visuallyInspected": true
+          },
+          {
+            "url": "https://ssl.cdn-redfin.com/photo/114/bigphoto/281/6500281_15_A.jpg",
+            "local": "/private/tmp/grand-dames-outer/sixth-21.jpg",
+            "purpose": "Built-in cabinetry",
+            "visuallyInspected": true
+          }
+        ],
+        "photoCredit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified.",
+        "openMethod": "Exact Redfin and Realtor pages opened via web.open, matching full address, galleries and sale facts. Downloaded exact address-labelled Redfin gallery image links and inspected with view_image.",
+        "visuallyInspected": true,
+        "liveBrowserVerified": false,
+        "tradeoffs": [
+          "Sold December 2024; no current availability or current sub-$1M asking price established.",
+          "Historic property of 4601 sqft entails substantial maintenance.",
+          "Shared driveway noted in listing.",
+          "Large trees obscure part of front facade in exterior image."
+        ],
+        "unknowns": [
+          "Current condition",
+          "Current owner selling intention",
+          "Present asking price",
+          "Quietness/traffic",
+          "Commute pending parent verification"
+        ],
+        "checkedAt": "2026-10-30"
+      },
+      "commute": {
+        "arriveAtMcKnight": "2026-11-04 11:00 America/Chicago",
+        "departMcKnight": "2026-11-04 14:00 America/Chicago",
+        "inboundTypicalMinutes": "28–40",
+        "returnTypicalMinutes": "28–45",
+        "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=418+6th+St+S%2C+Stillwater%2C+MN+55082&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+        "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=418+6th+St+S%2C+Stillwater%2C+MN+55082&travelmode=driving",
+        "method": "Google Maps driving directions, date/time selected in live UI; exact-address place pins checked",
+        "checkedOn": "2026-10-30",
+        "limitation": "Route-specific typical estimates; Stillwater I-94 return alternative 35–50min."
+      }
+    }
+  ],
+  "hollySaleEvidence": {
+    "url": "https://www.compass.com/homedetails/565-Holly-Ave-St-Paul-MN-55102/E88RK_pid/",
+    "retrieved": "2026-10-30",
+    "method": "Direct HTTP GET via urllib; successful200",
+    "metaDescription": "565 Holly Ave, St. Paul, MN55102 is not currently listed. This is a5-bed,3.5-bath,3,784sqft property and last sold on2026-09-14 for$660,000.",
+    "historyExcerpt": "Sep 14, 2026   Sold (Public Record)  Public Record  # 161142967     $660,000    + 1.1 % / yr     May 26, 2026   Off Market  NorthStar  # 6761721     —   —    Apr 17, 2026   Price Change  NorthStar<span class=\"",
+    "cacheDiscrepancy": "web.open cached2months ago has2017 sale; fresh web.search and directHTTP agree2026 sale."
+  },
+  "neighborhoodSources": [
+    "https://www.stpaul.gov/sites/default/files/2022-08/1973%20Irvine%20Park.pdf",
+    "https://www.summithillassociation.org/history",
+    "https://www.stpaul.gov/facilities/irvine-park",
+    "https://www.minneapolismn.gov/resident-services/property-housing/preservation/landmarks-districts/historic-districts/lowry-hill/"
+  ],
+  "held": [
+    {
+      "address": "667 5th Street E, Saint Paul MN55106",
+      "status": "Current ask295000, MLS7148244",
+      "reason": "Lovely restored1874 Italianate, but only2BR; weaker family fit and less grand interior than selected homes. Exterior and2interiors inspected, assets saved as mahle-*."
+    },
+    {
+      "address": "501 Portland Avenue",
+      "reason": "Current ask1.095M exceeds budget"
+    },
+    {
+      "address": "1601 Park Avenue, Minneapolis",
+      "reason": "Legg House recent250kNov2025lender-owned/as-is sale requires work; no verifiable downloaded exterior+interior gallery obtained in bounded pass.",
+      "source": "https://www.compass.com/homedetails/1601-Park-Ave-Minneapolis-MN-55404/DPLMF_pid/"
+    },
+    {
+      "address": "1807 Dupont Avenue S",
+      "reason": "Latest2026sale1.325M exceeds budget."
+    },
+    {
+      "address": "1100 Douglas Avenue",
+      "reason": "Converted condominium rather than requested whole grand-dame home."
+    },
+    {
+      "id": "vermillion-hastings",
+      "verified": true,
+      "recommended": false,
+      "address": "718 Vermillion St",
+      "city": "Hastings",
+      "url": "https://reidellestey.com/properties/718-vermillion-street-hastings-mn-us-55033-nst7067178",
+      "price": 599900,
+      "status": "Active as published",
+      "sourceLastUpdated": "2026-08-28",
+      "year": 1868,
+      "sqft": 3229,
+      "acres": 0.54,
+      "reason": "Held: Vermillion Street/US61 frontage conflicts with quiet-street must-have. Do not add without explicit constraint change.",
+      "evidence": "Exact Realtor and listing broker pages open with 123-photo gallery and $599900 active listing. Inspected exterior and 3 interiors.",
+      "photos": [
+        {
+          "url": "https://dlajgvw9htjpb.cloudfront.net/cms/5e92269c-40d5-4f32-a718-b7522aa7c6ed/7067178/-5225238541508497196.jpg",
+          "local": "/private/tmp/grand-dames-outer/vermillion-1.jpg",
+          "visuallyInspected": true
+        },
+        {
+          "url": "https://dlajgvw9htjpb.cloudfront.net/cms/5e92269c-40d5-4f32-a718-b7522aa7c6ed/7067178/7961266989161686958.jpg",
+          "local": "/private/tmp/grand-dames-outer/vermillion-14.jpg",
+          "visuallyInspected": true
+        },
+        {
+          "url": "https://dlajgvw9htjpb.cloudfront.net/cms/5e92269c-40d5-4f32-a718-b7522aa7c6ed/7067178/3974905210372334816.jpg",
+          "local": "/private/tmp/grand-dames-outer/vermillion-19.jpg",
+          "visuallyInspected": true
+        },
+        {
+          "url": "https://dlajgvw9htjpb.cloudfront.net/cms/5e92269c-40d5-4f32-a718-b7522aa7c6ed/7067178/-6388882463735962071.jpg",
+          "local": "/private/tmp/grand-dames-outer/vermillion-24.jpg",
+          "visuallyInspected": true
+        }
+      ],
+      "photoCredit": "Reidell-Estey & Associates / RE/MAX Results / NorthstarMLS7067178; individual photographer not identified.",
+      "tradeoffs": [
+        "Arterial frontage",
+        "Some painted trim and strongly period-themed decor",
+        "Route not checked"
+      ],
+      "checkedAt": "2026-10-30"
+    },
+    {
+      "id": "third-stillwater",
+      "verified": false,
+      "recommended": false,
+      "address": "1115 3rd St S",
+      "city": "Stillwater",
+      "url": "https://www.realtor.com/realestateandhomes-detail/1115-3rd-St-S_Stillwater_MN_55082_M77792-84087",
+      "price": 925000,
+      "status": "Sold reference",
+      "soldDate": "2025-04-23",
+      "year": 1875,
+      "acres": 0.31,
+      "reason": "Exclude: unable to verify required interior photo set. Redfin/Zillow opened but no accessible interior image links; direct Zillow HTTP403 respected. Realtor shows gallery count but not image-by-image links.",
+      "unknowns": [
+        "4496 sqft Realtor versus4696 Zillow",
+        "Fourth bedroom nonconforming per listing",
+        "Quietness and commute"
+      ]
+    },
+    {
+      "id": "pine-stillwater",
+      "verified": false,
+      "recommended": false,
+      "address": "620 Pine St W",
+      "city": "Stillwater",
+      "price": 1010000,
+      "status": "Sold",
+      "soldDate": "2026-06-12",
+      "reason": "Over $1M: stale snippets show $950k list price, but actual sale $1.01M.",
+      "url": "https://www.realtor.com/realestateandhomes-detail/620-Pine-St-W_Stillwater_MN_55082_M75962-82416"
+    },
+    {
+      "address": "832 Fairmount Avenue, Saint Paul",
+      "reason": "Verified, but held to keep this selection focused; Holly offers stronger original woodwork. Research retained below.",
+      "source": {
+        "id": "fairmount",
+        "verified": true,
+        "address": "832 Fairmount Avenue, Saint Paul, MN 55105",
+        "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
+        "price": 739345,
+        "priceType": "Sale",
+        "status": "Sold",
+        "priceDate": "2026-10-16",
+        "beds": 6,
+        "baths": 2,
+        "sqft": 2896,
+        "year": 1894,
+        "acres": 0.138,
+        "latitude": 44.936454,
+        "longitude": -93.135196,
+        "neighborhood": "Summit Hill",
+        "neighborhoodEvidence": "Exact listing description names Summit Hill",
+        "pros": [
+          "Original staircase with large stained-glass landing; 10–11-foot ceilings",
+          "Natural woodwork, decorative fireplace and original butler pantry",
+          "Six bedrooms; mature urban streetscape"
+        ],
+        "compromises": [
+          "Sold Oct 16 2026; not available",
+          "Only two bathrooms for six bedrooms",
+          "Compact urban lot; adjacent houses"
+        ],
+        "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified.",
+        "photos": [
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7136376_12522930254356373821.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/fairmount-0.jpg",
+            "visuallyInspected": true,
+            "role": "exterior"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7136376_12529932249459834296.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/fairmount-4.jpg",
+            "visuallyInspected": true,
+            "role": "architectural interior"
+          },
+          {
+            "url": "https://cdn.repliers.io/northstar/IMG-7136376_12527926732964747655.jpg",
+            "localPath": "/private/tmp/grand-dames-stpaul/fairmount-13.jpg",
+            "visuallyInspected": true,
+            "role": "architectural interior"
+          }
+        ],
+        "galleryEvidence": "Exact-address MLS gallery HTML saved locally; exterior and at least two substantial interiors visually inspected.",
+        "statusEvidence": "Trulia history and Grumdahl closed date agree Oct16 2026 sold739345. Pederson soldPrice agrees but soldDate appears to reuse pending Sept30 date.",
+        "sourceURLs": [
+          "https://www.trulia.com/home/832-fairmount-ave-saint-paul-mn-55105-248747149",
+          "https://grumdahlgroup.com/home/832-fairmount-ave-saint-paul-mn-55105-6ea015a6"
+        ]
+      }
+    }
+  ]
+}

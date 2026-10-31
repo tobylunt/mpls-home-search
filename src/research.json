@@ -430,5 +430,311 @@
       "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
       "checkedOn": "2026-10-30"
     }
+  },
+  "walnut": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Irvine Park. Classical columns, natural woodwork, original floors and carved stone mantels on 0.41 acres. The listing traces some architectural salvage to the Norman Kittson mansion.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Listing and inspected interior gallery show substantial surviving woodwork, period craftsmanship and historic details.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 14–20 min to McKnight; 14–18 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=223+Walnut+Street%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=223+Walnut+Street%2C+Saint+Paul%2C+MN+55102&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Dedicated workshop space was not documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "lincoln": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Summit Hill. The 1910 Ladislav J. Pavlicek House: timber ceilings, rich paneling, leaded built-ins and an original hearth. Lower-level workshop and root cellar.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Listing and inspected interior gallery show substantial surviving woodwork, period craftsmanship and historic details.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 14–18 min to McKnight; 14–18 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=567+Lincoln+Avenue%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=567+Lincoln+Avenue%2C+Saint+Paul%2C+MN+55102&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "yes",
+      "detail": "MLS description explicitly includes a lower-level workshop and root cellar. Usable area, power, ventilation and condition remain to be checked.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "holly": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Cathedral Hill. An 1884 house with a paneled staircase, leaded glass, carved Corinthian columns and tiled fireplaces. Five-stall carriage house on a 0.40-acre lot.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Listing and inspected interior gallery show substantial surviving woodwork, period craftsmanship and historic details.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 12–16 min to McKnight; 12–16 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=565+Holly+Avenue%2C+Saint+Paul%2C+MN+55102&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=565+Holly+Avenue%2C+Saint+Paul%2C+MN+55102&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Five-stall carriage house with unfinished second floor. A fitted workshop, electrical capacity and heating are unverified; no workshop points awarded.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "bryant2444": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Lowry Hill East. An 1898 Victorian attributed to master builder Henry Ingham, with a carved staircase, large stained-glass landing, unpainted paneling and dining built-ins.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Listing and inspected interior gallery show substantial surviving woodwork, period craftsmanship and historic details.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 7–12 min to McKnight; 8–14 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=2444+Bryant+Avenue+S%2C+Minneapolis%2C+MN+55405&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=2444+Bryant+Avenue+S%2C+Minneapolis%2C+MN+55405&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Dedicated workshop space was not documented in the reviewed listing.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "sewardqueenanne": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Seward. Brick Queen Anne with an Eastlake mantel, embossed green fireplace tile, inlaid floors, stained glass and pocket doors finished in different woods on each side.",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Listing and inspected interior gallery show substantial surviving woodwork, period craftsmanship and historic details.",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 6–9 min to McKnight; 5–8 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=2428+E+22nd+Street%2C+Minneapolis%2C+MN+55406&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=2428+E+22nd+Street%2C+Minneapolis%2C+MN+55406&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Dedicated workshop space was not documented in the reviewed listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+      "checkedOn": "2026-10-30"
+    }
+  },
+  "sixthstillwater": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Stillwater’s South Hill. An 1896 Queen Anne with a carved staircase beneath three arched stained-glass windows, patterned oak-and-walnut floors and extensive natural woodwork.",
+      "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+      "checkedOn": "2026-10-30"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Listing and inspected interior gallery show substantial surviving woodwork, period craftsmanship and historic details.",
+      "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+      "checkedOn": "2026-10-30"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise and nearby activity have not been verified on site.",
+      "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+      "checkedOn": "2026-10-30"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 28–40 min to McKnight; 28–45 min home. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 30. Highway 36 fits; the I-94 return alternative is 35–50 min.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=418+6th+St+S%2C+Stillwater%2C+MN+55082&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-30",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=418+6th+St+S%2C+Stillwater%2C+MN+55082&travelmode=driving"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system documented in the reviewed listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+      "checkedOn": "2026-10-30"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No property-specific lake, river or creek access documented in the reviewed listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+      "checkedOn": "2026-10-30"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "No established productive garden, orchard or greenhouse verified in this pass.",
+      "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+      "checkedOn": "2026-10-30"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Dedicated workshop space was not documented in the reviewed listing.",
+      "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+      "checkedOn": "2026-10-30"
+    }
   }
 }

@@ -23,6 +23,62 @@
     }
   },
   {
+    "id": "hilltrail",
+    "address": "8000 Hill Trail N",
+    "city": "Lake Elmo",
+    "price": 885000,
+    "status": "Sold reference",
+    "style": "Mid-century",
+    "reaction": "Top tier",
+    "year": 1974,
+    "sqft": 3222,
+    "lat": 45.0244014,
+    "lng": -92.944577,
+    "description": "Wood beams, stone walls and treetop windows on 1.10 wooded acres above Lake DeMontreville. Private dock, greenhouse and a large outbuilding with workshop potential.",
+    "context": "“Incredible.” 5 bedrooms, 3 bathrooms. Sold August 2026 for $885,000. Smaller grounds than Blaylock, with direct lake access. Check the steep walk to the water and outbuilding power, heat and ventilation. Google Maps: 20–28 minutes to McKnight; 22–30 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+    "photo": {
+      "src": "/photos/hilltrail-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+      "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+    },
+    "gallery": [
+      {
+        "src": "/photos/hilltrail-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/hilltrail-dining.jpg",
+        "caption": "Wood and stone interior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/hilltrail-living.jpg",
+        "caption": "Living room",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/hilltrail-grounds.jpg",
+        "caption": "Lake and wooded grounds",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/hilltrail-dock.jpg",
+        "caption": "Dock",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
+        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
+      }
+    ],
+    "verifiedOn": "2026-10-30",
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026"
+  },
+  {
     "id": "keston",
     "address": "1393 Keston Street",
     "city": "Saint Paul",
@@ -149,7 +205,7 @@
     "price": 765000,
     "status": "Contingent",
     "style": "Contemporary",
-    "reaction": "New find",
+    "reaction": "Liked",
     "year": 1979,
     "sqft": 3358,
     "lat": 44.875845,
@@ -187,69 +243,13 @@
     "locationSource": "Google Maps exact-address place pin · Oct 30, 2026"
   },
   {
-    "id": "hilltrail",
-    "address": "8000 Hill Trail N",
-    "city": "Lake Elmo",
-    "price": 885000,
-    "status": "Sold reference",
-    "style": "Mid-century",
-    "reaction": "New find",
-    "year": 1974,
-    "sqft": 3222,
-    "lat": 45.0244014,
-    "lng": -92.944577,
-    "description": "Wood beams, stone walls and treetop windows on 1.10 wooded acres above Lake DeMontreville. Private dock, greenhouse and a large outbuilding with workshop potential.",
-    "context": "5 bedrooms, 3 bathrooms. Sold August 2026 for $885,000. Smaller grounds than Blaylock, with direct lake access. Check the steep walk to the water and outbuilding power, heat and ventilation. Google Maps: 20–28 minutes to McKnight; 22–30 minutes home.",
-    "url": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
-    "photo": {
-      "src": "/photos/hilltrail-exterior.jpg",
-      "caption": "Exterior",
-      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
-      "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
-    },
-    "gallery": [
-      {
-        "src": "/photos/hilltrail-exterior.jpg",
-        "caption": "Exterior",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
-        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
-      },
-      {
-        "src": "/photos/hilltrail-dining.jpg",
-        "caption": "Wood and stone interior",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
-        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
-      },
-      {
-        "src": "/photos/hilltrail-living.jpg",
-        "caption": "Living room",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
-        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
-      },
-      {
-        "src": "/photos/hilltrail-grounds.jpg",
-        "caption": "Lake and wooded grounds",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
-        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
-      },
-      {
-        "src": "/photos/hilltrail-dock.jpg",
-        "caption": "Dock",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/lake-elmo/8000-hill-trail-n/mls-7095467",
-        "credit": "Keller Williams Premier Realty / NorthstarMLS via Pederson Realty"
-      }
-    ],
-    "verifiedOn": "2026-10-30",
-    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026"
-  },
-  {
     "id": "sherwoodhills",
     "address": "2404 Sherwood Hills Road",
     "city": "Minnetonka",
     "price": 983500,
     "status": "Sold reference",
     "style": "Contemporary",
-    "reaction": "New find",
+    "reaction": "Liked",
     "year": 1977,
     "sqft": null,
     "lat": 44.9582215,
@@ -285,6 +285,270 @@
     ],
     "verifiedOn": "2026-10-30",
     "locationSource": "Google Maps exact-address place pin · Oct 30, 2026"
+  },
+  {
+    "id": "walnut",
+    "address": "223 Walnut Street",
+    "city": "Saint Paul",
+    "price": 700000,
+    "status": "Pending",
+    "style": "Greek Revival",
+    "reaction": "New find",
+    "description": "Irvine Park. Classical columns, natural woodwork, original floors and carved stone mantels on 0.41 acres. The listing traces some architectural salvage to the Norman Kittson mansion.",
+    "context": "Pending at $700,000. Stained-glass windows are explicitly excluded from the sale. 4 bedrooms, 3 bathrooms; window-unit cooling and no garage listed. Google Maps: 14–20 minutes to McKnight; 14–18 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+    "year": 1851,
+    "sqft": 3166,
+    "lat": 44.9401388,
+    "lng": -93.1021494,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/walnut-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+      "credit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified."
+    },
+    "gallery": [
+      {
+        "src": "/photos/walnut-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+        "credit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      },
+      {
+        "src": "/photos/walnut-foyer.jpg",
+        "caption": "Woodwork and entry",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+        "credit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      },
+      {
+        "src": "/photos/walnut-mantel.jpg",
+        "caption": "Carved stone mantel",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/223-walnut-street/mls-7101189",
+        "credit": "Constance E Vork / Keller Williams Realty Integrity Lakes / NorthstarMLS 7101189. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      }
+    ]
+  },
+  {
+    "id": "lincoln",
+    "address": "567 Lincoln Avenue",
+    "city": "Saint Paul",
+    "price": 974900,
+    "status": "Sold reference",
+    "style": "Arts & Crafts",
+    "reaction": "New find",
+    "description": "Summit Hill. The 1910 Ladislav J. Pavlicek House: timber ceilings, rich paneling, leaded built-ins and an original hearth. Lower-level workshop and root cellar.",
+    "context": "Sold August 2026 for $974,900. 4 bedrooms, 5 bathrooms and a two-car garage. Some painted woodwork; third-floor suite reached by stairs. Google Maps: 14–18 minutes to McKnight; 14–18 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+    "year": 1910,
+    "sqft": 3525,
+    "lat": 44.9392985,
+    "lng": -93.1239112,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/lincoln-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+      "credit": "Rebecca S. Carlson / Re/Max Synergy / NorthstarMLS 7056791. Gallery served by Pederson Realty via Repliers; photographer not identified."
+    },
+    "gallery": [
+      {
+        "src": "/photos/lincoln-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+        "credit": "Rebecca S. Carlson / Re/Max Synergy / NorthstarMLS 7056791. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      },
+      {
+        "src": "/photos/lincoln-living.jpg",
+        "caption": "Paneled living room",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+        "credit": "Rebecca S. Carlson / Re/Max Synergy / NorthstarMLS 7056791. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      },
+      {
+        "src": "/photos/lincoln-interior.jpg",
+        "caption": "Original woodwork",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/567-lincoln-avenue/mls-7056791",
+        "credit": "Rebecca S. Carlson / Re/Max Synergy / NorthstarMLS 7056791. Gallery served by Pederson Realty via Repliers; photographer not identified."
+      }
+    ]
+  },
+  {
+    "id": "holly",
+    "address": "565 Holly Avenue",
+    "city": "Saint Paul",
+    "price": 660000,
+    "status": "Sold reference",
+    "style": "Victorian",
+    "reaction": "New find",
+    "description": "Cathedral Hill. An 1884 house with a paneled staircase, leaded glass, carved Corinthian columns and tiled fireplaces. Five-stall carriage house on a 0.40-acre lot.",
+    "context": "Sold September 2026 for $660,000. Restoration needed; no AC. 2025 property taxes: $20,650. MLS and public records disagree on finished area and bedroom count. Carriage-house workshop potential is unverified. Google Maps: 12–16 minutes to McKnight; 12–16 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+    "year": 1884,
+    "sqft": null,
+    "lat": 44.943625,
+    "lng": -93.1240229,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/holly-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+      "credit": "Shane M. Montoya / Coldwell Banker Realty / NorthstarMLS6761721. Gallery served by Pederson Realty via Repliers; photographer unidentified."
+    },
+    "gallery": [
+      {
+        "src": "/photos/holly-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+        "credit": "Shane M. Montoya / Coldwell Banker Realty / NorthstarMLS6761721. Gallery served by Pederson Realty via Repliers; photographer unidentified."
+      },
+      {
+        "src": "/photos/holly-stair.jpg",
+        "caption": "Paneled staircase",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+        "credit": "Shane M. Montoya / Coldwell Banker Realty / NorthstarMLS6761721. Gallery served by Pederson Realty via Repliers; photographer unidentified."
+      },
+      {
+        "src": "/photos/holly-columns.jpg",
+        "caption": "Carved columns and fireplace",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/565-holly-avenue/mls-6761721",
+        "credit": "Shane M. Montoya / Coldwell Banker Realty / NorthstarMLS6761721. Gallery served by Pederson Realty via Repliers; photographer unidentified."
+      }
+    ]
+  },
+  {
+    "id": "bryant2444",
+    "address": "2444 Bryant Avenue S",
+    "city": "Minneapolis",
+    "price": 750000,
+    "status": "Sold reference",
+    "style": "Victorian",
+    "reaction": "New find",
+    "description": "Lowry Hill East. An 1898 Victorian attributed to master builder Henry Ingham, with a carved staircase, large stained-glass landing, unpainted paneling and dining built-ins.",
+    "context": "Sold July 2026 for $750,000. 4 bedrooms, 3 bathrooms. Third-floor kitchen and bath offer flexible guest space. Compact urban lot with close neighbors. Google Maps: 7–12 minutes to McKnight; 8–14 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+    "year": 1898,
+    "sqft": 3586,
+    "lat": 44.9576347,
+    "lng": -93.2909064,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/bryant-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+      "credit": "Coldwell Banker Realty - Lakes, Susan Westerman and Kylie Urriche / NorthstarMLS #7034799 via Pederson Realty; photographer unspecified"
+    },
+    "gallery": [
+      {
+        "src": "/photos/bryant-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+        "credit": "Coldwell Banker Realty - Lakes, Susan Westerman and Kylie Urriche / NorthstarMLS #7034799 via Pederson Realty; photographer unspecified"
+      },
+      {
+        "src": "/photos/bryant-stair.jpg",
+        "caption": "Staircase and stained glass",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+        "credit": "Coldwell Banker Realty - Lakes, Susan Westerman and Kylie Urriche / NorthstarMLS #7034799 via Pederson Realty; photographer unspecified"
+      },
+      {
+        "src": "/photos/bryant-mantel.jpg",
+        "caption": "Carved mantel and living room",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minneapolis/2444-bryant-avenue-s/mls-7034799",
+        "credit": "Coldwell Banker Realty - Lakes, Susan Westerman and Kylie Urriche / NorthstarMLS #7034799 via Pederson Realty; photographer unspecified"
+      }
+    ]
+  },
+  {
+    "id": "sewardqueenanne",
+    "address": "2428 E 22nd Street",
+    "city": "Minneapolis",
+    "price": 585000,
+    "status": "Sold reference",
+    "style": "Queen Anne",
+    "reaction": "New find",
+    "description": "Seward. Brick Queen Anne with an Eastlake mantel, embossed green fireplace tile, inlaid floors, stained glass and pocket doors finished in different woods on each side.",
+    "context": "Sold November 2025 for $585,000. 4 bedrooms, 2 bathrooms. Originally a duplex, used as one home for decades; separate mechanicals remain. Decorative fireplace and a small corner lot. Google Maps: 6–9 minutes to McKnight; 5–8 minutes home.",
+    "url": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+    "year": 1900,
+    "sqft": 3008,
+    "lat": 44.9611946,
+    "lng": -93.2364394,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/sewardqueenanne-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+      "credit": "Coldwell Banker Realty - Lakes, Jonna Kosalko and Barbara Davis / NorthstarMLS #6807901 via Redfin; photographer unspecified"
+    },
+    "gallery": [
+      {
+        "src": "/photos/sewardqueenanne-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+        "credit": "Coldwell Banker Realty - Lakes, Jonna Kosalko and Barbara Davis / NorthstarMLS #6807901 via Redfin; photographer unspecified"
+      },
+      {
+        "src": "/photos/sewardqueenanne-mantel.jpg",
+        "caption": "Eastlake mantel and green tile",
+        "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+        "credit": "Coldwell Banker Realty - Lakes, Jonna Kosalko and Barbara Davis / NorthstarMLS #6807901 via Redfin; photographer unspecified"
+      },
+      {
+        "src": "/photos/sewardqueenanne-stair.jpg",
+        "caption": "Stained glass and staircase",
+        "sourceUrl": "https://www.redfin.com/MN/Minneapolis/2428-E-22nd-St-55406/home/51526046",
+        "credit": "Coldwell Banker Realty - Lakes, Jonna Kosalko and Barbara Davis / NorthstarMLS #6807901 via Redfin; photographer unspecified"
+      }
+    ]
+  },
+  {
+    "id": "sixthstillwater",
+    "address": "418 6th Street S",
+    "city": "Stillwater",
+    "price": 962000,
+    "status": "Sold reference",
+    "style": "Queen Anne",
+    "reaction": "New find",
+    "description": "Stillwater’s South Hill. An 1896 Queen Anne with a carved staircase beneath three arched stained-glass windows, patterned oak-and-walnut floors and extensive natural woodwork.",
+    "context": "Sold December 2024 for $962,000; historical price, with no current asking price established. 6 bedrooms, 4,601 sq ft and 0.41 acres. Shared driveway. At the commute limit via Highway 36; the I-94 return route runs 35–50 minutes. Google Maps: 28–40 minutes to McKnight; 28–45 minutes home.",
+    "url": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+    "year": 1896,
+    "sqft": 4601,
+    "lat": 45.051871,
+    "lng": -92.8118464,
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "verifiedOn": "2026-10-30",
+    "photo": {
+      "src": "/photos/sixthstillwater-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+      "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified."
+    },
+    "gallery": [
+      {
+        "src": "/photos/sixthstillwater-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+        "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified."
+      },
+      {
+        "src": "/photos/sixthstillwater-stair.jpg",
+        "caption": "Carved staircase and stained glass",
+        "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+        "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified."
+      },
+      {
+        "src": "/photos/sixthstillwater-floors.jpg",
+        "caption": "Inlaid floors and woodwork",
+        "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
+        "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified."
+      }
+    ]
   },
   {
     "id": "williston",
