@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import type { Property } from './model';
+import { assetUrl } from './assets';
 
 export function PropertyPhotos({ property }: { property: Property }) {
   const [selected, setSelected] = useState(0);
@@ -8,12 +9,12 @@ export function PropertyPhotos({ property }: { property: Property }) {
   if (!photo) return null;
 
   return <figure className="detail-photo">
-    <img src={photo.src} alt={`${property.address}${photo.caption ? ` — ${photo.caption}` : ''}`} />
+    <img src={assetUrl(photo.src)} alt={`${property.address}${photo.caption ? ` — ${photo.caption}` : ''}`} />
     {photos.length > 1 && <div className="photo-thumbnails" role="group" aria-label="Property photos">
       {photos.map((item, index) => <button key={item.src} type="button"
         aria-label={`Show ${item.caption ?? `photo ${index + 1}`}`}
         aria-pressed={selected === index} onClick={() => setSelected(index)}>
-        <img src={item.src} alt="" loading="lazy" />
+        <img src={assetUrl(item.src)} alt="" loading="lazy" />
       </button>)}
     </div>}
     <figcaption>

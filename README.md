@@ -27,7 +27,20 @@ The rubric requires a quiet street, architectural interest, a drive within 45 mi
 
 ## Publication
 
-The private Site identity is in `.openai/hosting.json`; production assets are in `dist`. The original rental project remains unchanged. Publishing updates the seeded guide; browser edits must be deliberately incorporated into source to become shared defaults. Private hosting is owner-only until access is configured.
+The source repository is [tobylunt/mpls-home-search](https://github.com/tobylunt/mpls-home-search). The original rental project remains unchanged.
+
+GitHub Pages uses `.github/workflows/pages.yml`. Each push to `main` installs locked dependencies, runs the tests, builds the app for the configured Pages path, and deploys only `dist/`. The workflow can also be run manually. In the repository's **Settings → Pages**, use **GitHub Actions** as the deployment source. GitHub requires a Pages-compatible plan or a public repository.
+
+Property-card photos, full-size galleries and thumbnails use Vite's base URL, so both project paths and root hosting work. To check the project-path build locally:
+
+```sh
+npm run build -- --base /mpls-home-search/
+npm run preview -- --base /mpls-home-search/
+```
+
+Publishing updates the shared property data and default rubric. Notes, saved homes and customized ratings remain in each browser; they are not uploaded to GitHub or shared with other visitors. The new Pages address has separate browser storage from the original Site. Use **Backup** on the old site and **Restore** on the new one to move your personal edits.
+
+The original private Site identity is retained in `.openai/hosting.json`. GitHub Pages does not use that file, and its workflow uploads only the built website.
 
 ## Validation
 
