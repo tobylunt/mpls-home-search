@@ -844,29 +844,6 @@
     "matchedAddress": "620 OAK ST W, STILLWATER, MN, 55082"
   },
   {
-    "id": "ricecreek",
-    "address": "567 Rice Creek Terrace NE",
-    "city": "Fridley",
-    "price": 524999,
-    "status": "Under contract",
-    "style": "Mid-century",
-    "reaction": "New find",
-    "description": "Exposed beams, wood walls, built-ins and broad glass gables on 2.2 acres along Rice Creek.",
-    "context": "Under contract; retained for the architecture and setting. The listing asks $524,999. Confirm the bathroom count and wastewater system: published records disagree, and the listing includes both public sewer and a holding tank.",
-    "url": "https://pedersonrealty.com/homes-for-sale/mn/fridley/567-rice-creek-terrace-ne/mls-7151563",
-    "year": 1960,
-    "sqft": 2066,
-    "lat": 45.0920820123,
-    "lng": -93.2593799402,
-    "locationSource": "NorthstarMLS 7151563 listing coordinates via Pederson Realty · Oct 30, 2026",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/ricecreek-exterior.jpg",
-      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/fridley/567-rice-creek-terrace-ne/mls-7151563",
-      "credit": "BuySelf, Inc. / NorthstarMLS via Pederson Realty"
-    }
-  },
-  {
     "id": "decatur",
     "address": "3324 Decatur Lane",
     "city": "Saint Louis Park",
@@ -1200,30 +1177,6 @@
       "src": "/photos/colfax.jpg",
       "sourceUrl": "https://www.redfin.com/MN/Minneapolis/4940-Colfax-Ave-S-55419/home/50004549",
       "credit": "Redfin / NorthstarMLS #7057159"
-    }
-  },
-  {
-    "id": "moritz",
-    "address": "5164 Saint Moritz Drive",
-    "city": "Fridley",
-    "price": 480000,
-    "status": "Sold reference",
-    "style": "Mid-century",
-    "reaction": "Loved",
-    "description": "Soaring exposed-beam ceilings, built-ins and a private backyard.",
-    "context": "Included in the sold group you called “great.”",
-    "url": "https://www.realtor.com/realestateandhomes-detail/5164-Saint-Moritz-Dr_Fridley_MN_55421_M73204-53391",
-    "year": 1962,
-    "sqft": 2026,
-    "lat": 45.061708753285,
-    "lng": -93.234122836546,
-    "locationSource": "US Census street-range geocoder · Oct 29, 2026",
-    "matchedAddress": "5164 ST MORITZ DR, FRIDLEY, MN, 55421",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/moritz.jpg",
-      "sourceUrl": "https://www.zillow.com/homedetails/5164-Saint-Moritz-Dr-NE-Fridley-MN-55421/1530903_zpid/",
-      "credit": "Zillow / NorthstarMLS #7109906"
     }
   },
   {
