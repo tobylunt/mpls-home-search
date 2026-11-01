@@ -15,7 +15,7 @@ export function isSaved(p: Property, review?: Review): boolean {
 export function reviewFor(p: Property, review: Review = {}): Review {
  return {...review, checks:{...Object.fromEntries(Object.entries(p.research??{}).map(([id,e])=>[id,e.verdict])),...review.checks}};
 }
-const knownPropertyIds = new Set([...properties.map(p=>p.id), "walnut", "hobe", "decatur", "luverne", "glenhurst", "shore", "humboldt", "woodlawn", "turnpike", "keston", "virginia", "cedar", "benhill", "ewing", "summit", "croix", "goodrich", "knox", "kyle", "orchard", "normandale", "bridgeview", "knoll", "colfax", "moritz", "minnetonka", "linwood", "hopkins", "ricecreek"]);
+const knownPropertyIds = new Set([...properties.map(p=>p.id), "walnut", "hobe", "decatur", "luverne", "glenhurst", "shore", "humboldt", "woodlawn", "turnpike", "keston", "virginia", "cedar", "benhill", "ewing", "summit", "croix", "goodrich", "knox", "kyle", "orchard", "normandale", "bridgeview", "knoll", "colfax", "moritz", "minnetonka", "linwood", "hopkins", "ricecreek", "holly458", "oak"]);
 export const initial: State = {version:1, budget:1000000, reviews:{hobe:{favorite:true}}, criteria:[
  {id:'quiet',name:'Quiet street',tier:'Must-have',detail:'No busy arterial. Visit at rush hour and in the evening; listen for traffic and nearby activity.',weight:1},
  {id:'architecture',name:'Architectural interest',tier:'Must-have',detail:'Distinctive spaces, form or craftsmanship. Hobe Lane is the benchmark. A famous architect is optional.',weight:1},
@@ -26,6 +26,7 @@ export const initial: State = {version:1, budget:1000000, reviews:{hobe:{favorit
  {id:'water',name:'Water access',tier:'Nice-to-have',detail:'Usable lake, river or creek access. Confirm whether access is private, shared or public.',weight:5},
  {id:'gardens',name:'Gardens',tier:'Nice-to-have',detail:'Established gardens, productive growing space, an orchard or a greenhouse.',weight:5},
  {id:'workshop',name:'Woodshop / workshop',tier:'Nice-to-have',detail:'Dedicated space for making and woodworking. Check usable area, power, ventilation and year-round comfort.',weight:5},
+ {id:'library',name:'Study / library',tier:'Nice-to-have',detail:'A dedicated room for reading, writing or focused work. Built-in bookshelves, warm woodwork and good natural light are especially desirable.',weight:5},
  {id:'southwest',name:'Southwest Minneapolis',tier:'Nice-to-have',detail:'Lake Harriet and southwest Minneapolis are favorites. The wider metro, including White Bear Lake, is realistic.',weight:2}
 ]};
 export function assess(p: Property, review: Review = {}, criteria = initial.criteria, budget = initial.budget) {
@@ -55,7 +56,7 @@ export function parseState(value: unknown): State {
   if(r.checks && (typeof r.checks!=='object' || Array.isArray(r.checks) || Object.entries(r.checks).some(([key,v])=>!ids.has(key)||!['yes','no','unknown'].includes(v)))) throw Error('Invalid assessments in backup.');
  }
  const names: Record<string,string> = {"A genuinely quiet street": "Quiet street", "Architecture with a point of view": "Architectural interest", "Warmth & original character": "Original character", "A relationship to its setting": "Privacy & outdoor space", "Southwest & the city lakes": "Southwest Minneapolis"};
- const additions = new Set(['commute','renewables','water','gardens','workshop']);
+ const additions = new Set(['commute','renewables','water','gardens','workshop','library']);
  const oldCommute='Within 45 minutes by car of McKnight Foundation, 921 Washington Avenue S, Minneapolis. Check typical weekday commute traffic.';
  const criteria = s.criteria.map(c=>({...c,name:names[c.name]??c.name,detail:c.id==='commute'&&c.detail===oldCommute?initial.criteria.find(x=>x.id==='commute')!.detail:c.detail}));
  for (const c of initial.criteria) {

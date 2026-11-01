@@ -20,7 +20,8 @@
       "src": "/photos/blaylock-exterior.webp",
       "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/9350-Blaylock-Cir_Prior-Lake_MN_55372_M72634-25647",
       "credit": "Edina Realty / Denise Houk Photography, via Realtor.com"
-    }
+    },
+    "shortlisted": true
   },
   {
     "id": "hilltrail",
@@ -76,7 +77,8 @@
       }
     ],
     "verifiedOn": "2026-10-30",
-    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026"
+    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
+    "shortlisted": true
   },
   {
     "id": "keston",
@@ -100,7 +102,108 @@
       "src": "/photos/keston.jpg",
       "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1393-keston-street/mls-7126585",
       "credit": "Keller Williams Integrity Realty / NorthstarMLS via Pederson Realty"
-    }
+    },
+    "shortlisted": true
+  },
+  {
+    "id": "alden",
+    "address": "7823 Alden Way NE",
+    "city": "Fridley",
+    "price": 445000,
+    "status": "Sold reference",
+    "style": "Mid-century",
+    "reaction": "New find",
+    "description": "Joe Miller design with a glass gable, exposed wood beams, a library wall with a sliding ladder, a separate office and a lower-level workshop.",
+    "context": "Sold October 20, 2025 for $445,000. 3 bedrooms, 3 bathrooms on 0.30 acre. The bookcase wall is in the living room; the office is separate. Mature trees and an ornamental pond, rather than acreage or lake access. Google Maps: 18–26 minutes to McKnight; 18–28 minutes home via I-94.",
+    "url": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+    "year": 1963,
+    "sqft": 2646,
+    "lat": 45.1084679,
+    "lng": -93.2798673,
+    "locationSource": "Google Maps exact-address place pin · Oct 31, 2026",
+    "verifiedOn": "2026-10-31",
+    "photo": {
+      "src": "/photos/alden-exterior.jpg",
+      "caption": "Exterior",
+      "sourceUrl": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+      "credit": "RE/MAX Results / NorthstarMLS via Coldwell Banker"
+    },
+    "gallery": [
+      {
+        "src": "/photos/alden-exterior.jpg",
+        "caption": "Exterior",
+        "sourceUrl": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+        "credit": "RE/MAX Results / NorthstarMLS via Coldwell Banker"
+      },
+      {
+        "src": "/photos/alden-library.jpg",
+        "caption": "Library wall with sliding ladder",
+        "sourceUrl": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+        "credit": "RE/MAX Results / NorthstarMLS via Coldwell Banker"
+      },
+      {
+        "src": "/photos/alden-living.jpg",
+        "caption": "Living room",
+        "sourceUrl": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+        "credit": "RE/MAX Results / NorthstarMLS via Coldwell Banker"
+      },
+      {
+        "src": "/photos/alden-garden.jpg",
+        "caption": "Wooded rear yard and ornamental pond",
+        "sourceUrl": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+        "credit": "RE/MAX Results / NorthstarMLS via Coldwell Banker"
+      }
+    ]
+  },
+  {
+    "id": "goodrich1016",
+    "address": "1016 Goodrich Avenue",
+    "city": "Saint Paul",
+    "price": 675000,
+    "status": "Sold reference",
+    "style": "Historic",
+    "reaction": "New find",
+    "description": "Summit Hill home with a front library, stained-glass stair window, screened porch and established gardens with winding paths.",
+    "context": "Sold April 30, 2025 for $675,000. 5 bedrooms, 4 bathrooms on a 0.14-acre urban lot. Much of the trim is painted; the gardens and reading room are the appeal. Bookcases and ladder may be furniture. Google Maps: 12–18 minutes to McKnight; 12–16 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1016-goodrich-avenue/mls-6652641",
+    "year": 1906,
+    "sqft": 2140,
+    "lat": 44.9376645,
+    "lng": -93.1430222,
+    "locationSource": "Google Maps exact-address place pin · Oct 31, 2026",
+    "verifiedOn": "2026-10-31",
+    "photo": {
+      "src": "/photos/goodrich-summit-exterior.jpg",
+      "caption": "Street exterior",
+      "sourceUrl": "https://homecomingphoto.com/u/787",
+      "credit": "Homecoming Photography / Edina Realty listing tour"
+    },
+    "gallery": [
+      {
+        "src": "/photos/goodrich-summit-exterior.jpg",
+        "caption": "Street exterior",
+        "sourceUrl": "https://homecomingphoto.com/u/787",
+        "credit": "Homecoming Photography / Edina Realty listing tour"
+      },
+      {
+        "src": "/photos/goodrich-summit-library.jpg",
+        "caption": "Main-floor library and stair stained glass",
+        "sourceUrl": "https://homecomingphoto.com/u/787",
+        "credit": "Homecoming Photography / Edina Realty listing tour"
+      },
+      {
+        "src": "/photos/goodrich-summit-garden.jpg",
+        "caption": "Summer garden",
+        "sourceUrl": "https://homecomingphoto.com/u/787",
+        "credit": "Homecoming Photography / Edina Realty listing tour"
+      },
+      {
+        "src": "/photos/goodrich-summit-porch.jpg",
+        "caption": "Screened rear porch",
+        "sourceUrl": "https://homecomingphoto.com/u/787",
+        "credit": "Homecoming Photography / Edina Realty listing tour"
+      }
+    ]
   },
   {
     "id": "hobe",
@@ -382,6 +485,7 @@
   },
   {
     "id": "laurel416",
+    "shortlisted": true,
     "address": "416 Laurel Avenue",
     "city": "Saint Paul",
     "price": 890000,
@@ -427,56 +531,6 @@
         "caption": "Fitted wood library",
         "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
         "credit": "Anderson Realty / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
-      }
-    ]
-  },
-  {
-    "id": "holly458",
-    "address": "458 Holly Avenue",
-    "city": "Saint Paul",
-    "price": 850000,
-    "status": "Sold reference",
-    "style": "Victorian",
-    "reaction": "New find",
-    "description": "Cathedral Hill. Unusual pierced-and-turned staircase, natural-wood dining-room paneling, grape-pattern stained glass and a wood mantel.",
-    "context": "Sold October 2026 for $850,000. 4 bedrooms, 3 bathrooms. Several other rooms have painted trim and substantial modern renovations; the stair and dining room are the standouts. Google Maps: 12–18 minutes to McKnight; 12–16 minutes home.",
-    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
-    "year": 1888,
-    "sqft": 2889,
-    "lat": 44.9431395,
-    "lng": -93.1194722,
-    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/holly-fretwork-exterior.jpg",
-      "caption": "Street exterior",
-      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
-      "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
-    },
-    "gallery": [
-      {
-        "src": "/photos/holly-fretwork-exterior.jpg",
-        "caption": "Street exterior",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
-        "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
-      },
-      {
-        "src": "/photos/holly-fretwork-dining.jpg",
-        "caption": "Paneled dining room, stained glass and mantel",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
-        "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
-      },
-      {
-        "src": "/photos/holly-fretwork-stair.jpg",
-        "caption": "Pierced-and-turned natural-wood staircase",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
-        "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
-      },
-      {
-        "src": "/photos/holly-fretwork-living.jpg",
-        "caption": "Updated living rooms with painted trim",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
-        "credit": "Edina Realty, Inc. / NorthstarMLS; gallery published by Pederson Realty. Photographer not named."
       }
     ]
   },
@@ -708,7 +762,7 @@
     "status": "Active",
     "style": "Cottage / Prairie",
     "reaction": "New find",
-    "description": "Vaulted wood ceilings, stained glass, a brick fireplace and a library above the detached garage. Set among mature oaks on 0.71 acres.",
+    "description": "Prairie-influenced cottage among mature oaks, with wood beams, a hearth room and a private 23 × 17-foot library/office above the garage.",
     "context": "3 bedrooms, 1½ baths. The woodwork and connection to the trees make this worth a visit. Access is by a private drive off Williston Road; check traffic noise and driveway rights. The current listing counts 3 bedrooms, with potential for a fourth.",
     "url": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849",
     "year": 1954,
@@ -721,7 +775,20 @@
       "src": "/photos/williston-exterior.jpg",
       "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849",
       "credit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Pederson Realty"
-    }
+    },
+    "gallery": [
+      {
+        "src": "/photos/williston-exterior.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849",
+        "credit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Pederson Realty"
+      },
+      {
+        "src": "/photos/williston-library.jpg",
+        "caption": "Library / office above the garage",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849",
+        "credit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Pederson Realty"
+      }
+    ]
   },
   {
     "id": "pomroy",
@@ -818,30 +885,6 @@
       "credit": "Compass / NorthstarMLS via Realtor.com"
     },
     "matchedAddress": "5 BROWN RD S, ORONO, MN, 55356"
-  },
-  {
-    "id": "oak",
-    "address": "620 Oak Street W",
-    "city": "Stillwater",
-    "price": 625000,
-    "status": "Sold reference",
-    "style": "Mid-century",
-    "reaction": "New find",
-    "description": "Mid-century home with an angular roofline, brick chimney, clerestory windows and a planted front garden.",
-    "context": "Sold August 19, 2026 for $625,000. 4 bedrooms, 2½ baths on a compact 0.20-acre lot. An architectural reference for its roofline, light and garden connection.",
-    "url": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
-    "year": 1954,
-    "sqft": 2252,
-    "lat": 45.052434826858,
-    "lng": -92.814344517005,
-    "locationSource": "US Census street-range geocoder · Oct 30, 2026",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/oak-exterior.webp",
-      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/620-Oak-St-W_Stillwater_MN_55082_M86541-21683",
-      "credit": "Coldwell Banker Realty / NorthstarMLS via Realtor.com"
-    },
-    "matchedAddress": "620 OAK ST W, STILLWATER, MN, 55082"
   },
   {
     "id": "decatur",

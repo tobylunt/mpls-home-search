@@ -25,13 +25,15 @@ describe('transparent rubric',()=>{
   expect(assess(unassessedHome,{checks:{...checks,commute:'no'}}).label).toBe('Does not meet brief');
  });
  it('adds the expanded brief to saved data without replacing edits or inventing assessments',()=>{
-  const legacy = {...initial,budget:900000,criteria:initial.criteria.filter(c=>!['commute','renewables','water','gardens','workshop'].includes(c.id)).map(c=>({...c,detail:'My saved guidance'})),reviews:{hobe:{favorite:true,notes:'Keep these notes',checks:{quiet:'yes' as const}}}};
+  const legacy = {...initial,budget:900000,criteria:initial.criteria.filter(c=>!['commute','renewables','water','gardens','workshop','library'].includes(c.id)).map(c=>({...c,detail:'My saved guidance'})),reviews:{hobe:{favorite:true,notes:'Keep these notes',checks:{quiet:'yes' as const}}}};
   const migrated = parseState(legacy);
   expect(migrated.budget).toBe(legacy.budget);
   expect(migrated.reviews).toEqual(legacy.reviews);
   expect(migrated.criteria.find(c=>c.id==='quiet')?.detail).toBe('My saved guidance');
   expect(migrated.criteria.find(c=>c.id==='commute')?.tier).toBe('Must-have');
-  expect(migrated.criteria.filter(c=>['renewables','water','gardens','workshop'].includes(c.id)).map(c=>c.weight)).toEqual([5,5,5,5]);
+  expect(migrated.criteria.filter(c=>['renewables','water','gardens','workshop','library'].includes(c.id)).map(c=>c.weight)).toEqual([5,5,5,5,5]);
+  expect(migrated.criteria.find(c=>c.id==='library')?.tier).toBe('Nice-to-have');
+  migrated.criteria.find(c=>c.id==='library')!.weight=3;
   migrated.criteria.find(c=>c.id==='gardens')!.weight=4;
   expect(parseState(migrated)).toEqual(migrated);
  });

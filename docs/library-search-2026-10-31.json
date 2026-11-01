@@ -1,0 +1,108 @@
+{
+  "checkedOn": "2026-10-31",
+  "brief": "Special architecture under $1M, within 45 minutes off-peak of McKnight; study/library is a high-weight preference. Stale/sold listings allowed.",
+  "added": [
+    {
+      "id": "alden",
+      "address": "7823 Alden Way NE, Fridley",
+      "price": 445000,
+      "status": "Sold reference",
+      "saleDate": "2025-10-20",
+      "why": "Joe Miller architecture, living-room bookcase wall and separate office, documented lower workshop. Smaller 0.30-acre setting.",
+      "sourceUrl": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7"
+    },
+    {
+      "id": "goodrich1016",
+      "address": "1016 Goodrich Avenue, Saint Paul",
+      "price": 675000,
+      "status": "Sold reference",
+      "saleDate": "2025-04-30",
+      "why": "Main-floor library, stained glass, screened porch and established gardens. Most trim painted; bookcases may be furniture.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1016-goodrich-avenue/mls-6652641",
+      "galleryUrl": "https://homecomingphoto.com/u/787"
+    }
+  ],
+  "existingLibraryScores": [
+    "williston",
+    "laurel416",
+    "sherwoodhills"
+  ],
+  "commuteMethod": {
+    "provider": "Google Maps visible Directions UI",
+    "date": "2026-11-04",
+    "inboundArrival": "11:00",
+    "outboundDeparture": "14:00",
+    "timezone": "America/Chicago",
+    "destination": "921 Washington Avenue S, Minneapolis, MN 55415",
+    "meaning": "Typical route ranges, not guaranteed journey times."
+  },
+  "commutes": {
+    "alden": {
+      "inbound": [
+        18,
+        26
+      ],
+      "outbound": [
+        18,
+        28
+      ],
+      "inMiles": 13.9,
+      "outMiles": 13.6,
+      "inRoute": "I-94 E",
+      "outRoute": "I-94 W",
+      "note": "Return I-94/E River Road alternative has an upper range of30minutes; selected all-I-94 route is18–28."
+    },
+    "goodrich1016": {
+      "inbound": [
+        12,
+        18
+      ],
+      "outbound": [
+        12,
+        16
+      ],
+      "inMiles": 7.6,
+      "outMiles": 7.5,
+      "inRoute": "I-94 W",
+      "outRoute": "I-94 E"
+    }
+  },
+  "held": [
+    {
+      "address": "13101 Heritage Way, Apple Valley",
+      "price": 640000,
+      "status": "Active",
+      "sourceUrl": "https://www.realtor.com/realestateandhomes-detail/13101-Heritage-Way_Apple-Valley_MN_55124_M84677-00472",
+      "reason": "Verified law library with wood ceiling, but overall architecture less distinctive than requested. Photos inspected; not added."
+    },
+    {
+      "address": "2214 Blaisdell Avenue, Minneapolis",
+      "reason": "Strong oak library photos, but busy-street location weakens quiet-street requirement."
+    },
+    {
+      "address": "109 W Minnehaha Parkway, Minneapolis",
+      "reason": "2020 price stale and full current budget/photo case not completed; not added."
+    },
+    {
+      "address": "18107 Woolman Drive, Minnetonka",
+      "reason": "Older2019sale and uncertain current sub-$1M fit; not added."
+    },
+    {
+      "address": "501 Portland Avenue, Saint Paul",
+      "reason": "$1.095M exceeds the requested ceiling."
+    }
+  ],
+  "userChanges": {
+    "removed": [
+      "458 Holly Avenue",
+      "620 Oak Street W"
+    ],
+    "shortlisted": [
+      "416 Laurel Avenue"
+    ],
+    "alreadyRemoved": [
+      "567 Rice Creek Terrace NE",
+      "5164 Saint Moritz Drive"
+    ]
+  }
+}

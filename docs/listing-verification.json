@@ -879,7 +879,14 @@
       "lng": -93.468436,
       "source": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849"
     },
-    "qualification": "Quiet-street criterion remains unassessed; requires an in-person noise check."
+    "qualification": "Quiet-street criterion remains unassessed; requires an in-person noise check.",
+    "libraryPhoto20261031": {
+      "photoUrl": "https://cdn.repliers.io/northstar/IMG-7097849_9c0999da3fc50a29e7477d6e80a3cefc0833b6d95068ba15fe7d745dbe0980ea.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849",
+      "localPhoto": "public/photos/williston-library.jpg",
+      "visuallyInspected": true,
+      "evidence": "Exact-address MLS7097849 gallery photo25 inspected: separate library/office, bookcases, ceiling trim and work area. Listing documents23x17-foot library above garage."
+    }
   },
   {
     "id": "hopkins",
@@ -1761,6 +1768,93 @@
       "https://www.compass.com/homedetails/458-Holly-Ave-St-Paul-MN-55102/ENT8Y_pid/",
       "https://www.edinarealty.com/homes-for-sale/458-holly-avenue-saint-paul-mn-55102-7095777",
       "https://realtywire.com/saint-paul-mn-top-5-home-sales-week-ending-2026-10-25/"
+    ]
+  },
+  {
+    "id": "alden",
+    "verified": true,
+    "url": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+    "photoUrl": "https://images-listings.coldwellbanker.com/NSMLS/67/58/89/4/_P/6758894_P00.jpg",
+    "localPhoto": "public/photos/alden-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "RE/MAX Results / NorthstarMLS via Coldwell Banker",
+    "sourceAddressText": "7823 Alden Way NE, Fridley, MN 55432",
+    "evidence": "Exact-address Coldwell Banker listing for MLS 6758894 contains matching gallery. Exterior number 7823 visible; library wall and wood-beamed living room visually inspected. Edina Realty confirms sale price and date.",
+    "verifiedAt": "2026-10-31",
+    "mls": "6758894",
+    "corroboratingUrl": "https://www.edinarealty.com/homes-for-sale/7823-alden-way-ne-fridley-mn-55432-6758894",
+    "gallery": [
+      {
+        "localPhoto": "public/photos/alden-exterior.jpg",
+        "photoUrl": "https://images-listings.coldwellbanker.com/NSMLS/67/58/89/4/_P/6758894_P00.jpg",
+        "caption": "Exterior",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/alden-library.jpg",
+        "photoUrl": "https://images-listings.coldwellbanker.com/NSMLS/67/58/89/4/_P/6758894_P21.jpg",
+        "caption": "Library wall with sliding ladder",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/alden-living.jpg",
+        "photoUrl": "https://images-listings.coldwellbanker.com/NSMLS/67/58/89/4/_P/6758894_P20.jpg",
+        "caption": "Living room",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/alden-garden.jpg",
+        "photoUrl": "https://images-listings.coldwellbanker.com/NSMLS/67/58/89/4/_P/6758894_P07.jpg",
+        "caption": "Wooded rear yard and ornamental pond",
+        "visuallyInspected": true
+      }
+    ]
+  },
+  {
+    "id": "goodrich1016",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1016-goodrich-avenue/mls-6652641",
+    "photoUrl": "https://d3b9jthq95uv6x.cloudfront.net/orderImages/9367/slideshow/slideshow_601804.jpg",
+    "localPhoto": "public/photos/goodrich-summit-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Homecoming Photography / Edina Realty listing tour",
+    "sourceAddressText": "1016 Goodrich Avenue, Saint Paul, MN 55105",
+    "evidence": "The exact-address Pederson MLS6652641 page links virtualTourUrl https://homecomingphoto.com/u/787. That live photographer page title identifies 1016 Goodrich Ave, St Paul MN55105 and embeds these image URLs. Front photo visibly shows house number1016. All selected photos downloaded successfully and visually inspected; exterior agrees with Redfin hero. Photo dates are historical listing material, not current condition.",
+    "verifiedAt": "2026-10-31",
+    "mls": "6652641",
+    "corroboratingUrls": [
+      "https://www.redfin.com/MN/Saint-Paul/1016-Goodrich-Ave-55105/home/50165443",
+      "https://www.coldwellbankerhomes.com/mn/saint-paul/1016-goodrich-ave/pid_63376390/"
+    ],
+    "gallery": [
+      {
+        "localPhoto": "public/photos/goodrich-summit-exterior.jpg",
+        "photoUrl": "https://d3b9jthq95uv6x.cloudfront.net/orderImages/9367/slideshow/slideshow_601804.jpg",
+        "sourceUrl": "https://homecomingphoto.com/u/787",
+        "caption": "Street exterior",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/goodrich-summit-library.jpg",
+        "photoUrl": "https://d3b9jthq95uv6x.cloudfront.net/orderImages/9367/slideshow/slideshow_960688.jpg",
+        "sourceUrl": "https://homecomingphoto.com/u/787",
+        "caption": "Main-floor library and stair stained glass",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/goodrich-summit-garden.jpg",
+        "photoUrl": "https://d3b9jthq95uv6x.cloudfront.net/orderImages/9367/slideshow/slideshow_520577.jpg",
+        "sourceUrl": "https://homecomingphoto.com/u/787",
+        "caption": "Summer garden",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/goodrich-summit-porch.jpg",
+        "photoUrl": "https://d3b9jthq95uv6x.cloudfront.net/orderImages/9367/slideshow/slideshow_99142.jpg",
+        "sourceUrl": "https://homecomingphoto.com/u/787",
+        "caption": "Screened rear porch",
+        "visuallyInspected": true
+      }
     ]
   }
 ]

@@ -429,6 +429,12 @@
       "detail": "No dedicated workshop documented in the reviewed listing.",
       "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
       "checkedOn": "2026-10-30"
+    },
+    "library": {
+      "verdict": "yes",
+      "detail": "Wood-lined study with exposed beams, stonework and tall windows; verified in the existing listing gallery.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/2404-sherwood-hills-road/mls-6787068",
+      "checkedOn": "2026-10-31"
     }
   },
   "walnut": {
@@ -888,6 +894,12 @@
       "detail": "No dedicated workshop verified in the reviewed listing.",
       "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
       "checkedOn": "2026-10-30"
+    },
+    "library": {
+      "verdict": "yes",
+      "detail": "Dedicated library with fitted wood bookcases, drawers and natural-wood trim; verified in the existing listing gallery.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/416-laurel-avenue/mls-7072128",
+      "checkedOn": "2026-10-31"
     }
   },
   "holly458": {
@@ -939,6 +951,68 @@
       "detail": "No dedicated workshop verified in the reviewed listing.",
       "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/458-holly-avenue/mls-7095777",
       "checkedOn": "2026-10-30"
+    }
+  },
+  "alden": {
+    "library": {
+      "verdict": "yes",
+      "detail": "Separate office; the living-room bookcase wall has a sliding ladder, visible in the gallery.",
+      "sourceUrl": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+      "checkedOn": "2026-10-31"
+    },
+    "workshop": {
+      "verdict": "yes",
+      "detail": "Lower-level workshop documented. Power and ventilation need checking.",
+      "sourceUrl": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+      "checkedOn": "2026-10-31"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Listing attributes the 1963 design to Joe Miller; exposed beams, glass gable and built-ins are visible in the photos.",
+      "sourceUrl": "https://www.coldwellbanker.com/mn/fridley/7823-alden-way-ne/lid-P00800000Gyp4z0pNBD4s4okfZp8PmOTHO33Qis7",
+      "checkedOn": "2026-10-31"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 18–26 min to McKnight; 18–28 min home via I-94. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 31.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=7823+Alden+Way+NE%2C+Fridley%2C+MN+55432&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-31",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=7823+Alden+Way+NE%2C+Fridley%2C+MN+55432&travelmode=driving"
+    }
+  },
+  "williston": {
+    "library": {
+      "verdict": "yes",
+      "detail": "Private 23 × 17-foot library/office above the garage, with bookcases and a work area; listing and gallery verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/minnetonka/3904-williston-road/mls-7097849",
+      "checkedOn": "2026-10-31"
+    }
+  },
+  "goodrich1016": {
+    "library": {
+      "verdict": "yes",
+      "detail": "Listing identifies a 15 × 9.9-foot main-floor library. Gallery confirms a reading room; bookcases and ladder may be furniture.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1016-goodrich-avenue/mls-6652641",
+      "checkedOn": "2026-10-31"
+    },
+    "gardens": {
+      "verdict": "yes",
+      "detail": "Photographer’s summer gallery shows planted beds, curving paths and a patio behind the screened porch.",
+      "sourceUrl": "https://homecomingphoto.com/u/787",
+      "checkedOn": "2026-10-31"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Columned front porch, bay windows and a stained-glass stair window. Much of the interior trim is painted.",
+      "sourceUrl": "https://homecomingphoto.com/u/787",
+      "checkedOn": "2026-10-31"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps: 12–18 min to McKnight; 12–16 min home via I-94. Nov 4, 11 a.m. arrival / 2 p.m. return; checked Oct 31.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1016+Goodrich+Avenue%2C+Saint+Paul%2C+MN+55105&destination=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-10-31",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=1016+Goodrich+Avenue%2C+Saint+Paul%2C+MN+55105&travelmode=driving"
     }
   }
 }
