@@ -724,29 +724,6 @@
     }
   },
   {
-    "id": "hopkins",
-    "address": "111 11th Avenue N",
-    "city": "Hopkins",
-    "price": 850000,
-    "status": "Active",
-    "style": "Contemporary",
-    "reaction": "New find",
-    "description": "Tall glass, a floating stair and warm wood cabinetry in a 2013 home based on Tim Alt plans, according to the listing. Near downtown Hopkins.",
-    "context": "4 bedrooms and 4 bathrooms. Strong spatial design on a compact 0.14-acre lot; neighbors are close. Check evening noise near Mainstreet and the pending assessment flagged in the listing.",
-    "url": "https://pedersonrealty.com/homes-for-sale/mn/hopkins/111-11th-avenue-n/mls-7153318",
-    "year": 2013,
-    "sqft": 2710,
-    "lat": 44.926713,
-    "lng": -93.413445,
-    "locationSource": "NorthstarMLS 7153318 listing coordinates via Pederson Realty · Oct 30, 2026",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/hopkins-exterior.jpg",
-      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/hopkins/111-11th-avenue-n/mls-7153318",
-      "credit": "Coldwell Banker Realty - Lakes / NorthstarMLS via Pederson Realty"
-    }
-  },
-  {
     "id": "pomroy",
     "address": "23845 Pomroy Avenue N",
     "city": "Scandia",
@@ -1198,30 +1175,6 @@
       "src": "/photos/bridgeview.jpg",
       "sourceUrl": "https://www.redfin.com/MN/Eagan/1472-Bridgeview-Ave-55121/home/50718018",
       "credit": "Redfin / NorthstarMLS #7119488; National Realty Guild"
-    }
-  },
-  {
-    "id": "knoll",
-    "address": "2931 Cedar Knoll Court",
-    "city": "Minnetonka",
-    "price": 499900,
-    "status": "Active",
-    "style": "Mid-century",
-    "reaction": "Lukewarm",
-    "description": "Wooded lot and generous living spaces.",
-    "context": "Wooded lot; listed at $499,900.",
-    "url": "https://www.redfin.com/MN/Minnetonka/2931-Cedar-Knoll-Ct-55305/home/51371948",
-    "year": 1964,
-    "sqft": 2337,
-    "lat": 44.948992883069,
-    "lng": -93.438407590505,
-    "locationSource": "US Census street-range geocoder · Oct 29, 2026",
-    "matchedAddress": "2931 CEDAR KNOLL CT, MINNETONKA, MN, 55305",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/knoll.jpg",
-      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/2931-Cedar-Knoll-Ct-55305/home/51371948",
-      "credit": "Redfin / NorthstarMLS #7146107; Edina Realty"
     }
   },
   {
