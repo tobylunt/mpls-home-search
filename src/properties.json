@@ -1133,29 +1133,6 @@
     }
   },
   {
-    "id": "bridgeview",
-    "address": "1472 Bridgeview Avenue",
-    "city": "Eagan",
-    "price": 699900,
-    "status": "Pending",
-    "style": "Brick modern",
-    "reaction": "Lukewarm",
-    "description": "All-brick modernist house with exposed beams.",
-    "context": "Pending. All-brick modernist home in Eagan.",
-    "url": "https://www.redfin.com/MN/Eagan/1472-Bridgeview-Ave-55121/home/50718018",
-    "year": 1964,
-    "sqft": 4762,
-    "lat": 44.853199,
-    "lng": -93.17607,
-    "locationSource": "NorthstarMLS coordinates via Compass · Oct 30, 2026",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/bridgeview.jpg",
-      "sourceUrl": "https://www.redfin.com/MN/Eagan/1472-Bridgeview-Ave-55121/home/50718018",
-      "credit": "Redfin / NorthstarMLS #7119488; National Realty Guild"
-    }
-  },
-  {
     "id": "colfax",
     "address": "4940 Colfax Avenue S",
     "city": "Minneapolis",
