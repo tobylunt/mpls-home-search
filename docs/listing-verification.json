@@ -2618,5 +2618,110 @@
         "Parent to verify commute."
       ]
     }
+  },
+  {
+    "id": "oakdale",
+    "verified": true,
+    "verifiedAt": "2026-11-02",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+    "sourceAddressText": "3020 Oakdale Drive, Pine Springs, MN 55115",
+    "status": "Active",
+    "price": 950000,
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7096242_76325115434aaa45252314fb04f730fe960bae0656b2f37f8bcfe1006b805c22.jpg",
+    "localPhoto": "public/photos/oakdale-exterior.jpg",
+    "photoCredit": "Epique Realty / NorthstarMLS via Pederson Realty",
+    "visuallyInspected": true,
+    "gallery": [
+      {
+        "localPhoto": "public/photos/oakdale-exterior.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7096242_76325115434aaa45252314fb04f730fe960bae0656b2f37f8bcfe1006b805c22.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "caption": "Lake-facing exterior and deck",
+        "visuallyInspected": true,
+        "sha256": "989a0f510fdb1bd9ec175aa2ec627344d55d411df06c4a47037d12115245bdfa"
+      },
+      {
+        "localPhoto": "public/photos/oakdale-porch.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7096242_1c73778b21f9683f65d9803ef9aca2c0634662b6efaa6529a0c9cf06da7f85fc.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "caption": "House, wraparound porch, and Long Lake",
+        "visuallyInspected": true,
+        "sha256": "60ebabec46e0d1dd90f408df6c373089e429111d66220db1e009a7349c5f6ecd"
+      },
+      {
+        "localPhoto": "public/photos/oakdale-living.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7096242_cf59b7cf4347a19c839a8e982fa874fb108de045cb94d6d4eac7e7a02a3ae154.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "caption": "Wood-trimmed windows overlooking Long Lake",
+        "visuallyInspected": true,
+        "sha256": "70d6053e622da1bfab9322b58aa28248fc6d4003048ab4df905fa28e9095d5c2"
+      },
+      {
+        "localPhoto": "public/photos/oakdale-water.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7096242_10cf1991eb86c911706813a20cabb3e3dc8d527ecbcf3fac3472b131111c881f.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "caption": "Long Lake, dock, and boathouse",
+        "visuallyInspected": true,
+        "sha256": "d10a6553912fea2d8d911cd39db9e91a89a77bdd1ac3ad58108f1411d15d2c4f"
+      },
+      {
+        "localPhoto": "public/photos/oakdale-woodwork.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7096242_19a5196ddd399be4b67a34c9fc98fa8f58fa72286e8f459edf62188effda114a.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "caption": "Wood staircase and kitchen",
+        "visuallyInspected": true,
+        "sha256": "92c0c15a233237e8e1af0cea56cf685acbd230d0c182c6aca5be8ed0a63402b1"
+      },
+      {
+        "localPhoto": "public/photos/oakdale-barn.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7096242_8c44fbbf239492250fe99871f62abef642481e9494462f9429929f95366a234c.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "caption": "Barn garage interior with work counter and storage",
+        "visuallyInspected": true,
+        "sha256": "28b728042dc07adb94b7a6ec64cb7cdc839f44d427b31d8025b773665289af70"
+      },
+      {
+        "localPhoto": "public/photos/oakdale-guest-suite.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7096242_9e9a0eaa5dd7c62a6c6292898d22e7832759e4b6dc231cf0d382b4716d1b064f.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "caption": "Guest quarters with kitchenette",
+        "visuallyInspected": true,
+        "sha256": "ff935ec7d91f4275f3f3da14e1b066d002562e01fc773fa65c060bb89e1fc53b"
+      }
+    ],
+    "evidence": "Exact-address MLS 7096242 listing checked Nov 2, 2026. Fresh Pederson HTML confirms active status and $950,000, superseding older cached $999,980 pages. Seven exact MLS photographs individually inspected; exterior card shows the house from the lake side.",
+    "facts": {
+      "price": 950000,
+      "status": "Active",
+      "beds": 3,
+      "baths": 4,
+      "finishedSqft": 2798,
+      "yearBuilt": 1928,
+      "lotAcres": 1.924,
+      "latitude": 45.03388,
+      "longitude": -92.962415,
+      "shorelineFeetDescription": "over 350",
+      "waterBody": "Long Lake",
+      "garageSpaces": 3,
+      "outbuildings": [
+        "Detached garage with year-round guest quarters above",
+        "Red barn garage/storage",
+        "Boathouse",
+        "Garden shed/playhouse"
+      ]
+    },
+    "sourceUrls": [
+      "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "https://grumdahlgroup.com/home/3020-oakdale-dr-pine-springs-mn-55115-46a55096",
+      "https://www.washingtoncountymn.com/idx/3020-oakdale-drive-pine-springs-mn-55115/1805027183_spid/",
+      "https://www.krislindahl.com/property-search/mn/pine-springs/55115/3020-oakdale-drive/1805027183_spid/"
+    ],
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov 2 for Wed Nov 4, 2026: arrive 11 a.m., 22–28 minutes via I-694 W and MN-36 W (18.2 miles); depart 2 p.m., 24–35 minutes via MN-36 E (17.9 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=3020+Oakdale+Dr%2C+Saint+Paul%2C+MN+55115&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=3020+Oakdale+Dr%2C+Saint+Paul%2C+MN+55115&travelmode=driving",
+      "checkedOn": "2026-11-02"
+    }
   }
 ]

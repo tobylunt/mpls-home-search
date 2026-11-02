@@ -1635,5 +1635,74 @@
       "checkedOn": "2026-11-02",
       "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=15709+James+Ave+S%2C+Burnsville%2C+MN&travelmode=driving"
     }
+  },
+  "oakdale": {
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Private road and wooded grounds; road noise has not been checked in person.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "architecture": {
+      "verdict": "unknown",
+      "detail": "1928 lake house with a wraparound porch and long banks of lake-facing windows. Architect and original extent of the house are unverified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Wood floors, staircase, cabinetry and window trim are visible in the listing photos; their age is unverified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "setting": {
+      "verdict": "yes",
+      "detail": "1.92 wooded acres on Long Lake, with a boathouse, barn and detached guest quarters.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "water": {
+      "verdict": "yes",
+      "detail": "Listing describes over 350 feet of Long Lake frontage. Dock, boathouse and direct water views from the house are verified in photos.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Barn garage has a work counter, cabinets and outlets. Workshop potential is visible; dedicated woodshop setup, heating and electrical capacity are unverified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "library": {
+      "verdict": "unknown",
+      "detail": "Year-round guest quarters above the detached garage offer office potential. No dedicated study or library is verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Ornamental plantings and a garden shed are documented; productive gardens are unverified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Pine Springs in the northeast metro, outside southwest Minneapolis.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "checkedOn": "2026-11-02"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov 2 for Wed Nov 4, 2026: arrive 11 a.m., 22–28 minutes via I-694 W and MN-36 W (18.2 miles); depart 2 p.m., 24–35 minutes via MN-36 E (17.9 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=3020+Oakdale+Dr%2C+Saint+Paul%2C+MN+55115&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=3020+Oakdale+Dr%2C+Saint+Paul%2C+MN+55115&travelmode=driving",
+      "checkedOn": "2026-11-02"
+    }
   }
 }

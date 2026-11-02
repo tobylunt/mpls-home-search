@@ -1421,5 +1421,74 @@
         "caption": "Garage workshop area"
       }
     ]
+  },
+  {
+    "id": "oakdale",
+    "address": "3020 Oakdale Drive",
+    "city": "Pine Springs",
+    "price": 950000,
+    "status": "Active",
+    "style": "Lake house",
+    "reaction": "Added",
+    "year": 1928,
+    "sqft": 2798,
+    "lat": 45.0337708,
+    "lng": -92.9622169,
+    "description": "Long Lake frontage on 1.92 wooded acres. Wraparound porch, lake-facing windows, dock and boathouse; detached guest quarters and a barn with workshop potential.",
+    "context": "Three bedrooms, four baths. Reduced to $950,000 on Oct 7, 2026. Pine Springs municipality; Saint Paul postal address. Private road and septic. Off-peak to McKnight: 22–28 minutes; 24–35 minutes home.",
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+    "verifiedOn": "2026-11-02",
+    "locationSource": "Google Maps exact-address place pin · Nov 2, 2026",
+    "matchedAddress": "3020 Oakdale Dr, St Paul, MN 55115",
+    "photo": {
+      "src": "/photos/oakdale-exterior.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+      "credit": "Epique Realty / NorthstarMLS via Pederson Realty",
+      "caption": "Lake-facing exterior and deck"
+    },
+    "gallery": [
+      {
+        "src": "/photos/oakdale-exterior.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "credit": "Epique Realty / NorthstarMLS via Pederson Realty",
+        "caption": "Lake-facing exterior and deck"
+      },
+      {
+        "src": "/photos/oakdale-porch.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "credit": "Epique Realty / NorthstarMLS via Pederson Realty",
+        "caption": "House, wraparound porch, and Long Lake"
+      },
+      {
+        "src": "/photos/oakdale-living.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "credit": "Epique Realty / NorthstarMLS via Pederson Realty",
+        "caption": "Wood-trimmed windows overlooking Long Lake"
+      },
+      {
+        "src": "/photos/oakdale-water.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "credit": "Epique Realty / NorthstarMLS via Pederson Realty",
+        "caption": "Long Lake, dock, and boathouse"
+      },
+      {
+        "src": "/photos/oakdale-woodwork.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "credit": "Epique Realty / NorthstarMLS via Pederson Realty",
+        "caption": "Wood staircase and kitchen"
+      },
+      {
+        "src": "/photos/oakdale-barn.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "credit": "Epique Realty / NorthstarMLS via Pederson Realty",
+        "caption": "Barn garage interior with work counter and storage"
+      },
+      {
+        "src": "/photos/oakdale-guest-suite.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/pine-springs/3020-oakdale-drive/mls-7096242",
+        "credit": "Epique Realty / NorthstarMLS via Pederson Realty",
+        "caption": "Guest quarters with kitchenette"
+      }
+    ]
   }
 ]
