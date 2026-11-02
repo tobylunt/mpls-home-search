@@ -2369,5 +2369,254 @@
       "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1808+Colvin+Avenue%2C+Saint+Paul%2C+MN+55116&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
       "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1808+Colvin+Avenue%2C+Saint+Paul%2C+MN+55116&travelmode=driving"
     }
+  },
+  {
+    "id": "rustic",
+    "verified": true,
+    "verifiedAt": "2026-11-02",
+    "url": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+    "sourceAddressText": "3790 Rustic Place, Shoreview, MN",
+    "status": "Sold reference",
+    "price": 460000,
+    "priceLabel": "Sold May 8, 2026",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034869_37.jpg",
+    "localPhoto": "public/photos/rustic-exterior.jpg",
+    "photoCredit": "RE/MAX Results / NorthstarMLS via Pederson Realty",
+    "visuallyInspected": true,
+    "gallery": [
+      {
+        "localPhoto": "public/photos/rustic-exterior.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034869_37.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "caption": "Rear exterior with large windows and deck",
+        "visuallyInspected": true,
+        "sha256": "f1f246e3c540477eb4f0b5c976861cd9f1ad49a72e0cd57936435e1900ba3c45"
+      },
+      {
+        "localPhoto": "public/photos/rustic-living.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034869_4.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "caption": "Timber-ceiling living room with water visible",
+        "visuallyInspected": true,
+        "sha256": "693d72dc0e7c50d218b19aa6f2efcd2714e59a828288937be1fcdda4cc037c59"
+      },
+      {
+        "localPhoto": "public/photos/rustic-water.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034869_15.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "caption": "Lake view from deck through leafless trees",
+        "visuallyInspected": true,
+        "sha256": "8603c018d8df90b51e228f286dd9f554932e38e5b0e47e8bc8cbc0ee1bc4dc43"
+      },
+      {
+        "localPhoto": "public/photos/rustic-study.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034869_25.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "caption": "Wood-paneled room with shelves",
+        "visuallyInspected": true,
+        "sha256": "e53a23cb7c51bf110a03f5a82d10c9791802d94347a45120c18d0d8cf056336a"
+      },
+      {
+        "localPhoto": "public/photos/rustic-workshop.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7034869_35.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "caption": "Garage workshop area",
+        "visuallyInspected": true,
+        "sha256": "50d0cd61ed28a1c86ec0e035948b0206d4a2b5ea8f31605b5dcf90f507040146"
+      }
+    ],
+    "evidence": "Exact-address listing, architecture and water photographs individually verified in Nov 2 research. Rustic gallery is from its 2026 MLS listing; Sankaku gallery is from a matching 2011 architectural tour, corroborated against exact-address MLS exterior photographs. Historical photos do not establish current condition.",
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov 2 for Wed Nov 4, 2026: arrive 11 a.m., 16–20 minutes via I-694 W and I-35W S (14.3 miles); depart 2 p.m., 16–22 minutes via I-35W N and I-694 E (14.1 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=3790+Rustic+Place%2C+Shoreview%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-02",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=3790+Rustic+Place%2C+Shoreview%2C+MN&travelmode=driving"
+    },
+    "research": {
+      "address": "3790 Rustic Place, Shoreview, MN 55126",
+      "recommendation": "Affordable sold restoration reference with authentic wood-and-beam interior and verified water view.",
+      "status": "Sold reference",
+      "price": 460000,
+      "priceBasis": "Sold May8,2026; listed448000March9,2026; pendingMarch12. Redfin confirmed exactsale date. Pederson incorrectly labels pending date as soldDate in embeddeddata; useRedfin.",
+      "mls": "7034869",
+      "yearBuilt": 1958,
+      "sqft": 2692,
+      "bedrooms": 4,
+      "bathrooms": 2.5,
+      "acres": 0.533,
+      "coordinates": [
+        45.05604201,
+        -93.10681095
+      ],
+      "architecture": "Original midcentury with wood-plank ceilings, exposed beams, brick fireplace and extensive natural woodwork; no named architect verified.",
+      "water": "West Vadnais Lake clearly seen from living-room glass and back deck in leaf-off photos. Summer view may be more screened. Listed lakeview; not waterfront.",
+      "bonuses": {
+        "study": "Wood-paneled room with shelves inspected inphoto25; room label unverified so describe as study potential, not confirmed separate library.",
+        "workshop": "Listing explicitly says oversized garage with additional workshop; photo35 individually inspected.",
+        "garden": "Wooded.53acre lot; productive gardens not verified.",
+        "renewables": "No solar/off-grid system confirmed.",
+        "waterAccess": "No deeded/private access confirmed."
+      },
+      "caveats": [
+        "SoldMay2026,notavailableinventory.",
+        "Listing explicitly says needs updating and seller will make no repairs; condition after sale unverified.",
+        "Water views are proven in bare-tree photos, not summer.",
+        "MLS2692sf differs frompublicrecord2352sf; useMLSlabel."
+      ],
+      "sources": {
+        "listing": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "saleAndWorkshop": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+        "detailedMLS": "https://www.themlsonline.com/minnesota-real-estate/listings/property/7034869/3790-Rustic-Place-Shoreview-MN-55126"
+      },
+      "photos": [
+        {
+          "index": 37,
+          "url": "https://cdn.repliers.io/northstar/IMG-7034869_37.jpg",
+          "path": "/private/tmp/water-north-20261102/rustic-specific/37.jpg",
+          "caption": "Rear exterior with large windows and deck",
+          "individually_inspected": true
+        },
+        {
+          "index": 4,
+          "url": "https://cdn.repliers.io/northstar/IMG-7034869_4.jpg",
+          "path": "/private/tmp/water-north-20261102/rustic-specific/04.jpg",
+          "caption": "Timber-ceiling living room with water visible",
+          "individually_inspected": true
+        },
+        {
+          "index": 15,
+          "url": "https://cdn.repliers.io/northstar/IMG-7034869_15.jpg",
+          "path": "/private/tmp/water-north-20261102/rustic-specific/15.jpg",
+          "caption": "Lake view from deck through leafless trees",
+          "individually_inspected": true
+        },
+        {
+          "index": 25,
+          "url": "https://cdn.repliers.io/northstar/IMG-7034869_25.jpg",
+          "path": "/private/tmp/water-north-20261102/rustic-specific/25.jpg",
+          "caption": "Wood-paneled room with shelves",
+          "individually_inspected": true
+        },
+        {
+          "index": 35,
+          "url": "https://cdn.repliers.io/northstar/IMG-7034869_35.jpg",
+          "path": "/private/tmp/water-north-20261102/rustic-specific/35.jpg",
+          "caption": "Garage workshop area",
+          "individually_inspected": true
+        }
+      ]
+    }
+  },
+  {
+    "id": "sankaku",
+    "verified": true,
+    "verifiedAt": "2026-11-02",
+    "url": "https://www.realtor.com/realestateandhomes-detail/15709-James-Ave-S_Burnsville_MN_55306_M70996-73501",
+    "sourceAddressText": "15709 James Ave S, Burnsville, MN",
+    "status": "Sold reference",
+    "price": 591400,
+    "priceLabel": "Zillow estimate · 2026",
+    "photoUrl": "https://live.staticflickr.com/6162/6238904767_f36f0ba184_c.jpg",
+    "localPhoto": "public/photos/sankaku-exterior.jpg",
+    "photoCredit": "Thompson Photography / Flickr · 2011 architectural tour",
+    "visuallyInspected": true,
+    "gallery": [
+      {
+        "localPhoto": "public/photos/sankaku-exterior.jpg",
+        "photoUrl": "https://live.staticflickr.com/6162/6238904767_f36f0ba184_c.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6238904767/in/album-72157627921494488",
+        "caption": "Lakefront view of 'Sankaku' · 2011 photograph",
+        "visuallyInspected": true,
+        "sha256": "2f1c7a145cc619e65cfc7e9a7e772526989e279a2ce78c2a1377cc4d22d7630c"
+      },
+      {
+        "localPhoto": "public/photos/sankaku-loft.jpg",
+        "photoUrl": "https://live.staticflickr.com/6170/6240547087_87ee4eae64_h.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6240547087/in/album-72157627921494488",
+        "caption": "Loft space in 'Sankaku' · 2011 photograph",
+        "visuallyInspected": true,
+        "sha256": "afd3a4f1d76f2ae11d38a9183620acd45b887edcdfdfb653f1c8d697855bb8f0"
+      },
+      {
+        "localPhoto": "public/photos/sankaku-living.jpg",
+        "photoUrl": "https://live.staticflickr.com/6102/6243903806_281be094b1_b.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6243903806/in/album-72157627921494488",
+        "caption": "View into living room at 'Sankaku' · 2011 photograph",
+        "visuallyInspected": true,
+        "sha256": "bff6d07b2e90334e69a3b8c6d1b087c41e93e903296cb443dfac56208ab26175"
+      },
+      {
+        "localPhoto": "public/photos/sankaku-dining.jpg",
+        "photoUrl": "https://live.staticflickr.com/6113/6239566573_3ed31ee259_h.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6239566573/in/album-72157627921494488",
+        "caption": "Dining area in 'Sankaku' · 2011 photograph",
+        "visuallyInspected": true,
+        "sha256": "d0b612f928f53ebda27b3a1014333431952c20c224d60f6d05377a2afd587640"
+      },
+      {
+        "localPhoto": "public/photos/sankaku-water.jpg",
+        "photoUrl": "https://live.staticflickr.com/6108/6251710085_75cfdace4e.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6251710085/in/album-72157627921494488",
+        "caption": "View from balcony, 'Sankaku' · 2011 photograph",
+        "visuallyInspected": true,
+        "sha256": "58e1f83acbfb79ee0e24cacd8b261665ea5ffd5cf8fc4650c28385b2603f3794"
+      }
+    ],
+    "evidence": "Exact-address listing, architecture and water photographs individually verified in Nov 2 research. Rustic gallery is from its 2026 MLS listing; Sankaku gallery is from a matching 2011 architectural tour, corroborated against exact-address MLS exterior photographs. Historical photos do not establish current condition.",
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov 2 for Wed Nov 4, 2026: arrive 11 a.m., 24–40 minutes via I-35W N (21.6 miles); depart 2 p.m., 28–40 minutes via I-35W S (21.3 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=15709+James+Ave+S%2C+Burnsville%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-02",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=15709+James+Ave+S%2C+Burnsville%2C+MN&travelmode=driving"
+    },
+    "research": {
+      "address": "15709 James Ave S, Burnsville, MN 55306",
+      "name": "Sankaku — John and Lu Howe House",
+      "status": "Off market; last MLS sale March 30, 2010. Architectural reference only.",
+      "price": 591400,
+      "priceBasis": "Zillow Zestimate displayed on exact address page retrieved November 2, 2026; web cache 4 months old. Not an asking price.",
+      "soldPrice": 530000,
+      "soldDate": "2010-03-30",
+      "beds": 2,
+      "baths": 1.5,
+      "sqft": 1914,
+      "acres": 2.34,
+      "year": "1971 architecture history; 1972 real estate records",
+      "architect": "John H. Howe; own residence",
+      "listingUrl": "https://www.realtor.com/realestateandhomes-detail/15709-James-Ave-S_Burnsville_MN_55306_M70996-73501",
+      "zillowUrl": "https://www.zillow.com/homedetails/15709-James-Ave-S-Burnsville-MN-55306/1615234_zpid/",
+      "architecturalSources": [
+        "https://www.larrymillett.com/_files/ugd/7b841a_08f4d0622024422eac7f2854153c9e89.pdf",
+        "https://edinamag.com/three-historic-homes-architect-john-howe/"
+      ],
+      "water": "Horseshoe Lake/small pond. Actual water visible from loft, living-level windows, and balcony in 2011 architectural-tour photos. Wooded hillside descends directly toward lake.",
+      "photoSource": "https://www.flickr.com/photos/thompsonphotography1/albums/72157627921494488/",
+      "verification": "Viewed two MLS exterior photos on exact Realtor address and five matching architectural-tour photos. Matching triangular balcony, brick chimney/pier, wood walls and roof geometry connect MLS photos to Sankaku album. Water shown directly from inside the house, not merely aerial proximity.",
+      "photos": {
+        "listingExterior": "/private/tmp/water-south-20261102/sankaku-front.webp",
+        "listingExterior2": "/private/tmp/water-south-20261102/sankaku-2.webp",
+        "exterior": "/private/tmp/water-south-20261102/sankaku-flickr-2.jpg",
+        "lakeViewFromInside": "/private/tmp/water-south-20261102/sankaku-flickr-4.jpg",
+        "lakeViewFromBalcony": "/private/tmp/water-south-20261102/sankaku-flickr-16.jpg",
+        "livingRoom": "/private/tmp/water-south-20261102/sankaku-flickr-7.jpg",
+        "woodDiningRoom": "/private/tmp/water-south-20261102/sankaku-flickr-3.jpg"
+      },
+      "bonuses": {
+        "water": "Verified direct lake view and lakeshore setting; legal boating/access rights unverified.",
+        "studyLibrary": "Distinctive loft visible, usable as reading/desk space inferred; no formally documented study/library.",
+        "renewables": "No verified renewables.",
+        "workshop": "No verified workshop.",
+        "gardens": "2.34 wooded acres; no maintained food/flower gardens verified."
+      },
+      "caveats": [
+        "Only 2 bedrooms and 1.5 baths.",
+        "Not for sale; photos from 2010 listing and 2011 architectural tour, so current condition is unverified.",
+        "Zestimate is an estimate, not an offer or asking price.",
+        "Realtor public record September 2010 says $265K while March 2010 MLS and Zillow say $530K. Use Zestimate/MLS basis and do not claim verified reason for discrepancy.",
+        "Parent to verify commute."
+      ]
+    }
   }
 ]

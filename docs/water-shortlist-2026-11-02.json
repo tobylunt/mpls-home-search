@@ -1,0 +1,98 @@
+{
+  "checkedOn": "2026-11-02",
+  "shortlisted": [
+    {
+      "id": "rustic",
+      "address": "3790 Rustic Place",
+      "userPreference": "Hidden gem / good value buy; lower-budget restoration option."
+    },
+    {
+      "id": "sankaku",
+      "address": "15709 James Ave S",
+      "userPreference": "AMAZING; shortlist."
+    }
+  ],
+  "passed": [
+    {
+      "address": "7831 50th Street N, Lake Elmo",
+      "userPreference": "Cool house, but not worth the original $1.1M asking price to the user. Do not add based on this search.",
+      "originalAsk": 1100000,
+      "soldPrice": 975000,
+      "soldDate": "2026-06-12",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/lake-elmo/7831-50th-street-n/pid_70890980/"
+    }
+  ],
+  "commuteVerification": {
+    "source": "Google Maps browser UI observed 2026-11-02",
+    "destination": "McKnight Foundation,921 Washington Ave S,Minneapolis MN55415",
+    "scenario": {
+      "date": "2026-11-04",
+      "arriveBy": "11:00 AM",
+      "returnDepartAt": "2:00 PM",
+      "timezone": "America/Chicago"
+    },
+    "results": [
+      {
+        "address": "4380 Reiland Lane,Shoreview",
+        "inboundMinutes": [
+          16,
+          22
+        ],
+        "returnMinutes": [
+          18,
+          24
+        ],
+        "inboundMiles": 13.7,
+        "returnMiles": 13.4,
+        "route": "I-35W",
+        "mapUrl": "https://www.google.com/maps/dir/4380+Reiland+Ln,+Shoreview,+MN+55126/921+Washington+Ave+S,+Minneapolis,+MN+55415/"
+      },
+      {
+        "address": "3790 Rustic Place,Shoreview",
+        "inboundMinutes": [
+          16,
+          20
+        ],
+        "returnMinutes": [
+          16,
+          22
+        ],
+        "inboundMiles": 14.3,
+        "returnMiles": 14.1,
+        "route": "I-694/I-35W",
+        "mapUrl": "https://www.google.com/maps/dir/3790+Rustic+Pl,+Shoreview,+MN+55126/921+Washington+Ave+S,+Minneapolis,+MN+55415/"
+      },
+      {
+        "address": "7831 50th Street N,Lake Elmo",
+        "inboundMinutes": [
+          20,
+          26
+        ],
+        "returnMinutes": [
+          20,
+          30
+        ],
+        "inboundMiles": 17.6,
+        "returnMiles": 17.2,
+        "route": "MN-36",
+        "mapUrl": "https://www.google.com/maps/dir/7831+50th+St+N,+Lake+Elmo,+MN+55042/921+Washington+Ave+S,+Minneapolis,+MN+55415/"
+      },
+      {
+        "address": "15709 James Ave S,Burnsville",
+        "inboundMinutes": [
+          24,
+          40
+        ],
+        "returnMinutes": [
+          28,
+          40
+        ],
+        "inboundMiles": 21.6,
+        "returnMiles": 21.3,
+        "route": "I-35W",
+        "mapUrl": "https://www.google.com/maps/dir/15709+James+Ave+S,+Burnsville,+MN+55306/921+Washington+Ave+S,+Minneapolis,+MN+55415/"
+      }
+    ]
+  },
+  "photoNotes": "Sankaku uses historical Thompson Photography architectural-tour photos from 2011; current condition unverified. Rustic uses verified 2026 NorthstarMLS photographs."
+}

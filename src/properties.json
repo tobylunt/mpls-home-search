@@ -1305,5 +1305,121 @@
         "caption": "Separate study with long built-in desk, shelves, drawers and task lighting. 2020 listing photo."
       }
     ]
+  },
+  {
+    "id": "sankaku",
+    "address": "15709 James Ave S",
+    "city": "Burnsville",
+    "price": 591400,
+    "priceLabel": "Zillow estimate · 2026",
+    "status": "Sold reference",
+    "style": "John Howe organic modern",
+    "reaction": "Loved",
+    "shortlisted": true,
+    "year": 1971,
+    "sqft": 1914,
+    "lat": 44.718673,
+    "lng": -93.300166,
+    "description": "Sankaku, John Howe’s own home on 2.34 wooded acres above Horseshoe Lake. Triangular windows, warm woodwork, built-in seating and a loft looking directly over the water.",
+    "context": "“AMAZING.” Off market; last MLS sale was $530,000 in March 2010. Displayed price is a Zillow estimate from a cached 2026 page, not an asking price. Two bedrooms, 1.5 baths. Gallery photos are from a 2011 architectural tour; current condition is unknown. Built in 1971 per architectural history; property records say 1972. Off-peak to McKnight: 24–40 minutes; 28–40 minutes home.",
+    "url": "https://www.realtor.com/realestateandhomes-detail/15709-James-Ave-S_Burnsville_MN_55306_M70996-73501",
+    "verifiedOn": "2026-11-02",
+    "locationSource": "Google Maps exact-address place pin · Nov 2, 2026",
+    "photo": {
+      "src": "/photos/sankaku-exterior.jpg",
+      "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6238904767/in/album-72157627921494488",
+      "credit": "Thompson Photography / Flickr · 2011 architectural tour",
+      "caption": "Lakefront view of 'Sankaku' · 2011 photograph"
+    },
+    "gallery": [
+      {
+        "src": "/photos/sankaku-exterior.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6238904767/in/album-72157627921494488",
+        "credit": "Thompson Photography / Flickr · 2011 architectural tour",
+        "caption": "Lakefront view of 'Sankaku' · 2011 photograph"
+      },
+      {
+        "src": "/photos/sankaku-loft.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6240547087/in/album-72157627921494488",
+        "credit": "Thompson Photography / Flickr · 2011 architectural tour",
+        "caption": "Loft space in 'Sankaku' · 2011 photograph"
+      },
+      {
+        "src": "/photos/sankaku-living.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6243903806/in/album-72157627921494488",
+        "credit": "Thompson Photography / Flickr · 2011 architectural tour",
+        "caption": "View into living room at 'Sankaku' · 2011 photograph"
+      },
+      {
+        "src": "/photos/sankaku-dining.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6239566573/in/album-72157627921494488",
+        "credit": "Thompson Photography / Flickr · 2011 architectural tour",
+        "caption": "Dining area in 'Sankaku' · 2011 photograph"
+      },
+      {
+        "src": "/photos/sankaku-water.jpg",
+        "sourceUrl": "https://www.flickr.com/photos/thompsonphotography1/6251710085/in/album-72157627921494488",
+        "credit": "Thompson Photography / Flickr · 2011 architectural tour",
+        "caption": "View from balcony, 'Sankaku' · 2011 photograph"
+      }
+    ]
+  },
+  {
+    "id": "rustic",
+    "address": "3790 Rustic Place",
+    "city": "Shoreview",
+    "price": 460000,
+    "priceLabel": "Sold May 8, 2026",
+    "status": "Sold reference",
+    "style": "Mid-century",
+    "reaction": "Restoration option",
+    "shortlisted": true,
+    "year": 1958,
+    "sqft": 2692,
+    "lat": 45.0560103,
+    "lng": -93.1068223,
+    "description": "Lower-budget restoration option. Original timber ceilings, exposed beams, brick fireplaces and West Vadnais Lake views. Oversized garage with a separate workshop area.",
+    "context": "Shortlisted as a hidden gem and potential value buy. Sold for $460,000 in May 2026. Four bedrooms, 2.5 baths on 0.53 acre. The listing said it needed updating; current condition is unverified. Water views are confirmed in leaf-off photos; summer visibility and private water access are unverified. Off-peak to McKnight: 16–20 minutes; 16–22 minutes home.",
+    "url": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+    "verifiedOn": "2026-11-02",
+    "locationSource": "Google Maps exact-address place pin · Nov 2, 2026",
+    "photo": {
+      "src": "/photos/rustic-exterior.jpg",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+      "credit": "RE/MAX Results / NorthstarMLS via Pederson Realty",
+      "caption": "Rear exterior with large windows and deck"
+    },
+    "gallery": [
+      {
+        "src": "/photos/rustic-exterior.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "credit": "RE/MAX Results / NorthstarMLS via Pederson Realty",
+        "caption": "Rear exterior with large windows and deck"
+      },
+      {
+        "src": "/photos/rustic-living.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "credit": "RE/MAX Results / NorthstarMLS via Pederson Realty",
+        "caption": "Timber-ceiling living room with water visible"
+      },
+      {
+        "src": "/photos/rustic-water.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "credit": "RE/MAX Results / NorthstarMLS via Pederson Realty",
+        "caption": "Lake view from deck through leafless trees"
+      },
+      {
+        "src": "/photos/rustic-study.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "credit": "RE/MAX Results / NorthstarMLS via Pederson Realty",
+        "caption": "Wood-paneled room with shelves"
+      },
+      {
+        "src": "/photos/rustic-workshop.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/shoreview/3790-rustic-place/mls-7034869",
+        "credit": "RE/MAX Results / NorthstarMLS via Pederson Realty",
+        "caption": "Garage workshop area"
+      }
+    ]
   }
 ]

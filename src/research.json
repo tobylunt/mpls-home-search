@@ -1497,5 +1497,143 @@
       "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
       "checkedOn": "2026-11-02"
     }
+  },
+  "rustic": {
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street and nearby traffic noise have not been checked in person.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Preserved 1958 midcentury home with exposed timber ceilings, large windows and brick fireplaces; architect not verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Original wood ceilings, beams, cabinetry and brick hearths are visible in the 2026 listing gallery.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "setting": {
+      "verdict": "yes",
+      "detail": "Wooded 0.53-acre lot overlooking West Vadnais Lake.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "West Vadnais Lake views are visible from the living room and deck in leaf-off photos. Summer visibility and private access are unverified.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "library": {
+      "verdict": "unknown",
+      "detail": "Wood-paneled room has shelves and study potential; a separate dedicated library is not documented.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "workshop": {
+      "verdict": "yes",
+      "detail": "Listing explicitly describes additional garage workshop space, also verified in photos. Check power, ventilation and heating.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Wooded grounds are documented; productive gardens are not verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Shoreview, outside southwest Minneapolis.",
+      "sourceUrl": "https://www.redfin.com/MN/Shoreview/3790-Rustic-Pl-55126/home/51145999",
+      "checkedOn": "2026-11-02"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov 2 for Wed Nov 4, 2026: arrive 11 a.m., 16–20 minutes via I-694 W and I-35W S (14.3 miles); depart 2 p.m., 16–22 minutes via I-35W N and I-694 E (14.1 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=3790+Rustic+Place%2C+Shoreview%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-02",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=3790+Rustic+Place%2C+Shoreview%2C+MN&travelmode=driving"
+    }
+  },
+  "sankaku": {
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street and nearby traffic noise have not been checked in person.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "John Howe designed Sankaku for himself and his wife; architectural history corroborates the attribution.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "2011 tour photos show wood paneling, brick, custom lights, built-in seating and triangular window geometry.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "setting": {
+      "verdict": "yes",
+      "detail": "2.34 wooded acres on a slope above Horseshoe Lake; direct water views verified in historical interior and balcony photos.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "Horseshoe Lake views verified from the loft and balcony. Legal private water access and boating rights are unverified.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "library": {
+      "verdict": "unknown",
+      "detail": "The triangular loft could serve as reading or desk space; no dedicated study/library is documented.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "No dedicated workshop verified in the available historical sources.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Wooded grounds are documented; productive gardens are not verified.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal, battery storage or off-grid system verified.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Burnsville, outside southwest Minneapolis.",
+      "sourceUrl": "https://edinamag.com/three-historic-homes-architect-john-howe/",
+      "checkedOn": "2026-11-02"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov 2 for Wed Nov 4, 2026: arrive 11 a.m., 24–40 minutes via I-35W N (21.6 miles); depart 2 p.m., 28–40 minutes via I-35W S (21.3 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=15709+James+Ave+S%2C+Burnsville%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-02",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=15709+James+Ave+S%2C+Burnsville%2C+MN&travelmode=driving"
+    }
   }
 }
