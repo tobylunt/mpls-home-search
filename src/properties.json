@@ -1194,62 +1194,6 @@
     ]
   },
   {
-    "id": "summit1732",
-    "address": "1732 Summit Avenue",
-    "city": "Saint Paul",
-    "price": 789900,
-    "status": "Active",
-    "style": "Arts & Crafts",
-    "reaction": "New find",
-    "description": "Macalester-Groveland. Oak-coffered dining room, ornate leaded glass, carved buffet, intact pantry cabinetry and a wraparound porch. Listing attributes the design to P.J. Linhoff.",
-    "context": "Five bedrooms, three baths on 0.25 acre. Listed June 2026. No air conditioning listed. Summit Avenue frontage warrants a traffic-noise check. Off-peak to McKnight: 12–18 minutes; return 12–16.",
-    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
-    "year": 1909,
-    "sqft": 3000,
-    "lat": 44.941063,
-    "lng": -93.173979,
-    "locationSource": "NorthstarMLS 7095443 exact-address listing coordinates via Pederson Realty · Nov 2, 2026",
-    "verifiedOn": "2026-11-02",
-    "photo": {
-      "src": "/photos/summit-linhoff-exterior.jpg",
-      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
-      "credit": "NorthstarMLS #7095443 / Coldwell Banker Realty – Southwest Regional",
-      "caption": "Street exterior and wraparound porch"
-    },
-    "gallery": [
-      {
-        "src": "/photos/summit-linhoff-exterior.jpg",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
-        "credit": "NorthstarMLS #7095443 / Coldwell Banker Realty – Southwest Regional",
-        "caption": "Street exterior and wraparound porch"
-      },
-      {
-        "src": "/photos/summit-linhoff-dining.jpg",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
-        "credit": "NorthstarMLS #7095443 / Coldwell Banker Realty – Southwest Regional",
-        "caption": "Oak-coffered dining room and leaded-glass windows"
-      },
-      {
-        "src": "/photos/summit-linhoff-buffet.jpg",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
-        "credit": "NorthstarMLS #7095443 / Coldwell Banker Realty – Southwest Regional",
-        "caption": "Carved buffet and glass-front cabinetry"
-      },
-      {
-        "src": "/photos/summit-linhoff-pantry.jpg",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
-        "credit": "NorthstarMLS #7095443 / Coldwell Banker Realty – Southwest Regional",
-        "caption": "Pantry cabinetry"
-      },
-      {
-        "src": "/photos/summit-linhoff-living.jpg",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
-        "credit": "NorthstarMLS #7095443 / Coldwell Banker Realty – Southwest Regional",
-        "caption": "Living room fireplace and built-in bookcases"
-      }
-    ]
-  },
-  {
     "id": "berkeley1663",
     "address": "1663 Berkeley Avenue",
     "city": "Saint Paul",
@@ -1302,62 +1246,6 @@
         "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
         "credit": "NorthstarMLS #7155110 / Coldwell Banker Realty",
         "caption": "Garage workbench and open floor area"
-      }
-    ]
-  },
-  {
-    "id": "eleanor1755",
-    "address": "1755 Eleanor Avenue",
-    "city": "Saint Paul",
-    "price": 675000,
-    "status": "Active",
-    "style": "Spanish Revival",
-    "reaction": "New find",
-    "description": "Highland Park. Spanish-influenced 1930 house with a stained-glass entry, iron stair railing, stone fireplace and original tiled bathroom. Separate shed has electricity.",
-    "context": "Four bedrooms, two baths; 2,097 sq ft on a corner lot. Original details with dated finishes: an update project. Window-unit cooling; appliances not included. Off-peak to McKnight: 14–22 minutes each way.",
-    "url": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
-    "year": 1930,
-    "sqft": 2097,
-    "lat": 44.9208984,
-    "lng": -93.1744283,
-    "locationSource": "Google Maps exact-address place pin · Nov 2, 2026",
-    "verifiedOn": "2026-11-02",
-    "photo": {
-      "src": "/photos/eleanor-spanish-exterior.jpg",
-      "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
-      "credit": "Spacecrafting / Coldwell Banker Realty listing tour",
-      "caption": "Street exterior"
-    },
-    "gallery": [
-      {
-        "src": "/photos/eleanor-spanish-exterior.jpg",
-        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
-        "credit": "Spacecrafting / Coldwell Banker Realty listing tour",
-        "caption": "Street exterior"
-      },
-      {
-        "src": "/photos/eleanor-spanish-stair.jpg",
-        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
-        "credit": "Spacecrafting / Coldwell Banker Realty listing tour",
-        "caption": "Iron stair railing, archway and living room"
-      },
-      {
-        "src": "/photos/eleanor-spanish-entry.jpg",
-        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
-        "credit": "Spacecrafting / Coldwell Banker Realty listing tour",
-        "caption": "Wood-paneled entry and stained-glass door"
-      },
-      {
-        "src": "/photos/eleanor-spanish-bath.jpg",
-        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
-        "credit": "Spacecrafting / Coldwell Banker Realty listing tour",
-        "caption": "Original tiled bathroom"
-      },
-      {
-        "src": "/photos/eleanor-spanish-kitchen.jpg",
-        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
-        "credit": "Spacecrafting / Coldwell Banker Realty listing tour",
-        "caption": "Kitchen and pantry passage"
       }
     ]
   }
