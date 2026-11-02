@@ -18,7 +18,7 @@ export function isSaved(p: Property, review?: Review): boolean {
 export function reviewFor(p: Property, review: Review = {}): Review {
  return {...review, checks:{...Object.fromEntries(Object.entries(p.research??{}).map(([id,e])=>[id,e.verdict])),...review.checks}};
 }
-const knownPropertyIds = new Set([...properties.map(p=>p.id), "walnut", "hobe", "decatur", "luverne", "glenhurst", "shore", "humboldt", "woodlawn", "turnpike", "keston", "virginia", "cedar", "benhill", "ewing", "summit", "croix", "goodrich", "knox", "kyle", "orchard", "normandale", "bridgeview", "knoll", "colfax", "moritz", "minnetonka", "linwood", "hopkins", "ricecreek", "holly458", "oak", "sixthstillwater", "williston4919", "wildwings"]);
+const knownPropertyIds = new Set([...properties.map(p=>p.id), "walnut", "hobe", "decatur", "luverne", "glenhurst", "shore", "humboldt", "woodlawn", "turnpike", "keston", "virginia", "cedar", "benhill", "ewing", "summit", "croix", "goodrich", "knox", "kyle", "orchard", "normandale", "bridgeview", "knoll", "colfax", "moritz", "minnetonka", "linwood", "hopkins", "ricecreek", "holly458", "oak", "sixthstillwater", "williston4919", "wildwings", "wyoming"]);
 export const initial: State = {version:1, budget:1000000, reviews:{hobe:{favorite:true}}, criteria:[
  {id:'quiet',name:'Quiet street',tier:'Must-have',detail:'No busy arterial. Visit at rush hour and in the evening; listen for traffic and nearby activity.',weight:1},
  {id:'architecture',name:'Architectural interest',tier:'Must-have',detail:'Distinctive spaces, form or craftsmanship. Hobe Lane is the benchmark. A famous architect is optional.',weight:1},

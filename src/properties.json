@@ -771,30 +771,6 @@
     "matchedAddress": "23845 POMROY AVE N, SCANDIA, MN, 55073"
   },
   {
-    "id": "wyoming",
-    "address": "6640 215th Avenue NE",
-    "city": "Wyoming",
-    "price": 950000,
-    "status": "Sold reference",
-    "style": "Timber-frame",
-    "reaction": "New find",
-    "description": "White-oak timber frame, a two-story great room and a tall brick hearth beside Linwood Lake.",
-    "context": "Sold June 9, 2022 for $950,000. 3 bedrooms, 3 baths on 2.5 acres with 189 feet of lake frontage. Historical listing photos show the frame clearly; this is a farther-out lake-home reference.",
-    "url": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
-    "year": 1985,
-    "sqft": 3504,
-    "lat": 45.360192433091,
-    "lng": -93.100213138542,
-    "locationSource": "US Census street-range geocoder · Oct 30, 2026",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/wyoming-exterior.jpg",
-      "sourceUrl": "https://www.redfin.com/MN/Wyoming/6640-215th-Ave-NE-55092/home/50943533",
-      "credit": "Edina Realty, Inc. / NorthstarMLS via Redfin"
-    },
-    "matchedAddress": "6640 215TH AVE NE, WYOMING, MN, 55092"
-  },
-  {
     "id": "birch-bluff",
     "address": "55 Birch Bluff Road",
     "city": "Tonka Bay",

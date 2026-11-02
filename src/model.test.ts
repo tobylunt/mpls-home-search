@@ -38,7 +38,8 @@ describe('transparent rubric',()=>{
   expect(parseState(migrated)).toEqual(migrated);
  });
  it('uses researched bonuses without overwriting personal ratings or notes',()=>{
-  const p=properties.find(p=>p.id==='wyoming')!;
+  const evidence={verdict:'yes' as const,detail:'Verified test evidence',sourceUrl:'https://example.com/listing',checkedOn:'2026-10-30'};
+  const p={...unassessedHome,research:{water:evidence,workshop:evidence}};
   expect(assess(p).earned).toBe(10);
   const personal={notes:'Ask about dust collection',favorite:true,checks:{water:'no' as const,workshop:'unknown' as const}};
   const merged=reviewFor(p,personal);
