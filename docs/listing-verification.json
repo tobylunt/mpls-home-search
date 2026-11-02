@@ -1866,5 +1866,205 @@
         "visuallyInspected": true
       }
     ]
+  },
+  {
+    "id": "diane",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Hopkins/4941-Diane-Dr-55343/home/51459327",
+    "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/hd/ZfpudLuNnl1aTKbUUNNj8A.jpg",
+    "localPhoto": "public/photos/diane-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Spacecrafting / MLS listing tour",
+    "sourceAddressText": "4941 Diane Drive, Minnetonka, MN",
+    "evidence": "Exact-address MLS6654592 Pederson page embeds virtualTourUrl https://tours.spacecrafting.com/n-m3g16z. Live tour title identifies4941DianeDriveHopkinsMN55343. All68largephotos downloaded and contact-sheet inspected; selected5 individually inspected. SelectedhdURLs are directly present in same tourHTML. Current listing photos are historical condition, not new photography.",
+    "verifiedAt": "2026-11-01",
+    "mls": "6654592",
+    "status": "Sold reference",
+    "price": 948000,
+    "soldDate": "2025-04-16",
+    "gallery": [
+      {
+        "localPhoto": "public/photos/diane-exterior.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/hd/ZfpudLuNnl1aTKbUUNNj8A.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-m3g16z",
+        "caption": "Street exterior and post-and-beam roofline",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/diane-living.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/hd/x5KMkLBKdOafJfTuZooCKg.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-m3g16z",
+        "caption": "Main living room with exposed wood structure and lake-facing glass",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/diane-study.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/hd/fFFr4M1aY-z3WyOVO42Haw.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-m3g16z",
+        "caption": "Study with wood cabinetry, shelving and lake outlook",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/diane-lounge.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/hd/DD0FlIdbn4ZgvXwAbhAKrg.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-m3g16z",
+        "caption": "Lower fireplace lounge with wood ceiling and built-in shelves",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/diane-setting.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/hd/qxkbUWM4-gVdpwEIHl6JSQ.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-m3g16z",
+        "caption": "Aerial showing the wooded setting beside Shady Oak Lake",
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://pedersonrealty.com/homes-for-sale/mn/hopkins/4941-diane-drive/mls-6654592",
+      "https://tours.spacecrafting.com/n-m3g16z"
+    ],
+    "commute": {
+      "inbound": "20–30",
+      "return": "22–35",
+      "inboundMiles": 14.5,
+      "returnMiles": 15.0,
+      "inboundRoute": "US-169 N",
+      "returnRoute": "I-394 W",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=4941+Diane+Drive%2C+Minnetonka%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=4941+Diane+Drive%2C+Minnetonka%2C+MN&travelmode=driving",
+      "checkedOn": "2026-11-01",
+      "scenario": "Wednesday November 4, 2026; arrive 11 a.m. at McKnight, depart 2 p.m.; Google Maps typical driving ranges inspected in the browser."
+    }
+  },
+  {
+    "id": "williston4919",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+    "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/d10138fddaaa206c880567bb183775ff-full.jpg",
+    "localPhoto": "public/photos/williston-craftsman-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Laura L. Berger, Coldwell Banker Realty / NorthstarMLS via Trulia",
+    "sourceAddressText": "4919 Williston Road, Minnetonka, MN",
+    "evidence": "Only URLs from exact-address Trulia __NEXT_DATA__.props.homeDetails.media.photos; image files fetched successfully and individually visually inspected. No generated, stock or guessed photos.",
+    "verifiedAt": "2026-11-01",
+    "mls": "7110342",
+    "status": "Sold reference",
+    "price": 765000,
+    "soldDate": "2026-08-07",
+    "gallery": [
+      {
+        "localPhoto": "public/photos/williston-craftsman-exterior.jpg",
+        "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/d10138fddaaa206c880567bb183775ff-full.jpg",
+        "sourceUrl": "https://www.trulia.com/home/4919-williston-rd-minnetonka-mn-55345-1952849",
+        "caption": "Daytime gabled exterior across lawn; original Craftsman form and wood trim.",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/williston-craftsman-living.jpg",
+        "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/6a34b5649de48541ee596ec5d200e288-full.jpg",
+        "sourceUrl": "https://www.trulia.com/home/4919-williston-rd-minnetonka-mn-55345-1952849",
+        "caption": "Living-room brick fireplace flanked by built-in bookcases, warm wood trim and divided-light upper windows.",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/williston-craftsman-dining.jpg",
+        "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/194a506e4f70a2226fa7b58b28efd694-full.jpg",
+        "sourceUrl": "https://www.trulia.com/home/4919-williston-rd-minnetonka-mn-55345-1952849",
+        "caption": "Dining-room glass-front built-in cabinet and woodwork.",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/williston-craftsman-great-room.jpg",
+        "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/dc8d4167eec9a89d2896d21012f33caf-full.jpg",
+        "sourceUrl": "https://www.trulia.com/home/4919-williston-rd-minnetonka-mn-55345-1952849",
+        "caption": "Great room with wood paneling, fireplace and hardwood floor.",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/williston-craftsman-garage.jpg",
+        "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/53936ad3d3b5995eef5f8fa8c18d0ef2-full.jpg",
+        "sourceUrl": "https://www.trulia.com/home/4919-williston-rd-minnetonka-mn-55345-1952849",
+        "caption": "Detached oversized garage with upper level; workshop use is potential, not verified setup.",
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+      "https://www.trulia.com/home/4919-williston-rd-minnetonka-mn-55345-1952849"
+    ],
+    "commute": {
+      "inbound": "18–26",
+      "return": "20–28",
+      "inboundMiles": 16.6,
+      "returnMiles": 16.7,
+      "inboundRoute": "I-394 E",
+      "returnRoute": "I-394 W",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=4919+Williston+Road%2C+Minnetonka%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=4919+Williston+Road%2C+Minnetonka%2C+MN&travelmode=driving",
+      "checkedOn": "2026-11-01",
+      "scenario": "Wednesday November 4, 2026; arrive 11 a.m. at McKnight, depart 2 p.m.; Google Maps typical driving ranges inspected in the browser."
+    }
+  },
+  {
+    "id": "wildwings",
+    "verified": true,
+    "url": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+    "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/c618977fadf9733af89c8c5d1b5378fe-full.jpg",
+    "localPhoto": "public/photos/wildwings-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Jim Schwarz, Lakes Sotheby's International / NorthstarMLS via Trulia",
+    "sourceAddressText": "15300 Wild Wings, Minnetonka, MN",
+    "evidence": "Only URLs from exact-address Trulia __NEXT_DATA__.props.homeDetails.media.photos; image files fetched successfully and individually visually inspected. No generated, stock or guessed photos.",
+    "verifiedAt": "2026-11-01",
+    "mls": "7139391",
+    "status": "Active",
+    "price": 999000,
+    "soldDate": null,
+    "gallery": [
+      {
+        "localPhoto": "public/photos/wildwings-exterior.jpg",
+        "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/c618977fadf9733af89c8c5d1b5378fe-full.jpg",
+        "sourceUrl": "https://www.trulia.com/home/15300-wild-wings-minnetonka-mn-55345-2003365",
+        "caption": "Front exterior, daytime; cedar roof, stone chimneys and wooded approach.",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/wildwings-living.jpg",
+        "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/d022b052d8fe998838b216cea65ce47a-full.jpg",
+        "sourceUrl": "https://www.trulia.com/home/15300-wild-wings-minnetonka-mn-55345-2003365",
+        "caption": "Window-lined living room with central stone fireplace.",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/wildwings-terrace.jpg",
+        "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/ad1f9c8d5d6e8b5b6de04f3098c1864c-full.jpg",
+        "sourceUrl": "https://www.trulia.com/home/15300-wild-wings-minnetonka-mn-55345-2003365",
+        "caption": "Rear architecture, terraces and pool within mature trees.",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/wildwings-study.jpg",
+        "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/3aca9794aa72cbf9a5121c7106a09c9c-full.jpg",
+        "sourceUrl": "https://www.trulia.com/home/15300-wild-wings-minnetonka-mn-55345-2003365",
+        "caption": "Dedicated lower-level office with desk and fireplace; not a library.",
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+      "https://www.trulia.com/home/15300-wild-wings-minnetonka-mn-55345-2003365"
+    ],
+    "commute": {
+      "inbound": "22–35",
+      "return": "22–35",
+      "inboundMiles": 17.9,
+      "returnMiles": 18.1,
+      "inboundRoute": "MN-62 E and I-35W N",
+      "returnRoute": "I-35W S and MN-62 W",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=15300+Wild+Wings%2C+Minnetonka%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=15300+Wild+Wings%2C+Minnetonka%2C+MN&travelmode=driving",
+      "checkedOn": "2026-11-01",
+      "scenario": "Wednesday November 4, 2026; arrive 11 a.m. at McKnight, depart 2 p.m.; Google Maps typical driving ranges inspected in the browser."
+    }
   }
 ]

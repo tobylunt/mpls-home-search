@@ -1014,5 +1014,212 @@
       "checkedOn": "2026-10-31",
       "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Avenue+S%2C+Minneapolis%2C+MN+55415&destination=1016+Goodrich+Avenue%2C+Saint+Paul%2C+MN+55105&travelmode=driving"
     }
+  },
+  "diane": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Robert Egge–designed home with exposed wood structure, clerestory windows, lake-facing glass, a fitted study and a wood-ceiling fireplace lounge.",
+      "sourceUrl": "https://www.redfin.com/MN/Hopkins/4941-Diane-Dr-55343/home/51459327",
+      "checkedOn": "2026-11-01"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Exposed structural wood, natural wood cabinetry and wood ceilings visible in the listing gallery.",
+      "sourceUrl": "https://tours.spacecrafting.com/n-m3g16z",
+      "checkedOn": "2026-11-01"
+    },
+    "setting": {
+      "verdict": "yes",
+      "detail": "Half-acre lakeside setting with mature trees and views from living rooms and study.",
+      "sourceUrl": "https://www.redfin.com/MN/Hopkins/4941-Diane-Dr-55343/home/51459327",
+      "checkedOn": "2026-11-01"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise has not been checked in person.",
+      "sourceUrl": "https://www.redfin.com/MN/Hopkins/4941-Diane-Dr-55343/home/51459327",
+      "checkedOn": "2026-11-01"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Minnetonka, outside southwest Minneapolis.",
+      "sourceUrl": "https://www.redfin.com/MN/Hopkins/4941-Diane-Dr-55343/home/51459327",
+      "checkedOn": "2026-11-01"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No installed solar, geothermal or off-grid system verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Hopkins/4941-Diane-Dr-55343/home/51459327",
+      "checkedOn": "2026-11-01"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps typical ranges checked Nov 1 for Wed Nov 4, 2026: arrive at McKnight at 11 a.m., 20–30 minutes via US-169 N (14.5 miles); depart at 2 p.m., 22–35 minutes via I-394 W (15.0 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=4941+Diane+Drive%2C+Minnetonka%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-01",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=4941+Diane+Drive%2C+Minnetonka%2C+MN&travelmode=driving"
+    },
+    "library": {
+      "verdict": "yes",
+      "detail": "Photographed study with wood desk, cabinetry and shelves; may occupy one of the six listed bedrooms.",
+      "sourceUrl": "https://tours.spacecrafting.com/n-m3g16z",
+      "checkedOn": "2026-11-01"
+    },
+    "gardens": {
+      "verdict": "yes",
+      "detail": "2025 listing describes perennial gardens and mature trees. Winter photographs do not establish current summer condition.",
+      "sourceUrl": "https://www.redfin.com/MN/Hopkins/4941-Diane-Dr-55343/home/51459327",
+      "checkedOn": "2026-11-01"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "Lake views verified. The 2022 listing described a private trail to Shady Oak Lake for paddling and fishing; the 2025 listing describes a regional-trail connection. Current shoreline, easement and dock rights are unverified.",
+      "sourceUrl": "https://www.redfin.com/MN/Hopkins/4941-Diane-Dr-55343/home/51459327",
+      "checkedOn": "2026-11-01"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Two-car tuck-under garage; no dedicated workshop verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Hopkins/4941-Diane-Dr-55343/home/51459327",
+      "checkedOn": "2026-11-01"
+    }
+  },
+  "williston4919": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "1925 Craftsman with fireplace bookcases, a glass-front dining built-in and a large wood-paneled great room. Detached heated garage has an upper level with a separate exterior stair.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+      "checkedOn": "2026-11-01"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Original fireplace bookcases, dining-room built-in and substantial wood trim; paneled great room.",
+      "sourceUrl": "https://www.trulia.com/home/4919-williston-rd-minnetonka-mn-55345-1952849",
+      "checkedOn": "2026-11-01"
+    },
+    "setting": {
+      "verdict": "yes",
+      "detail": "Half-acre landscaped lot with mature trees, covered porch, patio and detached garage.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+      "checkedOn": "2026-11-01"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise has not been checked in person.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+      "checkedOn": "2026-11-01"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Minnetonka, outside southwest Minneapolis.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+      "checkedOn": "2026-11-01"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No installed solar, geothermal or off-grid system verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+      "checkedOn": "2026-11-01"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps typical ranges checked Nov 1 for Wed Nov 4, 2026: arrive at McKnight at 11 a.m., 18–26 minutes via I-394 E (16.6 miles); depart at 2 p.m., 20–28 minutes via I-394 W (16.7 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=4919+Williston+Road%2C+Minnetonka%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-01",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=4919+Williston+Road%2C+Minnetonka%2C+MN&travelmode=driving"
+    },
+    "library": {
+      "verdict": "unknown",
+      "detail": "Built-in bookcases flank the living-room fireplace. A separate dedicated study or library is not documented.",
+      "sourceUrl": "https://www.trulia.com/home/4919-williston-rd-minnetonka-mn-55345-1952849",
+      "checkedOn": "2026-11-01"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Landscaping and mature trees are visible; an established garden or productive growing area is not verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+      "checkedOn": "2026-11-01"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No usable lake, river or creek access verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+      "checkedOn": "2026-11-01"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Oversized detached heated garage with water and an upper level/private exterior stair offers workshop or studio potential. No equipped workshop or finished upper-level interior verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/4919-Williston-Rd-55345/home/51471792",
+      "checkedOn": "2026-11-01"
+    }
+  },
+  "wildwings": {
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Charles Stinson–designed home with broad walls of glass, stone fireplaces, a study, pool terraces and mature trees overlooking Wing Lake.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+      "checkedOn": "2026-11-01"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Stone hearths and extensive glazing visible in the gallery; many interiors have a more polished 1990s finish.",
+      "sourceUrl": "https://www.trulia.com/home/15300-wild-wings-minnetonka-mn-55345-2003365",
+      "checkedOn": "2026-11-01"
+    },
+    "setting": {
+      "verdict": "yes",
+      "detail": "0.71 acre with mature trees, terraces, pool and views of Wing Lake.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+      "checkedOn": "2026-11-01"
+    },
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise has not been checked in person.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+      "checkedOn": "2026-11-01"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Minnetonka, outside southwest Minneapolis.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+      "checkedOn": "2026-11-01"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No installed solar, geothermal or off-grid system verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+      "checkedOn": "2026-11-01"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps typical ranges checked Nov 1 for Wed Nov 4, 2026: arrive at McKnight at 11 a.m., 22–35 minutes via MN-62 E and I-35W N (17.9 miles); depart at 2 p.m., 22–35 minutes via I-35W S and MN-62 W (18.1 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=15300+Wild+Wings%2C+Minnetonka%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-01",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=15300+Wild+Wings%2C+Minnetonka%2C+MN&travelmode=driving"
+    },
+    "library": {
+      "verdict": "yes",
+      "detail": "Dedicated lower-level office with a fireplace is photographed; no fitted library verified.",
+      "sourceUrl": "https://www.trulia.com/home/15300-wild-wings-minnetonka-mn-55345-2003365",
+      "checkedOn": "2026-11-01"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Ornamental landscaping is visible; productive growing space or an established garden is not verified.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+      "checkedOn": "2026-11-01"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "Wing Lake views only. No frontage, easement or access rights verified; the swimming pool is not counted as water access.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+      "checkedOn": "2026-11-01"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Four heated garage stalls, but no dedicated workshop documented.",
+      "sourceUrl": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
+      "checkedOn": "2026-11-01"
+    }
   }
 }
