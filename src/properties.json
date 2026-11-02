@@ -711,50 +711,6 @@
     ]
   },
   {
-    "id": "sixthstillwater",
-    "address": "418 6th Street S",
-    "city": "Stillwater",
-    "price": 962000,
-    "status": "Sold reference",
-    "style": "Queen Anne",
-    "reaction": "New find",
-    "description": "Stillwater’s South Hill. An 1896 Queen Anne with a carved staircase beneath three arched stained-glass windows, patterned oak-and-walnut floors and extensive natural woodwork.",
-    "context": "Sold December 2024 for $962,000; historical price, with no current asking price established. 6 bedrooms, 4,601 sq ft and 0.41 acres. Shared driveway. At the commute limit via Highway 36; the I-94 return route runs 35–50 minutes. Google Maps: 28–40 minutes to McKnight; 28–45 minutes home.",
-    "url": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
-    "year": 1896,
-    "sqft": 4601,
-    "lat": 45.051871,
-    "lng": -92.8118464,
-    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/sixthstillwater-exterior.jpg",
-      "caption": "Exterior",
-      "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
-      "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified."
-    },
-    "gallery": [
-      {
-        "src": "/photos/sixthstillwater-exterior.jpg",
-        "caption": "Exterior",
-        "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
-        "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified."
-      },
-      {
-        "src": "/photos/sixthstillwater-stair.jpg",
-        "caption": "Carved staircase and stained glass",
-        "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
-        "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified."
-      },
-      {
-        "src": "/photos/sixthstillwater-floors.jpg",
-        "caption": "Inlaid floors and woodwork",
-        "sourceUrl": "https://www.redfin.com/MN/Stillwater/418-6th-St-S-55082/home/51229188",
-        "credit": "Redfin / NORTHSTARMLS as distributed by MLS Grid #6500281; listing Anne Anderson and Kelly Lehmicke, eXp Realty. Photographer not identified."
-      }
-    ]
-  },
-  {
     "id": "williston",
     "address": "3904 Williston Road",
     "city": "Minnetonka",
