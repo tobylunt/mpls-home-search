@@ -440,50 +440,6 @@
     ]
   },
   {
-    "id": "fairmount832",
-    "address": "832 Fairmount Avenue",
-    "city": "Saint Paul",
-    "price": 739345,
-    "status": "Sold reference",
-    "style": "Victorian",
-    "reaction": "New find",
-    "description": "Summit Hill. Broad natural-wood staircase with a stained-glass landing, tall ceilings, pocket doors, an ornate tiled fireplace and original butler pantry.",
-    "context": "Sold October 16, 2026 for $739,345. 6 bedrooms but only 2 bathrooms. Compact urban lot with neighboring houses close by. Google Maps: 14–18 minutes to McKnight; 12–18 minutes home.",
-    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
-    "year": 1894,
-    "sqft": 2896,
-    "lat": 44.936559,
-    "lng": -93.1352241,
-    "locationSource": "Google Maps exact-address place pin · Oct 30, 2026",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/fairmount-victorian-exterior.jpg",
-      "caption": "Street exterior",
-      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
-      "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified."
-    },
-    "gallery": [
-      {
-        "src": "/photos/fairmount-victorian-exterior.jpg",
-        "caption": "Street exterior",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
-        "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified."
-      },
-      {
-        "src": "/photos/fairmount-victorian-stair.jpg",
-        "caption": "Natural-wood staircase and stained-glass landing",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
-        "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified."
-      },
-      {
-        "src": "/photos/fairmount-victorian-mantel.jpg",
-        "caption": "Carved mantel, tiled fireplace and pocket doors",
-        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/832-fairmount-avenue/mls-7136376",
-        "credit": "Marcy Wengler / Edina Realty, Inc. / NorthstarMLS 7136376. Gallery served by Pederson Realty via Repliers; photographer not identified."
-      }
-    ]
-  },
-  {
     "id": "laurel416",
     "shortlisted": true,
     "address": "416 Laurel Avenue",
