@@ -1013,30 +1013,6 @@
     }
   },
   {
-    "id": "summit",
-    "address": "506 Summit Avenue",
-    "city": "Saint Paul",
-    "price": 975000,
-    "status": "Active",
-    "style": "Historic",
-    "reaction": "Explore",
-    "description": "Stained glass, French doors and formal rooms.",
-    "context": "Historic Summit Avenue home with a library and fenced garden.",
-    "url": "https://www.zillow.com/homedetails/506-Summit-Ave-Saint-Paul-MN-55102/2029003_zpid/",
-    "year": 1900,
-    "sqft": 4716,
-    "lat": 44.941294403106,
-    "lng": -93.121386310123,
-    "locationSource": "US Census street-range geocoder · Oct 29, 2026",
-    "matchedAddress": "506 SUMMIT AVE, SAINT PAUL, MN, 55102",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/summit.jpg",
-      "sourceUrl": "https://www.zillow.com/homedetails/506-Summit-Ave-Saint-Paul-MN-55102/2029003_zpid/",
-      "credit": "Zillow / NorthstarMLS as distributed by MLS GRID6478136"
-    }
-  },
-  {
     "id": "goodrich",
     "address": "2188 Goodrich Avenue",
     "city": "Saint Paul",
