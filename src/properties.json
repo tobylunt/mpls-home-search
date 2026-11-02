@@ -1133,30 +1133,6 @@
     }
   },
   {
-    "id": "linwood",
-    "address": "690 Linwood Avenue",
-    "city": "Saint Paul",
-    "price": 895000,
-    "status": "Active",
-    "style": "Mid-century",
-    "reaction": "Explore",
-    "description": "Parquet floors, indirect lighting and patios toward a wooded lot.",
-    "context": "Crocus Hill, with a wooded lot and outdoor patios.",
-    "url": "https://www.redfin.com/MN/Saint-Paul/690-Linwood-Ave-55105/home/51071487",
-    "year": 1952,
-    "sqft": 3290,
-    "lat": 44.934728610051,
-    "lng": -93.130232714663,
-    "locationSource": "US Census street-range geocoder · Oct 29, 2026",
-    "matchedAddress": "690 LINWOOD AVE, SAINT PAUL, MN, 55105",
-    "verifiedOn": "2026-10-30",
-    "photo": {
-      "src": "/photos/linwood.jpg",
-      "sourceUrl": "https://www.redfin.com/MN/Saint-Paul/690-Linwood-Ave-55105/home/51071487",
-      "credit": "Redfin / NorthstarMLS #7101001; Coldwell Banker Realty"
-    }
-  },
-  {
     "id": "thomas",
     "address": "2740 Thomas Avenue S",
     "city": "Minneapolis",
