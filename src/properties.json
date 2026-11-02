@@ -842,12 +842,12 @@
     "id": "birch-bluff",
     "address": "55 Birch Bluff Road",
     "city": "Tonka Bay",
-    "price": 465000,
+    "price": 793200,
     "status": "Sold reference",
     "style": "Timber-frame",
     "reaction": "New find",
     "description": "Handcrafted timber frame, exposed posts and braces, wood ceilings and tall windows overlooking the trees.",
-    "context": "Sold April 21, 2017 for $465,000. 4 bedrooms, 2 baths on a reported 1.39 acres. Zillow has 23 listing photos, including the timber-frame interiors.",
+    "context": "Zestimate: $793,200 as of November 1, 2026. Last sold April 21, 2017 for $465,000. 4 bedrooms, 2 baths on a reported 1.39 acres. Zillow has 23 listing photos, including the timber-frame interiors.",
     "url": "https://www.zillow.com/homedetails/55-Birch-Bluff-Rd-Tonka-Bay-MN-55331/1953685_zpid/",
     "year": 1984,
     "sqft": 2394,
@@ -860,7 +860,8 @@
       "sourceUrl": "https://nathanchaika.com/listings/my-sold-listings?page=3",
       "credit": "Nathan Chaika, BHGRE All Seasons / NorthstarMLS"
     },
-    "matchedAddress": "55 BIRCH BLUFF RD, EXCELSIOR, MN, 55331"
+    "matchedAddress": "55 BIRCH BLUFF RD, EXCELSIOR, MN, 55331",
+    "priceLabel": "Zestimate"
   },
   {
     "id": "brown",

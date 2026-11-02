@@ -24,3 +24,5 @@
 .detail-check{align-items:flex-start}.detail-check .check{flex-shrink:0}.detail-check small.criterion-evidence{font-size:11px;line-height:1.5;color:var(--muted);max-width:300px}.criterion-evidence a{text-underline-offset:2px}
 
 .photo-thumbnails{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin-top:10px}.photo-thumbnails button{padding:3px;border:2px solid transparent;border-radius:5px;min-width:0}.photo-thumbnails button[aria-pressed="true"]{border-color:var(--green)}.photo-thumbnails button:hover{background:#eaf0e7}.photo-thumbnails img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:2px}
+
+.card-bottom strong small{display:block;margin-top:3px;font-size:9px;font-weight:400;color:var(--muted)}

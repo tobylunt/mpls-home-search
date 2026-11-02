@@ -1048,11 +1048,21 @@
       ]
     },
     "status": "Sold reference",
-    "price": 465000,
+    "price": 793200,
     "liveBrowserVerified": true,
     "galleryCount": 23,
     "interiorPhotoUrl": "https://photos.zillowstatic.com/fp/3d6d07333c32c6a6737e957f3c8916a0-uncropped_scaled_within_1344_1008.jpg",
-    "interiorVisuallyInspected": true
+    "interiorVisuallyInspected": true,
+    "priceLabel": "Zestimate",
+    "priceUpdate": {
+      "updatedAt": "2026-11-01",
+      "providedBy": "user",
+      "value": 793200,
+      "basis": "Zestimate",
+      "sourceUrl": "https://www.zillow.com/homedetails/55-Birch-Bluff-Rd-Tonka-Bay-MN-55331/1953685_zpid/",
+      "previousDisplayedSalePrice": 465000,
+      "note": "User requested using this Zestimate in the guide. No new independent valuation check; historical sale and property verification retained."
+    }
   },
   {
     "id": "brown",
