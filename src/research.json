@@ -1428,5 +1428,74 @@
       "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
       "checkedOn": "2026-11-02"
     }
+  },
+  "colvin1808": {
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Wooded residential setting, but street and airport noise need checking in person.",
+      "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+      "checkedOn": "2026-11-02"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "1955 Robert Cerny design; original listing and Larry Millett’s Saint Paul midcentury inventory corroborate the attribution.",
+      "sourceUrl": "https://listing.millcityteam.com/bt/1808_Colvin_Ave.html",
+      "checkedOn": "2026-11-02"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "2020 photographs show extensive original wood paneling, cabinetry, shelving, beams, brick hearth and stone flooring.",
+      "sourceUrl": "https://listing.millcityteam.com/bt/1808_Colvin_Ave.html",
+      "checkedOn": "2026-11-02"
+    },
+    "setting": {
+      "verdict": "yes",
+      "detail": "0.84-acre wooded lot; large windows and sunroom face mature trees. Verified in historical listing and photos.",
+      "sourceUrl": "https://listing.millcityteam.com/bt/1808_Colvin_Ave.html",
+      "checkedOn": "2026-11-02"
+    },
+    "library": {
+      "verdict": "yes",
+      "detail": "Separate paneled reading room with built-in bookshelves, plus a second study with an integrated desk and shelving. Both rooms verified in 2020 listing photographs.",
+      "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+      "checkedOn": "2026-11-02"
+    },
+    "gardens": {
+      "verdict": "yes",
+      "detail": "Original listing documents fruit trees on the wooded grounds; current condition has not been verified.",
+      "sourceUrl": "https://listing.millcityteam.com/bt/1808_Colvin_Ave.html",
+      "checkedOn": "2026-11-02"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov 2 for Wed Nov 4, 2026: arrive 11 a.m., 16–26 minutes via Snelling Ave S and I-94 W (9.0 miles); depart 2 p.m., 16–26 minutes via I-94 E and Snelling Ave (8.9 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1808+Colvin+Avenue%2C+Saint+Paul%2C+MN+55116&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-02",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1808+Colvin+Avenue%2C+Saint+Paul%2C+MN+55116&travelmode=driving"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Highland Park, Saint Paul; outside southwest Minneapolis.",
+      "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+      "checkedOn": "2026-11-02"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal or off-grid system verified. Heated floors alone do not establish renewable energy.",
+      "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+      "checkedOn": "2026-11-02"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No usable private or shared water access verified.",
+      "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+      "checkedOn": "2026-11-02"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "No dedicated workshop verified in the historical listing or selected photographs.",
+      "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+      "checkedOn": "2026-11-02"
+    }
   }
 }

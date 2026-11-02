@@ -1248,5 +1248,62 @@
         "caption": "Garage workbench and open floor area"
       }
     ]
+  },
+  {
+    "id": "colvin1808",
+    "address": "1808 Colvin Avenue",
+    "city": "Saint Paul",
+    "price": 1107600,
+    "priceLabel": "Trulia estimate · Nov 2, 2026",
+    "status": "Sold reference",
+    "style": "Robert Cerny midcentury",
+    "reaction": "Loved · budget stretch",
+    "description": "Highland Park. Robert Cerny’s 1955 design on 0.84 wooded acre. Wood-beamed ceilings, a full-height brick hearth, glass-lined sunroom, a paneled reading room and a separate study with built-in desk and shelving.",
+    "context": "Off market. Last sold for $850,000 in December 2020; displayed value is an automated estimate. Budget exception requested. Four bedrooms, four baths; 3,498 sq ft. Photos are from the 2020 listing. Off-peak to McKnight: 16–26 minutes each way.",
+    "url": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+    "year": 1955,
+    "sqft": 3498,
+    "lat": 44.9068573,
+    "lng": -93.1769384,
+    "locationSource": "Google Maps exact-address place pin · Nov 2, 2026",
+    "verifiedOn": "2026-11-02",
+    "photo": {
+      "src": "/photos/colvin-cerny-exterior.jpg",
+      "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+      "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+      "caption": "Street exterior with low roofline and mature trees. 2020 listing photo."
+    },
+    "gallery": [
+      {
+        "src": "/photos/colvin-cerny-exterior.jpg",
+        "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Street exterior with low roofline and mature trees. 2020 listing photo."
+      },
+      {
+        "src": "/photos/colvin-cerny-living.jpg",
+        "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Wood-beamed living room with full-height brick hearth and forest-facing glass. 2020 listing photo."
+      },
+      {
+        "src": "/photos/colvin-cerny-reading-room.jpg",
+        "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Separate wood-paneled reading room with built-in bookshelves and cupboards. 2020 listing photo."
+      },
+      {
+        "src": "/photos/colvin-cerny-sunroom.jpg",
+        "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Glass-lined sunroom with wood walls and patterned stone floor. 2020 listing photo."
+      },
+      {
+        "src": "/photos/colvin-cerny-study.jpg",
+        "sourceUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Separate study with long built-in desk, shelves, drawers and task lighting. 2020 listing photo."
+      }
+    ]
   }
 ]

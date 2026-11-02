@@ -2267,5 +2267,107 @@
       "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1755+Eleanor+Avenue%2C+Saint+Paul%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
       "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1755+Eleanor+Avenue%2C+Saint+Paul%2C+MN&travelmode=driving"
     }
+  },
+  {
+    "id": "colvin1808",
+    "verified": true,
+    "url": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+    "sourceAddressText": "1808 Colvin Avenue, Saint Paul, MN 55116",
+    "verifiedAt": "2026-11-02",
+    "mls": "5627372",
+    "status": "Sold reference / off market",
+    "price": 1107600,
+    "priceLabel": "Trulia estimate · Nov 2, 2026",
+    "lastSoldPrice": 850000,
+    "lastSoldDate": "2020-12-28",
+    "budgetException": "User explicitly requested adding this property despite its estimate exceeding $1M.",
+    "evidence": "Exact-address Trulia home record and original Mill City Team listing tour; fresh Trulia estimate fetched Nov 2, 2026. Selected five 2020 listing photos individually inspected by research agent and parent. Robert Cerny attribution corroborated by Larry Millett inventory.",
+    "photoUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/232be7e32dd42bc0f1c5be6206842166-full.jpg",
+    "localPhoto": "public/photos/colvin-cerny-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+    "gallery": [
+      {
+        "galleryIndexZeroBased": 0,
+        "sourceImageUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/232be7e32dd42bc0f1c5be6206842166-full.jpg",
+        "localPath": "/private/tmp/highland-modern-20261102/colvin-trulia-00.jpg",
+        "sourcePageUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Street exterior with low roofline and mature trees.",
+        "visuallyInspected": true,
+        "historicalPhotoDate": "2020 listing",
+        "sha256": "d613ee6718f8353f8f18216e7d97b1774c767da007ae9c6a9b858e99dd9646fb",
+        "localPhoto": "public/photos/colvin-cerny-exterior.jpg"
+      },
+      {
+        "galleryIndexZeroBased": 8,
+        "sourceImageUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/d065093a4c71412b18ae31a5a63ba6af-full.jpg",
+        "localPath": "/private/tmp/highland-modern-20261102/colvin-trulia-08.jpg",
+        "sourcePageUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Wood-beamed living room with full-height brick hearth and forest-facing glass.",
+        "visuallyInspected": true,
+        "historicalPhotoDate": "2020 listing",
+        "sha256": "5ef104bde805aead786d79e07f48ee28b2adc742875f52cb54f7ac87330fa7bf",
+        "localPhoto": "public/photos/colvin-cerny-living.jpg"
+      },
+      {
+        "galleryIndexZeroBased": 14,
+        "sourceImageUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/1dc44bd0a1c800457d034b095bebe768-full.jpg",
+        "localPath": "/private/tmp/highland-modern-20261102/colvin-trulia-14.jpg",
+        "sourcePageUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Separate wood-paneled reading room with built-in bookshelves and cupboards.",
+        "visuallyInspected": true,
+        "historicalPhotoDate": "2020 listing",
+        "sha256": "5e2d0e6e04b549518d6e9981bc316c7265865c4fcf060a095ed7da6433cded80",
+        "localPhoto": "public/photos/colvin-cerny-reading-room.jpg"
+      },
+      {
+        "galleryIndexZeroBased": 51,
+        "sourceImageUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/82d899db7e3b68db7266c1f7a929c8a0-full.jpg",
+        "localPath": "/private/tmp/highland-modern-20261102/colvin-trulia-51.jpg",
+        "sourcePageUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Glass-lined sunroom with wood walls and patterned stone floor.",
+        "visuallyInspected": true,
+        "historicalPhotoDate": "2020 listing",
+        "sha256": "1e59e303e6504c5bbae357d9b07bfbde421ce3f190a523d647c47e3ae0b9185c",
+        "localPhoto": "public/photos/colvin-cerny-sunroom.jpg"
+      },
+      {
+        "galleryIndexZeroBased": 63,
+        "sourceImageUrl": "https://www.trulia.com/pictures/thumbs_5/zillowstatic/fp/37f951b2aee949d7106284eebf75f1a3-full.jpg",
+        "localPath": "/private/tmp/highland-modern-20261102/colvin-trulia-63.jpg",
+        "sourcePageUrl": "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178",
+        "credit": "Mill City Team Photography / Quinby & Webb listing, via Trulia",
+        "caption": "Separate study with long built-in desk, shelves, drawers and task lighting.",
+        "visuallyInspected": true,
+        "historicalPhotoDate": "2020 listing",
+        "sha256": "15389b57d77ee6dc65dfaa1405e0dda5b3aab6f751cdbc16ff6fbad8eadb5431",
+        "localPhoto": "public/photos/colvin-cerny-study.jpg"
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.zillow.com/homedetails/1808-Colvin-Ave-Saint-Paul-MN-55116/89058178_zpid/",
+      "https://www.realtor.com/realestateandhomes-detail/1808-Colvin-Ave_Saint-Paul_MN_55116_M85051-87900",
+      "https://listing.millcityteam.com/bt/1808_Colvin_Ave.html",
+      "https://homesmsp.com/2020/09/pristine-original-condition-mid-century-modern-designed-by-robert-cerny-incredible-built-in-storage.html",
+      "https://www.larrymillett.com/_files/ugd/7b841a_2176853f8e2d4ca2b5c52597b067c904.pdf",
+      "https://www.startribune.com/well-preserved-ultimate-mad-men-house-in-st-paul-on-market-for-925k/572772271",
+      "https://www.trulia.com/home/1808-colvin-ave-saint-paul-mn-55116-89058178"
+    ],
+    "commute": {
+      "checkedOn": "2026-11-02",
+      "scenario": "Google Maps typical driving ranges for Wed Nov 4, 2026: arrive 11 a.m. at McKnight; depart 2 p.m.",
+      "inboundMinutes": "16–26",
+      "returnMinutes": "16–26",
+      "inboundMiles": 9.0,
+      "returnMiles": 8.9,
+      "inboundRoute": "Snelling Ave S and I-94 W",
+      "returnRoute": "I-94 E and Snelling Ave",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1808+Colvin+Avenue%2C+Saint+Paul%2C+MN+55116&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1808+Colvin+Avenue%2C+Saint+Paul%2C+MN+55116&travelmode=driving"
+    }
   }
 ]
