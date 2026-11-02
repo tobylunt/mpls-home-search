@@ -1043,6 +1043,7 @@
   {
     "id": "thomas",
     "address": "2740 Thomas Avenue S",
+    "shortlisted": true,
     "city": "Minneapolis",
     "price": 899000,
     "status": "Active",
