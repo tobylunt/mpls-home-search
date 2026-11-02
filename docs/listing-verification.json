@@ -2066,5 +2066,206 @@
       "checkedOn": "2026-11-01",
       "scenario": "Wednesday November 4, 2026; arrive 11 a.m. at McKnight, depart 2 p.m.; Google Maps typical driving ranges inspected in the browser."
     }
+  },
+  {
+    "id": "summit1732",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095443_1.jpg",
+    "localPhoto": "public/photos/summit-linhoff-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "NorthstarMLS #7095443 / Coldwell Banker Realty – Southwest Regional",
+    "sourceAddressText": "1732 Summit Avenue, Saint Paul, MN",
+    "evidence": "All photoURLs occur in the photosarray belonging to this exact address and MLS in the live listing page.38photos downloaded and contact-sheet inspected; selected images individually inspected at full returned resolution.",
+    "verifiedAt": "2026-11-02",
+    "mls": "7095443",
+    "status": "Active",
+    "price": 789900,
+    "gallery": [
+      {
+        "localPhoto": "public/photos/summit-linhoff-exterior.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095443_1.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+        "caption": "Street exterior and wraparound porch",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/summit-linhoff-dining.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095443_8.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+        "caption": "Oak-coffered dining room and leaded-glass windows",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/summit-linhoff-buffet.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095443_11.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+        "caption": "Carved buffet and glass-front cabinetry",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/summit-linhoff-pantry.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095443_17.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+        "caption": "Pantry cabinetry",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/summit-linhoff-living.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7095443_3.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+        "caption": "Living room fireplace and built-in bookcases",
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.compass.com/homedetails/1732-Summit-Ave-St-Paul-MN-55105/ECPG5_pid/"
+    ],
+    "commute": {
+      "checkedOn": "2026-11-02",
+      "scenario": "Google Maps typical driving ranges for Wed Nov4,2026: arrive11a.m. at McKnight; depart2p.m.",
+      "inboundMinutes": "12–18",
+      "returnMinutes": "12–16",
+      "inboundMiles": 6.5,
+      "returnMiles": 6.0,
+      "inboundRoute": "I-94 W",
+      "returnRoute": "I-94 E",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1732+Summit+Avenue%2C+Saint+Paul%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1732+Summit+Avenue%2C+Saint+Paul%2C+MN&travelmode=driving"
+    }
+  },
+  {
+    "id": "berkeley1663",
+    "verified": true,
+    "url": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+    "photoUrl": "https://cdn.repliers.io/northstar/IMG-7155110_7b7c30202f3c80daf917eee445d8161034f04f026cf47ce44cbb112befeed008.jpg",
+    "localPhoto": "public/photos/berkeley-craftsman-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "NorthstarMLS #7155110 / Coldwell Banker Realty",
+    "sourceAddressText": "1663 Berkeley Avenue, Saint Paul, MN",
+    "evidence": "All photoURLs occur in the photosarray belonging to this exact address and MLS in the live listing page.38photos downloaded and contact-sheet inspected; selected images individually inspected at full returned resolution.",
+    "verifiedAt": "2026-11-02",
+    "mls": "7155110",
+    "status": "Active",
+    "price": 624900,
+    "gallery": [
+      {
+        "localPhoto": "public/photos/berkeley-craftsman-exterior.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7155110_7b7c30202f3c80daf917eee445d8161034f04f026cf47ce44cbb112befeed008.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+        "caption": "Street exterior",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/berkeley-craftsman-living.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7155110_579abaebc37bb7c65e7cdcdc967c38a1d6063c4edecb050b94e0fae43287d660.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+        "caption": "Unfurnished living room with beams and fireplace",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/berkeley-craftsman-dining.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7155110_860f3c9c95350d06888b695c502a1f32af8ea4030f323fb1d478d5c2248cb245.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+        "caption": "Unfurnished dining room and original buffet",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/berkeley-craftsman-sunroom.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7155110_3a10d0bf3563bce917aa81597205080e824e466e003a0194f1b1d465012bf9c6.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+        "caption": "Sunroom with patterned metal ceiling",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/berkeley-craftsman-garage.jpg",
+        "photoUrl": "https://cdn.repliers.io/northstar/IMG-7155110_88db42fd337df40ef0fce6c2b3d8544f6ef420f746fad1e1c76fab2281e58070.jpg",
+        "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+        "caption": "Garage workbench and open floor area",
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.coldwellbankerhomes.com/mn/saint-paul/1663-berkeley-ave/pid_74419279/"
+    ],
+    "commute": {
+      "checkedOn": "2026-11-02",
+      "scenario": "Google Maps typical driving ranges for Wed Nov4,2026: arrive11a.m. at McKnight; depart2p.m.",
+      "inboundMinutes": "12–20",
+      "returnMinutes": "12–18",
+      "inboundMiles": 6.9,
+      "returnMiles": 6.8,
+      "inboundRoute": "I-94 W",
+      "returnRoute": "I-94 E",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1663+Berkeley+Avenue%2C+Saint+Paul%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1663+Berkeley+Avenue%2C+Saint+Paul%2C+MN&travelmode=driving"
+    }
+  },
+  {
+    "id": "eleanor1755",
+    "verified": true,
+    "url": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+    "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/large/Ysc7uF8cZAar75D_Plr1gg.jpg",
+    "localPhoto": "public/photos/eleanor-spanish-exterior.jpg",
+    "visuallyInspected": true,
+    "photoCredit": "Spacecrafting / Coldwell Banker Realty listing tour",
+    "sourceAddressText": "1755 Eleanor Avenue, Saint Paul, MN",
+    "evidence": "Exact-address Zillow listing links this Spacecrafting tour. Tour title identifies 1755 Eleanor Avenue Saint Paul MN55116; all59largeimageURLs came from that tour. Selected five originals were individually visually inspected. Live Coldwell Banker page fetched Nov2 identifies the same MLS and price, IsActive true and IsComingSoon false, superseding cached coming-soon pages.",
+    "verifiedAt": "2026-11-02",
+    "mls": "7165502",
+    "status": "Active",
+    "price": 675000,
+    "gallery": [
+      {
+        "localPhoto": "public/photos/eleanor-spanish-exterior.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/large/Ysc7uF8cZAar75D_Plr1gg.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
+        "caption": "Street exterior",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/eleanor-spanish-stair.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/large/zxhBxRuL7ihBTMiHXeN9LQ.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
+        "caption": "Iron stair railing, archway and living room",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/eleanor-spanish-entry.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/large/XfhR-eydQSpxE01EWWKszg.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
+        "caption": "Wood-paneled entry and stained-glass door",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/eleanor-spanish-bath.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/large/M7kbxZHXjC7-5FFVE594Hg.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
+        "caption": "Original tiled bathroom",
+        "visuallyInspected": true
+      },
+      {
+        "localPhoto": "public/photos/eleanor-spanish-kitchen.jpg",
+        "photoUrl": "https://s3.amazonaws.com/photos.spacecrafting.com/large/ObaihPPAyIhyNvgKjit_iA.jpg",
+        "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
+        "caption": "Kitchen and pantry passage",
+        "visuallyInspected": true
+      }
+    ],
+    "corroboratingUrls": [
+      "https://www.zillow.com/homedetails/1755-Eleanor-Ave-Saint-Paul-MN-55116/2063435_zpid/"
+    ],
+    "commute": {
+      "checkedOn": "2026-11-02",
+      "scenario": "Google Maps typical driving ranges for Wed Nov4,2026: arrive11a.m. at McKnight; depart2p.m.",
+      "inboundMinutes": "14–22",
+      "returnMinutes": "14–22",
+      "inboundMiles": 7.5,
+      "returnMiles": 8.0,
+      "inboundRoute": "I-94 W",
+      "returnRoute": "I-94 E and Snelling Ave",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1755+Eleanor+Avenue%2C+Saint+Paul%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1755+Eleanor+Avenue%2C+Saint+Paul%2C+MN&travelmode=driving"
+    }
   }
 ]

@@ -1221,5 +1221,212 @@
       "sourceUrl": "https://www.redfin.com/MN/Minnetonka/15300-Wild-Wings-55345/home/50173639",
       "checkedOn": "2026-11-01"
     }
+  },
+  "summit1732": {
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Summit Avenue frontage; check street noise in person.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Macalester-Groveland. Oak-coffered dining room, ornate leaded glass, carved buffet, intact pantry cabinetry and a wraparound porch. Listing attributes the design to P.J. Linhoff.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Original oak coffers, carved cabinetry and leaded glass are visible in the listing photographs.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    },
+    "setting": {
+      "verdict": "unknown",
+      "detail": "Quarter-acre corner lot with mature trees and a wraparound porch; privacy needs an on-site check.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov2 for Wed Nov4,2026: arrive11a.m., 12–18 minutes via I-94 W (6.5 miles); depart2p.m., 12–16 minutes via I-94 E (6.0 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1732+Summit+Avenue%2C+Saint+Paul%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-02",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1732+Summit+Avenue%2C+Saint+Paul%2C+MN&travelmode=driving"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Saint Paul, outside southwest Minneapolis.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal or off-grid system verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No usable private or shared water access verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Mature trees and lawn; established gardens not verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Detached two-car garage; no dedicated workshop verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    },
+    "library": {
+      "verdict": "unknown",
+      "detail": "Living-room bookcases, but no separate study or library verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1732-summit-avenue/mls-7095443",
+      "checkedOn": "2026-11-02"
+    }
+  },
+  "berkeley1663": {
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise has not been checked in person.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Macalester-Groveland. Dark wood beams continue through the living and dining rooms, with a large glazed buffet and a patterned-metal-ceiling sunroom beside the fireplace.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Substantial dark-wood beams, trim and buffet; selected interior photos show the unfurnished rooms.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    },
+    "setting": {
+      "verdict": "unknown",
+      "detail": "Urban lot with front plantings, mature trees and a rear patio; privacy not established.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov2 for Wed Nov4,2026: arrive11a.m., 12–20 minutes via I-94 W (6.9 miles); depart2p.m., 12–18 minutes via I-94 E (6.8 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1663+Berkeley+Avenue%2C+Saint+Paul%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-02",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1663+Berkeley+Avenue%2C+Saint+Paul%2C+MN&travelmode=driving"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Saint Paul, outside southwest Minneapolis.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal or off-grid system verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No usable private or shared water access verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Front plantings and rear patio; a substantial garden is not verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Garage photo shows a workbench and storage. Power, ventilation and year-round workshop suitability need checking.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    },
+    "library": {
+      "verdict": "unknown",
+      "detail": "Sunroom could be a reading space; no dedicated library verified.",
+      "sourceUrl": "https://pedersonrealty.com/homes-for-sale/mn/saint-paul/1663-berkeley-avenue/mls-7155110",
+      "checkedOn": "2026-11-02"
+    }
+  },
+  "eleanor1755": {
+    "quiet": {
+      "verdict": "unknown",
+      "detail": "Street noise has not been checked in person.",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+      "checkedOn": "2026-11-02"
+    },
+    "architecture": {
+      "verdict": "yes",
+      "detail": "Highland Park. Spanish-influenced 1930 house with a stained-glass entry, iron stair railing, stone fireplace and original tiled bathroom. Separate shed has electricity.",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+      "checkedOn": "2026-11-02"
+    },
+    "materials": {
+      "verdict": "yes",
+      "detail": "Wood entry, iron railing, original hardware and vintage tile remain visible. Kitchen and carpeted rooms have dated finishes.",
+      "sourceUrl": "https://tours.spacecrafting.com/n-n1ywv6",
+      "checkedOn": "2026-11-02"
+    },
+    "setting": {
+      "verdict": "unknown",
+      "detail": "0.169-acre corner lot with mature plantings; privacy not established.",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+      "checkedOn": "2026-11-02"
+    },
+    "commute": {
+      "verdict": "yes",
+      "detail": "Google Maps checked Nov2 for Wed Nov4,2026: arrive11a.m., 14–22 minutes via I-94 W (7.5 miles); depart2p.m., 14–22 minutes via I-94 E and Snelling Ave (8.0 miles). Traffic-dependent estimates.",
+      "sourceUrl": "https://www.google.com/maps/dir/?api=1&origin=1755+Eleanor+Avenue%2C+Saint+Paul%2C+MN&destination=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&travelmode=driving",
+      "checkedOn": "2026-11-02",
+      "returnUrl": "https://www.google.com/maps/dir/?api=1&origin=921+Washington+Ave+S%2C+Minneapolis%2C+MN+55415&destination=1755+Eleanor+Avenue%2C+Saint+Paul%2C+MN&travelmode=driving"
+    },
+    "southwest": {
+      "verdict": "no",
+      "detail": "Saint Paul, outside southwest Minneapolis.",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+      "checkedOn": "2026-11-02"
+    },
+    "renewables": {
+      "verdict": "unknown",
+      "detail": "No solar, geothermal or off-grid system verified.",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+      "checkedOn": "2026-11-02"
+    },
+    "water": {
+      "verdict": "unknown",
+      "detail": "No usable private or shared water access verified.",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+      "checkedOn": "2026-11-02"
+    },
+    "gardens": {
+      "verdict": "unknown",
+      "detail": "Listing documents grapevines and mature plantings; garden extent and condition need checking.",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+      "checkedOn": "2026-11-02"
+    },
+    "workshop": {
+      "verdict": "unknown",
+      "detail": "Separate shed has electricity per listing; usable area, heating and workshop fit are unverified.",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+      "checkedOn": "2026-11-02"
+    },
+    "library": {
+      "verdict": "unknown",
+      "detail": "No dedicated study or library verified.",
+      "sourceUrl": "https://www.coldwellbankerhomes.com/mn/saint-paul/1755-eleanor-ave/pid_74538605/",
+      "checkedOn": "2026-11-02"
+    }
   }
 }
