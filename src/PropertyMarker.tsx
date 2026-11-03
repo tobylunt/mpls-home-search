@@ -7,12 +7,13 @@ type Props = {
  property:Property;
  shortlisted:boolean;
  highlighted:boolean;
+ dimmed:boolean;
  onHover:(id:string|null)=>void;
  onFocus:(id:string|null)=>void;
  onOpen:(property:Property)=>void;
 };
 
-export function PropertyMarker({property:p,shortlisted,highlighted,onHover,onFocus,onOpen}:Props){
+export function PropertyMarker({property:p,shortlisted,highlighted,dimmed,onHover,onFocus,onOpen}:Props){
  const marker=useRef<L.Marker>(null);
  const position=useMemo(()=>[Number(p.lat),Number(p.lng)] as [number,number],[p.lat,p.lng]);
  const icon=useMemo(()=>L.divIcon({
@@ -39,6 +40,7 @@ export function PropertyMarker({property:p,shortlisted,highlighted,onHover,onFoc
  },[icon,onFocus,p.id]);
 
  return <Marker ref={marker} position={position} icon={icon}
+  opacity={dimmed?0.18:1}
   zIndexOffset={highlighted?1000000:0}
   eventHandlers={{
    // Movement, rather than mouseover, avoids re-highlighting a stationary

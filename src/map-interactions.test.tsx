@@ -48,6 +48,7 @@ describe('map tag interactions',()=>{
   await mouse(target,'mousemove');
   expect(Number(target.style.zIndex)).toBeGreaterThan(Math.max(...Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).filter(el=>el!==target).map(el=>Number(el.style.zIndex))));
   expect(target.classList.contains('is-highlighted')).toBe(true);
+  expect(Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).every(el=>(el.style.opacity||'1')==='1')).toBe(true);
   expect(host.querySelector('[role=tooltip]')?.textContent).toBe('7823 Alden Way NE');
   await mouse(target,'mouseout');
   expect(target.style.zIndex).toBe(original);
@@ -74,15 +75,25 @@ describe('map tag interactions',()=>{
   await mouse(target,'mousemove');
   expect(host.querySelector('[role=tooltip]')?.textContent).toBe('7823 Alden Way NE');
  });
- it('uses the same raise-and-reset behavior for the sidebar',async()=>{
+ it('spotlights a sidebar home and restores other pins on exit or opening details',async()=>{
   const target=pin('$445k');
   const original=target.style.zIndex;
   const card=Array.from(host.querySelectorAll('article')).find(el=>el.querySelector('h3')?.textContent==='7823 Alden Way NE')!;
   await mouse(card,'mouseover');
   await mouse(card,'mousemove');
   expect(Number(target.style.zIndex)).toBeGreaterThan(Number(original));
+  const others=Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).filter(el=>el!==target);
+  expect(target.style.opacity||'1').toBe('1');
+  expect(others.every(el=>Number(el.style.opacity)<0.25)).toBe(true);
   await mouse(card,'mouseout');
   expect(target.style.zIndex).toBe(original);
+  expect(others.every(el=>(el.style.opacity||'1')==='1')).toBe(true);
+  await mouse(card,'mousemove');
+  await mouse(card.querySelector('.card-main')!,'click');
+  expect(others.every(el=>(el.style.opacity||'1')==='1')).toBe(true);
+  await mouse(host.querySelector('[aria-label="Close property details"]')!,'click');
+  expect(others.every(el=>(el.style.opacity||'1')==='1')).toBe(true);
+  expect(target.classList.contains('is-highlighted')).toBe(false);
  });
  it('shows one shortlist symbol for former top-tier homes',()=>{
   expect(host.querySelector('.map-key')?.textContent).toContain('Shortlisted');
