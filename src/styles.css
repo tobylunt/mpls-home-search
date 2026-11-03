@@ -14,6 +14,7 @@
 @media(max-width:760px){.property-photo{aspect-ratio:8/5}.property-rail{max-height:none}.cards{overflow:visible}}
 .basemap-notice{position:absolute;z-index:500;top:65px;right:15px;padding:7px 10px;background:#fffdf7;border-radius:4px;font-size:10px;color:#7a684a}
 .pin-body{transform-origin:center bottom;transition:transform .15s ease,background-color .15s ease,box-shadow .15s ease}
+.home-pin{transition:opacity .18s ease}
 .home-pin.is-hidden{visibility:hidden;pointer-events:none}
 .home-pin.is-highlighted .pin-body{transform:translateY(-2px) scale(1.12);box-shadow:0 0 0 3px #31554335,0 5px 14px #20372845}
 .property-card.shortlisted{box-shadow:inset 3px 0 #809982;background:#f3f6ee}

@@ -41,7 +41,7 @@ async function mouse(el:Element,type:string){
 }
 
 describe('map tag interactions',()=>{
- it('isolates a hovered map tag and restores all pins and its stack position on exit',async()=>{
+ it('dims other pins on map hover and restores them and the stack position on exit',async()=>{
   const target=pin('$445k');
   const original=target.style.zIndex;
   await mouse(target,'mouseover');
@@ -50,7 +50,7 @@ describe('map tag interactions',()=>{
   expect(target.classList.contains('is-highlighted')).toBe(true);
   expect(target.style.opacity||'1').toBe('1');
   const others=Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).filter(el=>el!==target);
-  expect(others.every(el=>el.style.opacity==='0'&&el.classList.contains('is-hidden'))).toBe(true);
+  expect(others.every(el=>el.style.opacity==='0.18'&&!el.classList.contains('is-hidden'))).toBe(true);
   expect(host.querySelector('[role=tooltip]')?.textContent).toBe('7823 Alden Way NE');
   await mouse(target,'mouseout');
   expect(target.style.zIndex).toBe(original);
@@ -72,6 +72,7 @@ describe('map tag interactions',()=>{
   expect(host.querySelector('[role=tooltip]')).toBeNull();
   await mouse(host.querySelector('[aria-label="Close property details"]')!,'click');
   expect(document.activeElement).toBe(target);
+  expect(Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).every(el=>(el.style.opacity||'1')==='1')).toBe(true);
   expect(host.querySelector('[role=tooltip]')).toBeNull();
   expect(target.classList.contains('is-highlighted')).toBe(false);
   expect(target.style.zIndex).toBe(original);
