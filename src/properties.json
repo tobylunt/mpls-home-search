@@ -923,6 +923,7 @@
   {
     "id": "benhill",
     "address": "10 Benhill Road",
+    "shortlisted": true,
     "city": "Saint Paul",
     "price": 500000,
     "status": "Active",

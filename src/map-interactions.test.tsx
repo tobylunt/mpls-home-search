@@ -41,18 +41,21 @@ async function mouse(el:Element,type:string){
 }
 
 describe('map tag interactions',()=>{
- it('raises a map tag on pointer movement and restores its exact stack position on exit',async()=>{
+ it('isolates a hovered map tag and restores all pins and its stack position on exit',async()=>{
   const target=pin('$445k');
   const original=target.style.zIndex;
   await mouse(target,'mouseover');
   await mouse(target,'mousemove');
   expect(Number(target.style.zIndex)).toBeGreaterThan(Math.max(...Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).filter(el=>el!==target).map(el=>Number(el.style.zIndex))));
   expect(target.classList.contains('is-highlighted')).toBe(true);
-  expect(Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).every(el=>(el.style.opacity||'1')==='1')).toBe(true);
+  expect(target.style.opacity||'1').toBe('1');
+  const others=Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).filter(el=>el!==target);
+  expect(others.every(el=>el.style.opacity==='0'&&el.classList.contains('is-hidden'))).toBe(true);
   expect(host.querySelector('[role=tooltip]')?.textContent).toBe('7823 Alden Way NE');
   await mouse(target,'mouseout');
   expect(target.style.zIndex).toBe(original);
   expect(target.classList.contains('is-highlighted')).toBe(false);
+  expect(others.every(el=>el.style.opacity==='1'&&!el.classList.contains('is-hidden'))).toBe(true);
   expect(host.querySelector('[role=tooltip]')).toBeNull();
  });
  it('clears the tooltip and highlight on click, including after dialog focus returns',async()=>{
@@ -72,6 +75,7 @@ describe('map tag interactions',()=>{
   expect(host.querySelector('[role=tooltip]')).toBeNull();
   expect(target.classList.contains('is-highlighted')).toBe(false);
   expect(target.style.zIndex).toBe(original);
+  expect(host.querySelector('.home-pin.is-hidden')).toBeNull();
   await mouse(target,'mousemove');
   expect(host.querySelector('[role=tooltip]')?.textContent).toBe('7823 Alden Way NE');
  });
@@ -84,16 +88,18 @@ describe('map tag interactions',()=>{
   expect(Number(target.style.zIndex)).toBeGreaterThan(Number(original));
   const others=Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).filter(el=>el!==target);
   expect(target.style.opacity||'1').toBe('1');
-  expect(others.every(el=>Number(el.style.opacity)<0.25)).toBe(true);
+  expect(others.every(el=>el.style.opacity==='0'&&el.classList.contains('is-hidden'))).toBe(true);
   await mouse(card,'mouseout');
   expect(target.style.zIndex).toBe(original);
   expect(others.every(el=>(el.style.opacity||'1')==='1')).toBe(true);
+  expect(host.querySelector('.home-pin.is-hidden')).toBeNull();
   await mouse(card,'mousemove');
   await mouse(card.querySelector('.card-main')!,'click');
   expect(others.every(el=>(el.style.opacity||'1')==='1')).toBe(true);
   await mouse(host.querySelector('[aria-label="Close property details"]')!,'click');
   expect(others.every(el=>(el.style.opacity||'1')==='1')).toBe(true);
   expect(target.classList.contains('is-highlighted')).toBe(false);
+  expect(host.querySelector('.home-pin.is-hidden')).toBeNull();
  });
  it('shows one shortlist symbol for former top-tier homes',()=>{
   expect(host.querySelector('.map-key')?.textContent).toContain('Shortlisted');
