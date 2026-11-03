@@ -1,7 +1,8 @@
 import { useEffect, useMemo, useRef } from 'react';
-import { Marker, Tooltip } from 'react-leaflet';
+import { Marker, Tooltip, useMap } from 'react-leaflet';
 import L from 'leaflet';
 import type { Property } from './model';
+import { assetUrl } from './assets';
 
 type Props = {
  property:Property;
@@ -9,13 +10,15 @@ type Props = {
  highlighted:boolean;
  hidden:boolean;
  dimmed:boolean;
+ previewPhoto:boolean;
  onHover:(id:string|null)=>void;
  onFocus:(id:string|null)=>void;
  onOpen:(property:Property)=>void;
 };
 
-export function PropertyMarker({property:p,shortlisted,highlighted,hidden,dimmed,onHover,onFocus,onOpen}:Props){
+export function PropertyMarker({property:p,shortlisted,highlighted,hidden,dimmed,previewPhoto,onHover,onFocus,onOpen}:Props){
  const marker=useRef<L.Marker>(null);
+ const map=useMap();
  const position=useMemo(()=>[Number(p.lat),Number(p.lng)] as [number,number],[p.lat,p.lng]);
  const icon=useMemo(()=>L.divIcon({
   className:'home-pin',
@@ -41,6 +44,10 @@ export function PropertyMarker({property:p,shortlisted,highlighted,hidden,dimmed
   return()=>{el.removeEventListener('focus',focus);el.removeEventListener('blur',blur)};
  },[icon,onFocus,p.id]);
 
+ const hasPhoto=previewPhoto&&!!p.photo;
+ // Keep the taller preview below pins near the map's top edge.
+ const below=hasPhoto&&map.latLngToContainerPoint(position).y<230;
+
  return <Marker ref={marker} position={position} icon={icon}
   opacity={hidden?0:dimmed?0.18:1}
   zIndexOffset={highlighted?1000000:0}
@@ -53,6 +60,9 @@ export function PropertyMarker({property:p,shortlisted,highlighted,hidden,dimmed
   }}>
   {/* Mount only while highlighted. Permanent disables Leaflet's automatic
       click/focus reopening, including the dialog's restored focus. */}
-  {highlighted&&<Tooltip permanent direction="top" opacity={1}>{p.address}</Tooltip>}
+  {highlighted&&<Tooltip key={`${hasPhoto?'photo':'address'}-${below?'bottom':'top'}`} permanent direction={below?'bottom':'top'} offset={below?[0,34]:[0,0]} opacity={1} className={hasPhoto?'map-photo-tooltip':''}>
+   {hasPhoto&&<img src={assetUrl(p.photo!.src)} alt="" width="240" height="150"/>}
+   <span>{p.address}</span>
+  </Tooltip>}
  </Marker>;
 }

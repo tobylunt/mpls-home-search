@@ -15,6 +15,9 @@
 .basemap-notice{position:absolute;z-index:500;top:65px;right:15px;padding:7px 10px;background:#fffdf7;border-radius:4px;font-size:10px;color:#7a684a}
 .pin-body{transform-origin:center bottom;transition:transform .15s ease,background-color .15s ease,box-shadow .15s ease}
 .home-pin{transition:opacity .18s ease}
+.map-photo-tooltip{width:254px;padding:6px;border-radius:7px;white-space:normal;background:var(--paper);color:var(--ink);box-shadow:0 4px 16px #20372830;font-family:inherit}
+.map-photo-tooltip img{display:block;width:240px;height:150px;object-fit:contain;background:#eceee7;border-radius:4px}
+.map-photo-tooltip span{display:block;padding:8px 3px 2px;font-size:12px;line-height:1.4;font-weight:550}
 .home-pin.is-hidden{visibility:hidden;pointer-events:none}
 .home-pin.is-highlighted .pin-body{transform:translateY(-2px) scale(1.12);box-shadow:0 0 0 3px #31554335,0 5px 14px #20372845}
 .property-card.shortlisted{box-shadow:inset 3px 0 #809982;background:#f3f6ee}

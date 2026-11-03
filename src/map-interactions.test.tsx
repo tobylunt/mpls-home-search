@@ -52,6 +52,8 @@ describe('map tag interactions',()=>{
   const others=Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).filter(el=>el!==target);
   expect(others.every(el=>el.style.opacity==='0.18'&&!el.classList.contains('is-hidden'))).toBe(true);
   expect(host.querySelector('[role=tooltip]')?.textContent).toBe('7823 Alden Way NE');
+  const card=Array.from(host.querySelectorAll('article')).find(el=>el.querySelector('h3')?.textContent==='7823 Alden Way NE')!;
+  expect(host.querySelector('[role=tooltip] img')?.getAttribute('src')).toBe(card.querySelector('img')?.getAttribute('src'));
   await mouse(target,'mouseout');
   expect(target.style.zIndex).toBe(original);
   expect(target.classList.contains('is-highlighted')).toBe(false);
@@ -64,6 +66,7 @@ describe('map tag interactions',()=>{
   // Leaflet can pan to a keyboard-focused marker. Record the resting stack
   // after that pan, so we only measure the temporary hover offset.
   await mouse(target,'mousemove');
+  expect(host.querySelector('[role=tooltip]')?.classList.contains('map-photo-tooltip')).toBe(true);
   await mouse(target,'mouseout');
   const original=target.style.zIndex;
   await mouse(target,'mousemove');
@@ -90,6 +93,7 @@ describe('map tag interactions',()=>{
   const others=Array.from(host.querySelectorAll<HTMLElement>('.home-pin')).filter(el=>el!==target);
   expect(target.style.opacity||'1').toBe('1');
   expect(others.every(el=>el.style.opacity==='0'&&el.classList.contains('is-hidden'))).toBe(true);
+  expect(host.querySelector('[role=tooltip] img')).toBeNull();
   await mouse(card,'mouseout');
   expect(target.style.zIndex).toBe(original);
   expect(others.every(el=>(el.style.opacity||'1')==='1')).toBe(true);
